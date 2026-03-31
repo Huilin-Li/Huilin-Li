@@ -2,7 +2,7 @@
 <html lang="en">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Say Hello from 🌍</title>
+<title>Say Hello to 🌏</title>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
@@ -510,11 +510,6 @@
     <!-- About (brief, top) -->
     <div class="panel">
       <h2>Say Hello To 🌏</h2>
-      <div class="project-text">
-        
-        <br><br>
-        
-      </div>
     </div>
 
 
@@ -530,7 +525,7 @@
         </div>
         <div class="kpi">
           <div class="num" id="kpi-countries">0</div>
-          <div class="label">Countries lit</div>
+          <div class="label">Countries list</div>
         </div>
       </div>
       <div class="small"><span id="last-updated">Loading…</span></div>
@@ -922,7 +917,7 @@
     sayBtn.addEventListener('click', function () {
       if (!selected) return;
       function getFlagEmoji(iso2) {
-        if (!iso2 || iso2.length !== 2) return '🌍';
+        if (!iso2 || iso2.length !== 2) return '🌏';
         var code = iso2.toUpperCase();
         return String.fromCodePoint(
           ...[...code].map(function (c) { return 127397 + c.charCodeAt(); })
