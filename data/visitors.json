@@ -3,6 +3,15 @@
   "updatedAt": "2026-03-30T11:58:13.981Z",
   "maxChangesPerUser": 3,
   "countries": {
+    "CN": {
+      "users": {
+        "Huilin-Li": "2026-03-30T11:57:59Z"
+      },
+      "firstUser": "Huilin-Li",
+      "lastAt": "2026-03-30T11:57:59Z"
+    }
+  },
+  "users": {
     "Huilin-Li": {
       "current": {
         "iso": "CN",
