@@ -1,0 +1,127 @@
+name: Hello World Map
+
+on:
+  issues:
+    types: [opened, labeled, reopened, edited]
+
+jobs:
+  handle-hi:
+    runs-on: ubuntu-latest
+    # Add concurrency control to queue jobs instead of running simultaneously
+    concurrency:
+      group: hello-world-map-updates
+      cancel-in-progress: false
+    if: >
+      (startsWith(github.event.issue.title, 'hello|') || startsWith(github.event.issue.title, 'hi|')) &&
+      !endsWith(github.event.issue.user.login, '[bot]')
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Format issue title
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          npm i node-fetch@2 --silent
+          node scripts/format-issue-title.js
+
+      - name: Ensure data + template exist
+        run: node scripts/ensure-data-template.js
+
+      - name: Update visitors.json and README (v3 schema)
+        env:
+          ACTOR: ${{ github.event.issue.user.login }}
+          TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TIME: ${{ github.event.issue.created_at }}
+        run: |
+          node scripts/update-visitors-and-readme.js
+
+      - name: Build choropleth world map SVG
+        run: |
+          npm i d3-geo xmldom node-fetch@2 --silent
+          node scripts/build-svg-world-map.js
+
+      - name: Commit changes (if any)
+        env:
+          ACTOR: ${{ github.event.issue.user.login }}
+          TITLE: ${{ github.event.issue.title }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s /tmp/changed.flag ]; then
+            # Parse ISO from title like: "🇹🇷 hello|TR - @user says hi"
+            ISO=$(echo "$TITLE" | sed -E 's/^.*hello\|([A-Z]{2}).*/\1/' | tr '[:lower:]' '[:upper:]')
+            
+            # Export ISO so Node can access it
+            export ISO
+            
+            # Compute flag emoji in Node (safe & short)
+            FLAG=$(node -e 'const A=0x1F1E6;const iso=(process.env.ISO||"").toUpperCase();if(/^[A-Z]{2}$/.test(iso)){const f=String.fromCodePoint(A+(iso.charCodeAt(0)-65))+String.fromCodePoint(A+(iso.charCodeAt(1)-65));console.log(f)}')
+            
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+
+            MSG="👋 from ${FLAG:-$ISO} by @${ACTOR}"
+            git commit -m "$MSG"
+            
+            # Retry logic for concurrent pushes
+            MAX_RETRIES=5
+            RETRY_COUNT=0
+            PUSH_SUCCESS=0
+            
+            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+              echo "Attempting push (attempt $((RETRY_COUNT + 1))/$MAX_RETRIES)..."
+              
+              if git push; then
+                echo "Push successful!"
+                PUSH_SUCCESS=1
+                break
+              else
+                echo "Push failed, pulling and rebasing..."
+                RETRY_COUNT=$((RETRY_COUNT + 1))
+                
+                if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                  # Pull with rebase to integrate remote changes
+                  git pull --rebase origin main
+                  
+                  # Wait a bit before retrying (exponential backoff)
+                  WAIT_TIME=$((2 ** RETRY_COUNT))
+                  echo "Waiting ${WAIT_TIME}s before retry..."
+                  sleep $WAIT_TIME
+                fi
+              fi
+            done
+            
+            if [ $PUSH_SUCCESS -eq 0 ]; then
+              echo "Failed to push after $MAX_RETRIES attempts"
+              exit 1
+            fi
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Thank and close
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CHANGED=$(test -s /tmp/changed.flag && echo "yes" || echo "no")
+          if [ "$CHANGED" = "yes" ]; then
+            gh issue comment ${{ github.event.issue.number }} \
+              --body $'Thanks @${{ github.event.issue.user.login }}! Added your hello from **${{ github.event.issue.title }}**. The map & stats are updated. ✨\n\n_Heads-up:_ the README may take up to ~30s to refresh, and the GitHub Pages site up to ~1min due to caching.'
+          else
+            gh issue comment ${{ github.event.issue.number }} \
+              --body "Hey @${{ github.event.issue.user.login }} — your selection didn't change anything (same country as before or limit reached)."
+          fi
+          gh issue close ${{ github.event.issue.number }} --comment "Closed automatically ✅"

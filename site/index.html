@@ -1,0 +1,948 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Say Hello from 🌍</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  :root {
+    --bg: #f6f8fa;
+    --card: #fff;
+    --text: #0f172a;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --link: #0366d6;
+    --success-a: #22c55e;
+    --success-b: #16a34a;
+    --list-row: 32px;
+  }
+
+  html,
+  body {
+    height: 100%
+  }
+
+  body {
+    margin: 0;
+    font: 16px/1.55 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+  }
+
+  /* Layout */
+  .app {
+    display: grid;
+    grid-template-columns: 1fr min(420px, 35vw);
+    gap: 16px;
+    height: 100vh;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+
+  #map {
+    height: 100%;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden
+  }
+
+  .leaflet-container {
+    background: #eaf4f6
+  }
+
+  /* Right panel column */
+  aside {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    font-size: 17px;
+    min-height: 0;
+    max-height: calc(100vh - 32px);
+    overflow-y: auto;
+    /* whole right panel scrolls */
+  }
+
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, .06);
+    padding: 16px;
+    flex-shrink: 0;
+  }
+
+  .panel h2 {
+    margin: 0 0 10px;
+    font-size: 19px
+  }
+
+  .small {
+    color: var(--muted);
+    font-size: 13px
+  }
+
+  .spacer {
+    flex: 0 0 auto;
+  }
+
+  /* Tabs panel grows to fill remaining height */
+  .panel.panel-grow {
+    flex: 0 0 auto;
+    /* <-- key: auto-height, no internal clipping */
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+    /* content defines height */
+  }
+
+  .panel.panel-grow .tabs {
+    flex: 0 0 auto;
+  }
+
+  .panel.panel-grow .tab-content {
+    /* Do NOT force display here; tabs control visibility */
+    flex: 0 0 auto;
+    min-height: 0;
+  }
+
+  .tab-content {
+    display: none;
+  }
+
+  .tab-content.active {
+    display: block
+  }
+
+  /* KPIs + refresh */
+  .kpis {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 10px
+  }
+
+  .kpi {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px;
+    text-align: center
+  }
+
+  .kpi .num {
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 1.1
+  }
+
+  .kpi .label {
+    font-size: 12px;
+    color: var(--muted)
+  }
+
+  .stats-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px
+  }
+
+  .stats-header h2 {
+    margin: 0
+  }
+
+  .stats-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px
+  }
+
+  .refresh-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: 1px solid #d0d7de;
+    background: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .06);
+  }
+
+  .refresh-btn:hover {
+    background: #f6f8fa
+  }
+
+  .refresh-btn[disabled] {
+    opacity: .6;
+    cursor: not-allowed
+  }
+
+  /* Tabs header */
+  .tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid var(--border)
+  }
+
+  .tab-btn {
+    padding: 8px 16px;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--muted);
+    border-bottom: 2px solid transparent;
+    transition: all .2s ease;
+  }
+
+  .tab-btn:hover {
+    color: var(--text)
+  }
+
+  .tab-btn.active {
+    color: var(--text);
+    border-bottom-color: var(--link)
+  }
+
+  /* Lists fill available height; avoid count/scrollbar overlap */
+  .toplist,
+  .peoplelist {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    max-height: none;
+    overflow: visible;
+  }
+
+  .toplist li,
+  .peoplelist li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 6px;
+    border-bottom: 1px dashed var(--border);
+    /* keep row height around --list-row (8+16+8 = 32px) */
+  }
+
+  .toplist li:hover,
+  .peoplelist li:hover {
+    background: #f9fafb
+  }
+
+  .toplist li:last-child,
+  .peoplelist li:last-child {
+    border-bottom: 0
+  }
+
+  /* Flag chips (crisp, retina-ready) */
+  .flagchip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 15px
+  }
+
+  .flagchip-img,
+  .hello-flag img,
+  .tooltip-flag {
+    width: 20px;
+    height: 15px;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .08);
+    image-rendering: auto;
+  }
+
+  /* Country row text + count */
+  .countryname {
+    flex: 1 1 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 4px;
+  }
+
+  .count {
+    flex: 0 0 3.5ch;
+    text-align: right;
+    font-weight: 700
+  }
+
+  /* People list link */
+  .peoplelist .username {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--link);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .peoplelist .username:hover {
+    text-decoration: underline
+  }
+
+  /* "Say hello" panel */
+  .hello-title {
+    display: flex;
+    align-items: center;
+    gap: 10px
+  }
+
+  .hello-flag img {
+    width: 20px;
+    height: 15px;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .08)
+  }
+
+  .hello-muted {
+    color: var(--muted);
+    font-weight: 600
+  }
+
+  .say-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 14px;
+    border-radius: 12px;
+    border: 0;
+    background: linear-gradient(135deg, var(--success-a), var(--success-b));
+    color: #fff;
+    font-weight: 800;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 6px 18px rgba(22, 163, 74, .25);
+    transition: transform .05s ease, filter .2s ease;
+  }
+
+  .say-btn:hover {
+    filter: brightness(1.05)
+  }
+
+  .say-btn:active {
+    transform: translateY(1px)
+  }
+
+  .say-btn[disabled] {
+    opacity: .6;
+    cursor: not-allowed;
+    filter: grayscale(.3)
+  }
+
+  /* Tooltip styling - wider and better formatted */
+  .country-tooltip {
+    background: #fff;
+    color: #111;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 10px 14px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
+    min-width: 180px;
+    max-width: 280px;
+    line-height: 1.4;
+    font-size: 14px;
+  }
+
+  .tooltip-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    font-size: 15px;
+  }
+
+  .tooltip-title-name {
+    display: block;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    hyphens: auto;
+    line-height: 1.25;
+  }
+
+  .tooltip-count {
+    color: #666;
+    font-size: 13px;
+    margin-bottom: 4px
+  }
+
+  .tooltip-hint {
+    color: #888;
+    font-size: 12px;
+    font-style: italic
+  }
+
+  /* Remove tooltip defaults */
+  .leaflet-tooltip.custom-tip,
+  .leaflet-tooltip.custom-tip .leaflet-tooltip-content {
+    background: transparent !important;
+    color: inherit !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+  }
+
+  .leaflet-tooltip.custom-tip::before {
+    display: none !important
+  }
+
+  /* Hide popup completely */
+  .leaflet-popup {
+    display: none !important
+  }
+
+  /* Remove focus outline on map features */
+  .leaflet-interactive:focus {
+    outline: none !important
+  }
+
+  svg.leaflet-zoom-animated path:focus {
+    outline: none !important
+  }
+
+  /* Reset button */
+  .leaflet-control button.leaflet-bar {
+    cursor: pointer;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 6px 10px;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .06)
+  }
+
+  /* Legend (choropleth) */
+  .legend {
+    color: #444;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .08);
+    font-size: 13px;
+    line-height: 1.2;
+  }
+
+  .legend-title {
+    font-weight: 700;
+    margin-bottom: 6px
+  }
+
+  .legend-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 6px 0
+  }
+
+  .legend .swatch {
+    width: 18px;
+    height: 18px;
+    border: 1px solid rgba(0, 0, 0, .08);
+    flex: 0 0 18px;
+    opacity: .9;
+  }
+
+  /* Project panel text */
+  .project-text {
+    line-height: 1.6;
+    font-size: 15px
+  }
+
+  .project-text a {
+    color: var(--link);
+    text-decoration: none;
+    font-weight: 600
+  }
+
+  .project-text a:hover {
+    text-decoration: underline
+  }
+
+  @media (max-width:900px) {
+    .app {
+      grid-template-columns: 1fr;
+      height: auto
+    }
+
+
+    #map {
+      height: 64vh;
+      min-height: 420px
+    }
+  }
+
+  /* More rows for taller screens */
+  @media (min-height: 900px) {
+
+    .toplist,
+    .peoplelist {
+      max-height: calc(16 * var(--list-row));
+    }
+  }
+
+  @media (min-height: 1100px) {
+
+    .toplist,
+    .peoplelist {
+      max-height: calc(25 * var(--list-row));
+    }
+  }
+</style>
+
+<div class="app">
+  <div id="map" role="region" aria-label="Interactive world map"></div>
+
+  <aside aria-label="Right panel">
+
+    <!-- About (brief, top) -->
+    <div class="panel">
+      <h2>Say Hello from 🌍</h2>
+      <div class="project-text">
+        Join a global wave of hellos 👋 — every submission updates this interactive map in real time via GitHub Actions.
+        <br><br>
+        Learn more at <a href="https://github.com/buralog" target="_blank" rel="noopener">github.com/buralog</a>.
+      </div>
+    </div>
+
+
+    <div class="panel">
+      <div class="stats-header">
+        <h2>Live Stats</h2>
+        <button class="refresh-btn" id="refresh-btn" title="Reload latest data">Refresh</button>
+      </div>
+      <div class="kpis">
+        <div class="kpi">
+          <div class="num" id="kpi-total">0</div>
+          <div class="label">Total hellos</div>
+        </div>
+        <div class="kpi">
+          <div class="num" id="kpi-countries">0</div>
+          <div class="label">Countries lit</div>
+        </div>
+      </div>
+      <div class="small"><span id="last-updated">Loading…</span></div>
+    </div>
+
+    <!-- Say hello panel -->
+    <div class="panel" id="hello-panel">
+      <h2 class="hello-title">
+        <span class="hello-flag" id="hello-flag" hidden></span>
+        <span id="hello-title-text" class="hello-muted">Select a country on the map</span>
+      </h2>
+      <button class="say-btn" id="say-btn" disabled>👋 Say hello</button>
+    </div>
+
+    <!-- Tabs panel grows to fill column -->
+    <div class="panel panel-grow">
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="countries">Countries</button>
+        <button class="tab-btn" data-tab="people">People</button>
+      </div>
+      <div id="tab-countries" class="tab-content active">
+        <ul class="toplist" id="top-list"></ul>
+      </div>
+      <div id="tab-people" class="tab-content">
+        <ul class="peoplelist" id="people-list"></ul>
+      </div>
+    </div>
+
+    <div class="spacer"></div>
+
+  </aside>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  (function () {
+    // Map init
+    var map = L.map('map', {
+      worldCopyJump: false,
+      maxBoundsViscosity: 1.0,
+      minZoom: 2,
+      maxZoom: 8,
+      maxBounds: [[-85, -180], [85, 180]],
+      maxBoundsViscosity: 1.0
+    }).setView([20, 0], 2);
+
+    map.setMaxBounds([[-85, -180], [85, 180]]);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      noWrap: true,
+      bounds: [[-85, -180], [85, 180]],
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Data state
+    var counts = {};
+    var updatedAt = null;
+    var world;
+    var layer;
+    var isoToName = {};
+    var selected = null;
+    var usersData = {};
+
+    // DOM
+    var kpiTotal = document.getElementById('kpi-total');
+    var kpiCountries = document.getElementById('kpi-countries');
+    var lastUpdatedEl = document.getElementById('last-updated');
+    var topList = document.getElementById('top-list');
+    var peopleList = document.getElementById('people-list');
+    var helloFlag = document.getElementById('hello-flag');
+    var helloTitle = document.getElementById('hello-title-text');
+    var sayBtn = document.getElementById('say-btn');
+    var refreshBtn = document.getElementById('refresh-btn');
+
+    // --- Flag helpers (SVG for TRNC, FlagCDN PNGs with srcset for others)
+    var TRNC_SVG = "<svg xmlns='http://www.w3.org/2000/svg' width='20' height='15' viewBox='0 0 20 15'>"
+      + "<rect width='20' height='15' fill='#fff'/>"
+      + "<rect y='1' width='20' height='2' fill='#e30a17'/>"
+      + "<rect y='12' width='20' height='2' fill='#e30a17'/>"
+      + "<circle cx='8' cy='7.5' r='3' fill='#e30a17'/>"
+      + "<circle cx='9' cy='7.5' r='2.2' fill='#fff'/>"
+      + "<polygon points='12,7.5 10.8,7.9 11.2,6.7 10.3,5.8 11.5,5.7 12,4.6 12.5,5.7 13.7,5.8 12.8,6.7 13.2,7.9' fill='#e30a17'/>"
+      + "</svg>";
+
+    function isNorthernCyprus(iso2, name) {
+      return (iso2 && iso2.toUpperCase() === 'XC') || /Northern Cyprus/i.test(name || '');
+    }
+
+    /** Returns an <img> HTML string at 20x15 with HiDPI srcset. */
+    function flagImgHTML(iso2, name, cls) {
+      if (isNorthernCyprus(iso2, name)) {
+        return '<img class="' + (cls || 'flagchip-img') + '" alt="' + (name || iso2) + ' flag" src="data:image/svg+xml;utf8,' +
+          encodeURIComponent(TRNC_SVG) + '">';
+      }
+      var iso = (iso2 || '').toLowerCase();
+      if (!iso) return '';
+      var base20 = 'https://flagcdn.com/20x15/' + iso + '.png';
+      var srcset = [
+        'https://flagcdn.com/40x30/' + iso + '.png 2x',
+        'https://flagcdn.com/80x60/' + iso + '.png 4x'
+      ].join(', ');
+      return '<img class="' + (cls || 'flagchip-img') + '" alt="' + (name || iso2) + ' flag" src="' + base20 + '" srcset="' + srcset + '" loading="lazy">';
+    }
+
+    // Choropleth helpers
+    function fillColorFor(c) { if (c >= 50) return '#2e7d32'; if (c >= 10) return '#66bb6a'; if (c >= 1) return '#a5d6a7'; return '#ffffff'; }
+    function baseOpacityFor(c) { return c >= 1 ? 0.9 : 0.02; }
+
+    // Property helpers
+    function getISO2(p) {
+      var raw = p.ISO_A2_EH || p.ISO_A2 || p.iso_a2 || p.ISO2 || '';
+      var iso = String(raw).toUpperCase();
+      if (/Northern Cyprus/i.test(p.admin || p.name_long || p.name || '')) return 'XC';
+      return /^[A-Z]{2}$/.test(iso) ? iso : '';
+    }
+    function getName(p, iso2) { return (p.admin || p.name_long || p.name || p.formal_en || p.SOVEREIGNT || iso2 || 'Unknown'); }
+
+    function helloLine(n) { return n >= 1 ? (n === 1 ? '1 hello' : (n + ' hellos')) : 'No hellos yet — be the first!'; }
+
+    function buildTooltipEl(iso2, name, n) {
+      var el = document.createElement('div');
+      el.className = 'country-tooltip';
+      var flag = flagImgHTML(iso2, name, 'tooltip-flag');
+      el.innerHTML =
+        '<div class="tooltip-title">' + flag + '<div class="tooltip-title-name">' + name + '</div></div>' +
+        '<div class="tooltip-count">' + helloLine(n) + '</div>' +
+        '<div class="tooltip-hint">Click to say hello!</div>';
+      return el;
+    }
+
+    function computeKPIs() {
+      var total = 0, lit = 0;
+      for (var k in counts) { if (!counts.hasOwnProperty(k)) continue; var v = Number(counts[k]) || 0; total += v; if (v > 0) lit++; }
+      kpiTotal.textContent = String(total);
+      kpiCountries.textContent = String(lit);
+      if (updatedAt) {
+        lastUpdatedEl.textContent = 'Last updated: ' + new Date(updatedAt).toLocaleString();
+      }
+    }
+
+    function renderTopList() {
+      var entries = [];
+      for (var code in counts) {
+        if (!counts.hasOwnProperty(code)) continue;
+        var n = Number(counts[code]) || 0;
+        if (n > 0) entries.push([code, n]);
+      }
+      entries.sort(function (a, b) { return b[1] - a[1]; });
+
+      if (entries.length === 0) {
+        topList.innerHTML = '<li><span class="small">No hellos yet — be the first!</span></li>';
+        return;
+      }
+      topList.innerHTML = '';
+      for (var i = 0; i < entries.length; i++) {
+        (function () {
+          var iso = entries[i][0], n = entries[i][1];
+          var name = isoToName[iso] || iso;
+          var li = document.createElement('li');
+          li.innerHTML =
+            '<span class="flagchip">' + flagImgHTML(iso, name, 'flagchip-img') + '</span>' +
+            '<span class="countryname" title="' + name + '">' + name + '</span>' +
+            '<span class="count">' + n + '</span>';
+          topList.appendChild(li);
+        })();
+      }
+    }
+
+    // README order parsing (oldest → newest)
+    function parseReadmeUserOrder(md) {
+      var start = md.indexOf('### 👥 Who Said Hello?');
+      if (start === -1) return [];
+      var sub = md.slice(start);
+      var cutPoints = [];
+      var h2 = sub.indexOf('\n## '); if (h2 !== -1) cutPoints.push(h2);
+      var td = sub.indexOf('</td>'); if (td !== -1) cutPoints.push(td);
+      var hr = sub.indexOf('\n---'); if (hr !== -1) cutPoints.push(hr);
+      var end = cutPoints.length ? Math.min.apply(null, cutPoints) : sub.length;
+      var body = sub.slice(0, end);
+      var re = /\[@([A-Za-z0-9-]+)\]\(https:\/\/github\.com\/[^\)]+\)/g;
+      var m, out = [];
+      while ((m = re.exec(body)) !== null) { out.push(m[1]); }
+      return out;
+    }
+    function toMillis(v) {
+      if (!v) return 0;
+      if (typeof v === 'number') return v < 1e12 ? v * 1000 : v; // sec→ms
+      var ms = Date.parse(v);
+      return isNaN(ms) ? 0 : ms;
+    }
+
+    function renderPeopleList() {
+      if (!usersData || Object.keys(usersData).length === 0) {
+        peopleList.innerHTML = '<li><span class="small">No hellos yet — be the first!</span></li>';
+        return;
+      }
+
+      var users = [];
+      for (var username in usersData) {
+        if (!usersData.hasOwnProperty(username)) continue;
+        var u = usersData[username];
+        var iso = u && u.current && u.current.iso;
+        if (!iso) continue;
+
+        // Prefer per-user timestamp; fallback to per-country map if needed
+        var helloAt = u && u.current && u.current.helloAt;
+        if (!helloAt) {
+          var c = (counts && iso) ? iso : null; 
+        }
+
+        users.push({ username, iso, t: toMillis(helloAt) });
+      }
+
+      // Oldest → newest (first submitter stays top)
+      users.sort(function (a, b) {
+        if (a.t !== b.t) return a.t - b.t;
+        return a.username.toLowerCase().localeCompare(b.username.toLowerCase());
+      });
+
+      peopleList.innerHTML = '';
+      users.forEach(function (user) {
+        var name = isoToName[user.iso] || user.iso;
+        var li = document.createElement('li');
+        li.innerHTML =
+          '<span class="flagchip">' + flagImgHTML(user.iso, name, 'flagchip-img') + '</span>' +
+          '<a class="username" href="https://github.com/' + user.username + '" target="_blank" rel="noopener">' + user.username + '</a>';
+        peopleList.appendChild(li);
+      });
+    }
+
+    function updateHelloPanel() {
+      if (!selected) {
+        helloFlag.hidden = true;
+        helloTitle.textContent = 'Select a country on the map';
+        sayBtn.disabled = true;
+        return;
+      }
+      helloFlag.hidden = false;
+      helloFlag.innerHTML = flagImgHTML(selected.iso2, selected.name, 'flagchip-img');
+      helloTitle.textContent = 'Say hello from ' + selected.name;
+      sayBtn.disabled = false;
+    }
+
+    function bindFeature(f, l) {
+      var iso2 = getISO2(f.properties);
+      var name = getName(f.properties, iso2);
+      var n = counts[iso2] || 0;
+
+      l.on('add', function () { if (l._path) l._path.style.cursor = 'pointer'; });
+      l.on('mouseover', function () {
+        l.setStyle({ weight: 1.6, color: '#000', fillOpacity: Math.max(baseOpacityFor(n), .12) });
+        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) l.bringToFront();
+      });
+      l.on('mouseout', function () { layer.resetStyle(l); });
+
+      l.on('click', function () {
+        selected = { iso2: iso2, name: name, count: n };
+        updateHelloPanel();
+        map.fitBounds(l.getBounds(), { padding: [20, 20] });
+      });
+
+      var tipEl = buildTooltipEl(iso2, name, n);
+      l.bindTooltip(tipEl, {
+        sticky: true,
+        className: 'custom-tip',
+        direction: 'top',
+        offset: [0, -8],
+        opacity: 1
+      });
+    }
+
+    function buildLayer() {
+      if (layer) map.removeLayer(layer);
+
+      isoToName = {};
+      for (var i = 0; i < world.features.length; i++) {
+        var f = world.features[i];
+        var i2 = getISO2(f.properties);
+        if (i2) isoToName[i2] = getName(f.properties, i2);
+      }
+
+      layer = L.geoJSON(world, {
+        smoothFactor: 0,
+        style: function (f) {
+          var iso2 = getISO2(f.properties); var n = counts[iso2] || 0;
+          return { color: '#666', weight: .8, fill: true, fillColor: fillColorFor(n), fillOpacity: baseOpacityFor(n) };
+        },
+        onEachFeature: bindFeature,
+        worldCopyJump: false
+      }).addTo(map);
+    }
+
+    var legend = L.control({ position: 'bottomright' });
+    legend.onAdd = function () {
+      var div = L.DomUtil.create('div', 'legend');
+      var bins = [
+        { label: '0', color: fillColorFor(0) },
+        { label: '1–9', color: fillColorFor(1) },
+        { label: '10–49', color: fillColorFor(10) },
+        { label: '50+', color: fillColorFor(50) }
+      ];
+      var html = '<div class="legend-title">Hellos</div>';
+      for (var j = 0; j < bins.length; j++) {
+        html += '<div class="legend-row"><span class="swatch" style="background:' + bins[j].color + '"></span><span>' + bins[j].label + '</span></div>';
+      }
+      div.innerHTML = html;
+      return div;
+    };
+    legend.addTo(map);
+
+    function setDemoIfEmpty() {
+      if (!counts) counts = {};
+    }
+
+    function loadCounts(cb) {
+      var url = 'https://raw.githubusercontent.com/buralog/buralog/refs/heads/main/data/visitors.json?ts=' + Date.now();
+      fetch(url, { cache: 'no-store' })
+        .then(function (res) { return res.ok ? res.json() : null; })
+        .then(function (json) {
+          if (json && json.countries) {
+            counts = {};
+            for (var iso in json.countries) {
+              if (!json.countries.hasOwnProperty(iso)) continue;
+              var countryData = json.countries[iso];
+              if (countryData && countryData.users) {
+                counts[iso] = Object.keys(countryData.users).length;
+              }
+            }
+            updatedAt = json.updatedAt || null;
+            usersData = json.users || {};
+          }
+          setDemoIfEmpty();
+          cb && cb();
+        })
+        .catch(function () {
+          setDemoIfEmpty();
+          cb && cb();
+        });
+    }
+
+    function loadWorld(cb) {
+      if (world) { cb && cb(); return; }
+      fetch('https://geojson.xyz/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson')
+        .then(function (r) { return r.json(); })
+        .then(function (json) { world = json; cb && cb(); });
+    }
+
+    function refreshAll() {
+      computeKPIs();
+      buildLayer();
+      renderTopList();
+      renderPeopleList();
+      updateHelloPanel();
+    }
+
+    refreshBtn.addEventListener('click', function () {
+      refreshBtn.disabled = true;
+      refreshBtn.innerHTML = '⏳ <span style="font-size:13px">Refreshing…</span>';
+      loadCounts(function () {
+        if (updatedAt) {
+          lastUpdatedEl.textContent = 'Last updated: ' + new Date(updatedAt).toLocaleString();
+        } else {
+          lastUpdatedEl.textContent = 'No data yet';
+        }
+        refreshAll();
+        setTimeout(function () {
+          refreshBtn.disabled = false;
+          refreshBtn.innerHTML = 'Refresh';
+        }, 200);
+      });
+    });
+
+    // Tab switching
+    var tabBtns = document.querySelectorAll('.tab-btn');
+    for (var i = 0; i < tabBtns.length; i++) {
+      tabBtns[i].addEventListener('click', function (e) {
+        var target = e.currentTarget.getAttribute('data-tab');
+        // header state
+        for (var j = 0; j < tabBtns.length; j++) { tabBtns[j].classList.remove('active'); }
+        e.currentTarget.classList.add('active');
+        // pane state
+        document.getElementById('tab-countries').classList.remove('active');
+        document.getElementById('tab-people').classList.remove('active');
+        document.getElementById('tab-' + target).classList.add('active');
+      });
+    }
+
+    // "Say hello" button → open issue
+    sayBtn.addEventListener('click', function () {
+      if (!selected) return;
+      function getFlagEmoji(iso2) {
+        if (!iso2 || iso2.length !== 2) return '🌍';
+        var code = iso2.toUpperCase();
+        return String.fromCodePoint(
+          ...[...code].map(function (c) { return 127397 + c.charCodeAt(); })
+        );
+      }
+      var flag = getFlagEmoji(selected.iso2);
+      var url = new URL('https://github.com/buralog/buralog/issues/new');
+      url.searchParams.set('title', 'hello|' + selected.iso2);
+      var body = 'Hello 👋 from ' + flag + ' ' + selected.name;
+      url.searchParams.set('body', body);
+      window.top.location.href = url.toString();
+    });
+
+    // Init sequence
+    loadCounts(function () {
+      loadWorld(function () {
+        refreshAll();
+      });
+    });
+  })();
+</script>
+
+</html>
