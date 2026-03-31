@@ -41,7 +41,7 @@ function ensureV3(obj) {
         const v3 = {
             version: 3,
             updatedAt: obj.updatedAt || nowISO(),
-            maxChangesPerUser: 3,
+            maxChangesPerUser: 30000,
             countries: {},
             users: {}
         };
@@ -69,7 +69,7 @@ function ensureV3(obj) {
     }
 
     // Fresh v3
-    return { version: 3, updatedAt: "", maxChangesPerUser: 3, countries: {}, users: {} };
+    return { version: 3, updatedAt: "", maxChangesPerUser: 30000, countries: {}, users: {} };
 }
 
 // ---------- Main Logic
@@ -80,7 +80,10 @@ function main() {
     const ISSUE_TIME = process.env.ISSUE_TIME || nowISO(); // UTC ISO from GitHub event
 
     // Parse ISO from title like "hello|TR" or "hello|TR-something"
-    const ISO = (TITLE.split('|')[1] || '').split('-')[0].trim().toUpperCase();
+    //const ISO = (TITLE.split('|')[1] || '').split('-')[0].trim().toUpperCase();
+    const parts = TITLE.split('|');
+    const ISO = (parts[1] || '').trim().toUpperCase();
+    const place = parts[2] ? parts[2].trim() : null; // visiting place
 
     if (!ACTOR) {
         console.log('Missing ACTOR env; no-op.');
@@ -98,7 +101,7 @@ function main() {
 
     // ---------- Ensure containers
     data.version = 3;
-    data.maxChangesPerUser = 3;
+    data.maxChangesPerUser = 30000;
     data.updatedAt ||= "";
     data.countries ||= {};
     data.users ||= {};
@@ -112,10 +115,10 @@ function main() {
 
     // Optional city parse from body ("City: X")
     const cityMatch = BODY.match(/^\s*City:\s*(.+)\s*$/mi);
-    const city = cityMatch ? cityMatch[1].trim() : (userRec.current?.city ?? null);
+    const city = place; //cityMatch ? cityMatch[1].trim() : (userRec.current?.city ?? null);
 
     // ---------- Limits & early exits
-    if ((userRec.changesUsed || 0) >= (data.maxChangesPerUser || 3)) {
+    if ((userRec.changesUsed || 0) >= (data.maxChangesPerUser || 30000)) {
         console.log(`User ${ACTOR} reached max changes (${data.maxChangesPerUser}). No-op.`);
         fs.writeFileSync('/tmp/changed.flag', ''); // empty => test -s is false
         writeReadmeOnly(data); // keep README fresh even if no data change
@@ -205,8 +208,11 @@ function buildReadme(data) {
     // Generate vertical list with <br> tags for GitHub README
     const whoList = currentUsers.map(({ user, iso }) => {
         const flag = flagEmoji(iso);
-        return `${flag} [@${user}](https://github.com/${user})`;
-    }).join(' <br> ');
+        const city = data.users[user].current?.city;
+        return city ? `${flag} ${city}` : `${flag}`;
+}).join(' <br> ');
+        //return `${flag} [@${user}](https://github.com/${user})`;
+    //}).join(' <br> ');
 
     function tableMD() {
         const rows = ['| Country | Count |', '|---------|------:|'];
