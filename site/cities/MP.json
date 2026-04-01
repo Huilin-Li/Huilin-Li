@@ -4,29 +4,5 @@
     "name": "Saipan",
     "lat": 15.21233,
     "lng": 145.7545
-  },
-  {
-    "id": 7267949,
-    "name": "San Jose Village",
-    "lat": 14.96823,
-    "lng": 145.61998
-  },
-  {
-    "id": 13527050,
-    "name": "Garapan",
-    "lat": 15.21107,
-    "lng": 145.72038
-  },
-  {
-    "id": 7828768,
-    "name": "Capitol Hill Village",
-    "lat": 15.20825,
-    "lng": 145.75313
-  },
-  {
-    "id": 4041579,
-    "name": "Songsong",
-    "lat": 14.13972,
-    "lng": 145.14111
   }
 ]

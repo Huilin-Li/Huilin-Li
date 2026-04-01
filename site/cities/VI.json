@@ -10,35 +10,5 @@
     "name": "Charlotte Amalie",
     "lat": 18.3419,
     "lng": -64.9307
-  },
-  {
-    "id": 4796736,
-    "name": "Tutu",
-    "lat": 18.33884,
-    "lng": -64.88653
-  },
-  {
-    "id": 4795577,
-    "name": "Cruz Bay",
-    "lat": 18.33134,
-    "lng": -64.79375
-  },
-  {
-    "id": 4795479,
-    "name": "Christiansted",
-    "lat": 17.74681,
-    "lng": -64.70557
-  },
-  {
-    "id": 4795549,
-    "name": "Coral Bay",
-    "lat": 18.34801,
-    "lng": -64.71319
-  },
-  {
-    "id": 4795761,
-    "name": "Frederiksted",
-    "lat": 17.71233,
-    "lng": -64.88179
   }
 ]

@@ -268,35 +268,5 @@
     "name": "Kora",
     "lat": -1.6101,
     "lng": 29.445
-  },
-  {
-    "id": 202039,
-    "name": "Kinigi",
-    "lat": -1.4426,
-    "lng": 29.5902
-  },
-  {
-    "id": 201954,
-    "name": "Mabanza",
-    "lat": -2.0524,
-    "lng": 29.4092
-  },
-  {
-    "id": 202300,
-    "name": "Gahini",
-    "lat": -1.8406,
-    "lng": 30.4816
-  },
-  {
-    "id": 384488,
-    "name": "Ruhuha",
-    "lat": -2.30403,
-    "lng": 30.05134
-  },
-  {
-    "id": 11610338,
-    "name": "Eglise Catholique, Centrale GIKO",
-    "lat": -1.93653,
-    "lng": 29.8061
   }
 ]
