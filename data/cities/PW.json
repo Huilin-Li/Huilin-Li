@@ -3,78 +3,78 @@
     "id": 1559446,
     "name": "Koror",
     "lat": 7.33978,
-    "lon": 134.47326
+    "lng": 134.47326
   },
   {
     "id": 7732415,
     "name": "Koror Town",
     "lat": 7.34257,
-    "lon": 134.47888
+    "lng": 134.47888
   },
   {
     "id": 1559400,
     "name": "Ngerbeched Hamlet",
     "lat": 7.33249,
-    "lon": 134.47623
+    "lng": 134.47623
   },
   {
     "id": 1559513,
     "name": "Ngerchemai Hamlet",
     "lat": 7.35,
-    "lon": 134.4889
+    "lng": 134.4889
   },
   {
     "id": 1559350,
     "name": "Ngermid Hamlet",
     "lat": 7.33983,
-    "lon": 134.50163
+    "lng": 134.50163
   },
   {
     "id": 1559797,
     "name": "Meyungs Hamlet",
     "lat": 7.35381,
-    "lon": 134.45963
+    "lng": 134.45963
   },
   {
     "id": 7671223,
     "name": "Kloulklubed",
     "lat": 7.04192,
-    "lon": 134.25561
+    "lng": 134.25561
   },
   {
     "id": 1559703,
     "name": "Ngerekebesang Hamlet",
     "lat": 7.35444,
-    "lon": 134.44648
+    "lng": 134.44648
   },
   {
     "id": 1559847,
     "name": "Iyebukel Hamlet",
     "lat": 7.34929,
-    "lon": 134.48594
+    "lng": 134.48594
   },
   {
     "id": 4038084,
     "name": "Ngerkeseuaol Hamlet",
     "lat": 7.34301,
-    "lon": 134.48949
+    "lng": 134.48949
   },
   {
     "id": 1559694,
     "name": "Meketii Hamlet",
     "lat": 7.34708,
-    "lon": 134.48299
+    "lng": 134.48299
   },
   {
     "id": 1559543,
     "name": "Ulimang",
     "lat": 7.62416,
-    "lon": 134.64208
+    "lng": 134.64208
   },
   {
     "id": 1559484,
     "name": "Idid Hamlet",
     "lat": 7.34299,
-    "lon": 134.48373
+    "lng": 134.48373
   }
 ]

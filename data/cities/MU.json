@@ -3,684 +3,684 @@
     "id": 934154,
     "name": "Port Louis",
     "lat": -20.16194,
-    "lon": 57.49889
+    "lng": 57.49889
   },
   {
     "id": 933945,
     "name": "Vacoas",
     "lat": -20.29806,
-    "lon": 57.47833
+    "lng": 57.47833
   },
   {
     "id": 934765,
     "name": "Beau Bassin-Rose Hill",
     "lat": -20.23325,
-    "lon": 57.46609
+    "lng": 57.46609
   },
   {
     "id": 934570,
     "name": "Curepipe",
     "lat": -20.31628,
-    "lon": 57.52594
+    "lng": 57.52594
   },
   {
     "id": 934131,
     "name": "Quatre Bornes",
     "lat": -20.26381,
-    "lon": 57.4791
+    "lng": 57.4791
   },
   {
     "id": 933959,
     "name": "Triolet",
     "lat": -20.0576,
-    "lon": 57.55025
+    "lng": 57.55025
   },
   {
     "id": 934488,
     "name": "Goodlands",
     "lat": -20.03841,
-    "lon": 57.65055
+    "lng": 57.65055
   },
   {
     "id": 934750,
     "name": "Bel Air Rivière Sèche",
     "lat": -20.25777,
-    "lon": 57.74976
+    "lng": 57.74976
   },
   {
     "id": 934778,
     "name": "Bambous",
     "lat": -20.25667,
-    "lon": 57.40611
+    "lng": 57.40611
   },
   {
     "id": 934631,
     "name": "Centre de Flacq",
     "lat": -20.18972,
-    "lon": 57.71444
+    "lng": 57.71444
   },
   {
     "id": 934322,
     "name": "Mahébourg",
     "lat": -20.40806,
-    "lon": 57.7
+    "lng": 57.7
   },
   {
     "id": 934032,
     "name": "Saint Pierre",
     "lat": -20.2215,
-    "lon": 57.53431
+    "lng": 57.53431
   },
   {
     "id": 1106809,
     "name": "Le Hochet",
     "lat": -20.13859,
-    "lon": 57.53013
+    "lng": 57.53013
   },
   {
     "id": 1106616,
     "name": "Baie du Tombeau",
     "lat": -20.11944,
-    "lon": 57.49139
+    "lng": 57.49139
   },
   {
     "id": 933953,
     "name": "Trou aux Biches",
     "lat": -20.03301,
-    "lon": 57.55033
+    "lng": 57.55033
   },
   {
     "id": 934072,
     "name": "Rose Belle",
     "lat": -20.40028,
-    "lon": 57.59667
+    "lng": 57.59667
   },
   {
     "id": 934614,
     "name": "Chemin Grenier",
     "lat": -20.48722,
-    "lon": 57.46556
+    "lng": 57.46556
   },
   {
     "id": 934482,
     "name": "Grand Baie",
     "lat": -20.01816,
-    "lon": 57.58015
+    "lng": 57.58015
   },
   {
     "id": 11205637,
     "name": "Lallmatie",
     "lat": -20.01839,
-    "lon": 57.58017
+    "lng": 57.58017
   },
   {
     "id": 933974,
     "name": "Terre Rouge",
     "lat": -20.1283,
-    "lon": 57.53116
+    "lng": 57.53116
   },
   {
     "id": 934240,
     "name": "New Grove",
     "lat": -20.40861,
-    "lon": 57.61361
+    "lng": 57.61361
   },
   {
     "id": 934091,
     "name": "Rivière du Rempart",
     "lat": -20.10306,
-    "lon": 57.68472
+    "lng": 57.68472
   },
   {
     "id": 934169,
     "name": "Plaine Magnien",
     "lat": -20.42967,
-    "lon": 57.66968
+    "lng": 57.66968
   },
   {
     "id": 934065,
     "name": "Rouge Terre",
     "lat": -20.04333,
-    "lon": 57.56833
+    "lng": 57.56833
   },
   {
     "id": 934390,
     "name": "Lalmatie",
     "lat": -20.18972,
-    "lon": 57.66111
+    "lng": 57.66111
   },
   {
     "id": 934219,
     "name": "Pailles",
     "lat": -20.19271,
-    "lon": 57.48826
+    "lng": 57.48826
   },
   {
     "id": 933988,
     "name": "Surinam",
     "lat": -20.50972,
-    "lon": 57.50528
+    "lng": 57.50528
   },
   {
     "id": 934095,
     "name": "Rivière des Anguilles",
     "lat": -20.493,
-    "lon": 57.563
+    "lng": 57.563
   },
   {
     "id": 934213,
     "name": "Pamplemousses",
     "lat": -20.10389,
-    "lon": 57.57028
+    "lng": 57.57028
   },
   {
     "id": 934262,
     "name": "Montagne Blanche",
     "lat": -20.28538,
-    "lon": 57.65865
+    "lng": 57.65865
   },
   {
     "id": 934184,
     "name": "Petit Raffray",
     "lat": -20.02022,
-    "lon": 57.62296
+    "lng": 57.62296
   },
   {
     "id": 934277,
     "name": "Moka",
     "lat": -20.21904,
-    "lon": 57.51083
+    "lng": 57.51083
   },
   {
     "id": 12168288,
     "name": "Richelieu",
     "lat": -20.19324,
-    "lon": 57.45952
+    "lng": 57.45952
   },
   {
     "id": 934149,
     "name": "Poste de Flacq",
     "lat": -20.16306,
-    "lon": 57.73056
+    "lng": 57.73056
   },
   {
     "id": 1545752,
     "name": "Port Mathurin",
     "lat": -19.68333,
-    "lon": 63.41667
+    "lng": 63.41667
   },
   {
     "id": 934170,
     "name": "Plaine des Papayes",
     "lat": -20.065,
-    "lon": 57.5725
+    "lng": 57.5725
   },
   {
     "id": 934343,
     "name": "L’Escalier",
     "lat": -20.47,
-    "lon": 57.61222
+    "lng": 57.61222
   },
   {
     "id": 934485,
     "name": "Grand Bois",
     "lat": -20.41889,
-    "lon": 57.54417
+    "lng": 57.54417
   },
   {
     "id": 934333,
     "name": "Long Mountain",
     "lat": -20.151,
-    "lon": 57.573
+    "lng": 57.573
   },
   {
     "id": 934479,
     "name": "Grand Gaube",
     "lat": -20.00639,
-    "lon": 57.66083
+    "lng": 57.66083
   },
   {
     "id": 934677,
     "name": "Brisée Verdière",
     "lat": -20.16389,
-    "lon": 57.64667
+    "lng": 57.64667
   },
   {
     "id": 934739,
     "name": "Belle Vue Maurel",
     "lat": -20.12028,
-    "lon": 57.66361
+    "lng": 57.66361
   },
   {
     "id": 934736,
     "name": "Belle Vue Harel",
     "lat": -20.06583,
-    "lon": 57.59417
+    "lng": 57.59417
   },
   {
     "id": 1106614,
     "name": "Pointe aux Piments",
     "lat": -20.06494,
-    "lon": 57.52347
+    "lng": 57.52347
   },
   {
     "id": 934400,
     "name": "Dagotière",
     "lat": -20.24476,
-    "lon": 57.56188
+    "lng": 57.56188
   },
   {
     "id": 934229,
     "name": "Nouvelle France",
     "lat": -20.37056,
-    "lon": 57.56111
+    "lng": 57.56111
   },
   {
     "id": 934753,
     "name": "Beau Vallon",
     "lat": -20.42325,
-    "lon": 57.70351
+    "lng": 57.70351
   },
   {
     "id": 934693,
     "name": "Bon Accueil",
     "lat": -20.175,
-    "lon": 57.672
+    "lng": 57.672
   },
   {
     "id": 934133,
     "name": "Quartier Militaire",
     "lat": -20.2479,
-    "lon": 57.59737
+    "lng": 57.59737
   },
   {
     "id": 8643380,
     "name": "Calodyne",
     "lat": -20.00215,
-    "lon": 57.64249
+    "lng": 57.64249
   },
   {
     "id": 1106584,
     "name": "Laventure",
     "lat": -20.14583,
-    "lon": 57.67667
+    "lng": 57.67667
   },
   {
     "id": 934058,
     "name": "Morcellement Saint André",
     "lat": -20.07199,
-    "lon": 57.56833
+    "lng": 57.56833
   },
   {
     "id": 10171149,
     "name": "Anse La Raye",
     "lat": -19.99057,
-    "lon": 57.63202
+    "lng": 57.63202
   },
   {
     "id": 1106660,
     "name": "Ecroignard",
     "lat": -20.22611,
-    "lon": 57.73611
+    "lng": 57.73611
   },
   {
     "id": 934255,
     "name": "Piton",
     "lat": -20.09028,
-    "lon": 57.63028
+    "lng": 57.63028
   },
   {
     "id": 934513,
     "name": "Fond du Sac",
     "lat": -20.04732,
-    "lon": 57.584
+    "lng": 57.584
   },
   {
     "id": 934013,
     "name": "Sebastopol",
     "lat": -20.2907,
-    "lon": 57.68779
+    "lng": 57.68779
   },
   {
     "id": 934085,
     "name": "Roches Noire",
     "lat": -20.11111,
-    "lon": 57.71222
+    "lng": 57.71222
   },
   {
     "id": 1106643,
     "name": "Quatre Cocos",
     "lat": -20.20151,
-    "lon": 57.77448
+    "lng": 57.77448
   },
   {
     "id": 934195,
     "name": "Petite Rivière",
     "lat": -20.19551,
-    "lon": 57.44592
+    "lng": 57.44592
   },
   {
     "id": 934660,
     "name": "Camp Diable",
     "lat": -20.46278,
-    "lon": 57.57889
+    "lng": 57.57889
   },
   {
     "id": 1106611,
     "name": "Péreybère",
     "lat": -19.99883,
-    "lon": 57.5885
+    "lng": 57.5885
   },
   {
     "id": 934624,
     "name": "Chamouny",
     "lat": -20.48222,
-    "lon": 57.46611
+    "lng": 57.46611
   },
   {
     "id": 934649,
     "name": "Cap Malheureux",
     "lat": -19.98417,
-    "lon": 57.61417
+    "lng": 57.61417
   },
   {
     "id": 1106811,
     "name": "Calebasses",
     "lat": -20.11167,
-    "lon": 57.55389
+    "lng": 57.55389
   },
   {
     "id": 934282,
     "name": "Midlands",
     "lat": -20.338,
-    "lon": 57.567
+    "lng": 57.567
   },
   {
     "id": 934735,
     "name": "Belle Vue Pilot",
     "lat": -20.05486,
-    "lon": 57.58365
+    "lng": 57.58365
   },
   {
     "id": 933995,
     "name": "Souillac",
     "lat": -20.51667,
-    "lon": 57.51667
+    "lng": 57.51667
   },
   {
     "id": 1106645,
     "name": "Camp Ithier",
     "lat": -20.21583,
-    "lon": 57.74556
+    "lng": 57.74556
   },
   {
     "id": 933982,
     "name": "Tamarin",
     "lat": -20.32556,
-    "lon": 57.37056
+    "lng": 57.37056
   },
   {
     "id": 1106631,
     "name": "Plaines des Roches",
     "lat": -20.11167,
-    "lon": 57.69083
+    "lng": 57.69083
   },
   {
     "id": 934047,
     "name": "Saint Hubert",
     "lat": -20.36417,
-    "lon": 57.63833
+    "lng": 57.63833
   },
   {
     "id": 934225,
     "name": "Olivia",
     "lat": -20.28778,
-    "lon": 57.73097
+    "lng": 57.73097
   },
   {
     "id": 934232,
     "name": "Notre Dame",
     "lat": -20.14298,
-    "lon": 57.55969
+    "lng": 57.55969
   },
   {
     "id": 933970,
     "name": "The Vale",
     "lat": -20.03018,
-    "lon": 57.60219
+    "lng": 57.60219
   },
   {
     "id": 1106596,
     "name": "Cottage",
     "lat": -20.05972,
-    "lon": 57.62917
+    "lng": 57.62917
   },
   {
     "id": 934127,
     "name": "Quatre Soeurs",
     "lat": -20.29917,
-    "lon": 57.77056
+    "lng": 57.77056
   },
   {
     "id": 1106763,
     "name": "Gros Cailloux",
     "lat": -20.20722,
-    "lon": 57.43
+    "lng": 57.43
   },
   {
     "id": 934812,
     "name": "Albion",
     "lat": -20.20814,
-    "lon": 57.40766
+    "lng": 57.40766
   },
   {
     "id": 934076,
     "name": "Roche Terre",
     "lat": -20.01861,
-    "lon": 57.64472
+    "lng": 57.64472
   },
   {
     "id": 934043,
     "name": "Saint Julien",
     "lat": -20.208,
-    "lon": 57.676
+    "lng": 57.676
   },
   {
     "id": 934138,
     "name": "Providence",
     "lat": -20.24472,
-    "lon": 57.61222
+    "lng": 57.61222
   },
   {
     "id": 934573,
     "name": "Crève Coeur",
     "lat": -20.19346,
-    "lon": 57.56328
+    "lng": 57.56328
   },
   {
     "id": 934126,
     "name": "Queen Victoria",
     "lat": -20.22,
-    "lon": 57.7075
+    "lng": 57.7075
   },
   {
     "id": 1106630,
     "name": "Amaury",
     "lat": -20.13083,
-    "lon": 57.65917
+    "lng": 57.65917
   },
   {
     "id": 1106788,
     "name": "Dubreuil",
     "lat": -20.30132,
-    "lon": 57.59861
+    "lng": 57.59861
   },
   {
     "id": 934661,
     "name": "Camp de Masque",
     "lat": -20.236,
-    "lon": 57.676
+    "lng": 57.676
   },
   {
     "id": 934644,
     "name": "Cascavelle",
     "lat": -20.28694,
-    "lon": 57.40722
+    "lng": 57.40722
   },
   {
     "id": 1106813,
     "name": "Arsenal",
     "lat": -20.10556,
-    "lon": 57.53528
+    "lng": 57.53528
   },
   {
     "id": 1547471,
     "name": "Baie aux Huîtres",
     "lat": -19.69444,
-    "lon": 63.40833
+    "lng": 63.40833
   },
   {
     "id": 934475,
     "name": "Grande Rivière Sud Est",
     "lat": -20.28611,
-    "lon": 57.77583
+    "lng": 57.77583
   },
   {
     "id": 934731,
     "name": "Bel Ombre",
     "lat": -20.50222,
-    "lon": 57.40611
+    "lng": 57.40611
   },
   {
     "id": 934144,
     "name": "Poudre d’Or",
     "lat": -20.06,
-    "lon": 57.67667
+    "lng": 57.67667
   },
   {
     "id": 934089,
     "name": "Grande Rivière Noire",
     "lat": -20.36028,
-    "lon": 57.36611
+    "lng": 57.36611
   },
   {
     "id": 934533,
     "name": "Espérance Trébuchet",
     "lat": -20.06972,
-    "lon": 57.64194
+    "lng": 57.64194
   },
   {
     "id": 934656,
     "name": "Camp Thorel",
     "lat": -20.21472,
-    "lon": 57.61611
+    "lng": 57.61611
   },
   {
     "id": 934459,
     "name": "Grand Sable",
     "lat": -20.31417,
-    "lon": 57.76444
+    "lng": 57.76444
   },
   {
     "id": 933933,
     "name": "Verdun",
     "lat": -20.23417,
-    "lon": 57.55476
+    "lng": 57.55476
   },
   {
     "id": 934092,
     "name": "Rivière du Poste",
     "lat": -20.42417,
-    "lon": 57.56694
+    "lng": 57.56694
   },
   {
     "id": 1106638,
     "name": "Mare La Chaux",
     "lat": -20.19806,
-    "lon": 57.74944
+    "lng": 57.74944
   },
   {
     "id": 934517,
     "name": "Flic en Flac",
     "lat": -20.278,
-    "lon": 57.372
+    "lng": 57.372
   },
   {
     "id": 934288,
     "name": "Melrose",
     "lat": -20.26972,
-    "lon": 57.63194
+    "lng": 57.63194
   },
   {
     "id": 934705,
     "name": "Bois des Amourettes",
     "lat": -20.36306,
-    "lon": 57.73111
+    "lng": 57.73111
   },
   {
     "id": 1106621,
     "name": "Congomah",
     "lat": -20.14889,
-    "lon": 57.59083
+    "lng": 57.59083
   },
   {
     "id": 934599,
     "name": "Clémencia",
     "lat": -20.26389,
-    "lon": 57.70611
+    "lng": 57.70611
   },
   {
     "id": 934056,
     "name": "Saint Aubin",
     "lat": -20.496,
-    "lon": 57.55
+    "lng": 57.55
   },
   {
     "id": 1106589,
     "name": "Cluny",
     "lat": -20.36694,
-    "lon": 57.60389
+    "lng": 57.60389
   },
   {
     "id": 1106677,
     "name": "Bambous Virieux",
     "lat": -20.34278,
-    "lon": 57.7575
+    "lng": 57.7575
   },
   {
     "id": 934198,
     "name": "Petite Case Noyale",
     "lat": -20.404,
-    "lon": 57.371
+    "lng": 57.371
   },
   {
     "id": 1106771,
     "name": "Mapou",
     "lat": -20.07583,
-    "lon": 57.60139
+    "lng": 57.60139
   },
   {
     "id": 1106748,
     "name": "Ebene",
     "lat": -20.24494,
-    "lon": 57.49163
+    "lng": 57.49163
   },
   {
     "id": 1106683,
     "name": "Petit Bel Air",
     "lat": -20.39986,
-    "lon": 57.69513
+    "lng": 57.69513
   },
   {
     "id": 934626,
     "name": "Chamarel",
     "lat": -20.4225,
-    "lon": 57.38389
+    "lng": 57.38389
   },
   {
     "id": 1106723,
     "name": "Bananes",
     "lat": -20.34667,
-    "lon": 57.58861
+    "lng": 57.58861
   }
 ]

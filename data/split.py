@@ -24,7 +24,7 @@ for city in cities:
         "id": city.get("id"),
         "name": city.get("name"),
         "lat": float(city.get("lat")),
-        "lon": float(city.get("lon")),
+        "lng": float(city.get("lon")),
        # "pop": int(city.get("pop", 0))
     })
 

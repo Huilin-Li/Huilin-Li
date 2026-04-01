@@ -3,42 +3,42 @@
     "id": 3513794,
     "name": "Cul de Sac",
     "lat": 18.04852,
-    "lon": -63.06513
+    "lng": -63.06513
   },
   {
     "id": 3513522,
     "name": "Lower Prince’s Quarter",
     "lat": 18.04987,
-    "lon": -63.03789
+    "lng": -63.03789
   },
   {
     "id": 6985411,
     "name": "Koolbaai",
     "lat": 18.04048,
-    "lon": -63.08397
+    "lng": -63.08397
   },
   {
     "id": 10793920,
     "name": "Little Bay",
     "lat": 18.0264,
-    "lon": -63.06461
+    "lng": -63.06461
   },
   {
     "id": 3513144,
     "name": "Upper Prince’s Quarter",
     "lat": 18.03277,
-    "lon": -63.03075
+    "lng": -63.03075
   },
   {
     "id": 3513392,
     "name": "Philipsburg",
     "lat": 18.026,
-    "lon": -63.04582
+    "lng": -63.04582
   },
   {
     "id": 3513236,
     "name": "Simson Bay Village",
     "lat": 18.03783,
-    "lon": -63.11852
+    "lng": -63.11852
   }
 ]

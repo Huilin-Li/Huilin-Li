@@ -3,1218 +3,1218 @@
     "id": 3492908,
     "name": "Santo Domingo",
     "lat": 18.47186,
-    "lon": -69.89232
+    "lng": -69.89232
   },
   {
     "id": 3492914,
     "name": "Santiago de los Caballeros",
     "lat": 19.45036,
-    "lon": -70.69085
+    "lng": -70.69085
   },
   {
     "id": 7874116,
     "name": "Santo Domingo Oeste",
     "lat": 18.5,
-    "lon": -70.0
+    "lng": -70.0
   },
   {
     "id": 8601412,
     "name": "Santo Domingo Este",
     "lat": 18.48511,
-    "lon": -69.84757
+    "lng": -69.84757
   },
   {
     "id": 3493032,
     "name": "San Pedro de Macorís",
     "lat": 18.4539,
-    "lon": -69.30864
+    "lng": -69.30864
   },
   {
     "id": 3500957,
     "name": "La Romana",
     "lat": 18.42332,
-    "lon": -68.96635
+    "lng": -68.96635
   },
   {
     "id": 3511540,
     "name": "San Cristóbal",
     "lat": 18.41713,
-    "lon": -70.10682
+    "lng": -70.10682
   },
   {
     "id": 3493175,
     "name": "Puerto Plata",
     "lat": 19.79344,
-    "lon": -70.6884
+    "lng": -70.6884
   },
   {
     "id": 3493146,
     "name": "San Francisco de Macorís",
     "lat": 19.29377,
-    "lon": -70.25285
+    "lng": -70.25285
   },
   {
     "id": 3493240,
     "name": "Salvaleón de Higüey",
     "lat": 18.61501,
-    "lon": -68.70798
+    "lng": -68.70798
   },
   {
     "id": 3509382,
     "name": "La Vega",
     "lat": 19.22031,
-    "lon": -70.53101
+    "lng": -70.53101
   },
   {
     "id": 3494242,
     "name": "Punta Cana",
     "lat": 18.58182,
-    "lon": -68.40431
+    "lng": -68.40431
   },
   {
     "id": 3492985,
     "name": "Santa Cruz de Barahona",
     "lat": 18.20861,
-    "lon": -71.10068
+    "lng": -71.10068
   },
   {
     "id": 3511233,
     "name": "Bonao",
     "lat": 18.94154,
-    "lon": -70.41111
+    "lng": -70.41111
   },
   {
     "id": 3493081,
     "name": "San Juan de la Maguana",
     "lat": 18.8064,
-    "lon": -71.22626
+    "lng": -71.22626
   },
   {
     "id": 3512128,
     "name": "Bajos de Haina",
     "lat": 18.41538,
-    "lon": -70.03317
+    "lng": -70.03317
   },
   {
     "id": 3512067,
     "name": "Baní",
     "lat": 18.27971,
-    "lon": -70.33181
+    "lng": -70.33181
   },
   {
     "id": 3496331,
     "name": "Moca",
     "lat": 19.39289,
-    "lon": -70.52347
+    "lng": -70.52347
   },
   {
     "id": 3512208,
     "name": "Azua",
     "lat": 18.45319,
-    "lon": -70.7349
+    "lng": -70.7349
   },
   {
     "id": 3496831,
     "name": "Mao",
     "lat": 19.54908,
-    "lon": -71.07808
+    "lng": -71.07808
   },
   {
     "id": 3511336,
     "name": "Boca Chica",
     "lat": 18.45,
-    "lon": -69.6
+    "lng": -69.6
   },
   {
     "id": 3493283,
     "name": "Salcedo",
     "lat": 19.37766,
-    "lon": -70.41719
+    "lng": -70.41719
   },
   {
     "id": 3505855,
     "name": "Esperanza",
     "lat": 19.58469,
-    "lon": -70.98489
+    "lng": -70.98489
   },
   {
     "id": 3509207,
     "name": "Cotuí",
     "lat": 19.05385,
-    "lon": -70.15116
+    "lng": -70.15116
   },
   {
     "id": 3491952,
     "name": "Villa Altagracia",
     "lat": 18.67297,
-    "lon": -70.17095
+    "lng": -70.17095
   },
   {
     "id": 3504765,
     "name": "Hato Mayor del Rey",
     "lat": 18.76575,
-    "lon": -69.25579
+    "lng": -69.25579
   },
   {
     "id": 3496021,
     "name": "Nagua",
     "lat": 19.3832,
-    "lon": -69.8474
+    "lng": -69.8474
   },
   {
     "id": 3491948,
     "name": "Villa Bisonó",
     "lat": 19.56378,
-    "lon": -70.87582
+    "lng": -70.87582
   },
   {
     "id": 3504158,
     "name": "Jarabacoa",
     "lat": 19.11683,
-    "lon": -70.63595
+    "lng": -70.63595
   },
   {
     "id": 3509363,
     "name": "Constanza",
     "lat": 18.90919,
-    "lon": -70.74499
+    "lng": -70.74499
   },
   {
     "id": 3492984,
     "name": "Santa Cruz de El Seibo",
     "lat": 18.76484,
-    "lon": -69.03991
+    "lng": -69.03991
   },
   {
     "id": 3492517,
     "name": "Tamboril",
     "lat": 19.48538,
-    "lon": -70.61104
+    "lng": -70.61104
   },
   {
     "id": 3500370,
     "name": "Las Matas de Farfán",
     "lat": 18.87309,
-    "lon": -71.51656
+    "lng": -71.51656
   },
   {
     "id": 3493100,
     "name": "San José de Ocoa",
     "lat": 18.54685,
-    "lon": -70.50692
+    "lng": -70.50692
   },
   {
     "id": 3511626,
     "name": "Bayaguana",
     "lat": 18.75031,
-    "lon": -69.63525
+    "lng": -69.63525
   },
   {
     "id": 3493769,
     "name": "Río Grande",
     "lat": 19.66667,
-    "lon": -70.76667
+    "lng": -70.76667
   },
   {
     "id": 3496150,
     "name": "Monte Llano",
     "lat": 19.7346,
-    "lon": -70.59915
+    "lng": -70.59915
   },
   {
     "id": 3495857,
     "name": "Neiba",
     "lat": 18.4898,
-    "lon": -71.41894
+    "lng": -71.41894
   },
   {
     "id": 3494121,
     "name": "Quisqueya",
     "lat": 18.55542,
-    "lon": -69.40814
+    "lng": -69.40814
   },
   {
     "id": 3493174,
     "name": "San Fernando de Monte Cristi",
     "lat": 19.84799,
-    "lon": -71.64604
+    "lng": -71.64604
   },
   {
     "id": 3493482,
     "name": "Sabana Grande de Boyá",
     "lat": 18.94498,
-    "lon": -69.79331
+    "lng": -69.79331
   },
   {
     "id": 3508952,
     "name": "Dajabón",
     "lat": 19.54811,
-    "lon": -71.70821
+    "lng": -71.70821
   },
   {
     "id": 3493383,
     "name": "San Ignacio de Sabaneta",
     "lat": 19.47837,
-    "lon": -71.33932
+    "lng": -71.33932
   },
   {
     "id": 3496134,
     "name": "Monte Plata",
     "lat": 18.80748,
-    "lon": -69.78431
+    "lng": -69.78431
   },
   {
     "id": 3493568,
     "name": "Sabana de la Mar",
     "lat": 19.05934,
-    "lon": -69.38843
+    "lng": -69.38843
   },
   {
     "id": 3508694,
     "name": "Duvergé",
     "lat": 18.37839,
-    "lon": -71.52469
+    "lng": -71.52469
   },
   {
     "id": 3510637,
     "name": "Cambita Garabitos",
     "lat": 18.45458,
-    "lon": -70.19907
+    "lng": -70.19907
   },
   {
     "id": 3502052,
     "name": "La Julia",
     "lat": 18.46667,
-    "lon": -69.93333
+    "lng": -69.93333
   },
   {
     "id": 3510885,
     "name": "Cabral",
     "lat": 18.25,
-    "lon": -71.21667
+    "lng": -71.21667
   },
   {
     "id": 3509386,
     "name": "Comendador",
     "lat": 18.87755,
-    "lon": -71.70321
+    "lng": -71.70321
   },
   {
     "id": 3493271,
     "name": "Salsipuedes",
     "lat": 19.40552,
-    "lon": -70.37985
+    "lng": -70.37985
   },
   {
     "id": 3491905,
     "name": "Villa Vásquez",
     "lat": 19.7411,
-    "lon": -71.4464
+    "lng": -71.4464
   },
   {
     "id": 3491796,
     "name": "Yamasá",
     "lat": 18.77315,
-    "lon": -70.02583
+    "lng": -70.02583
   },
   {
     "id": 3493143,
     "name": "San Gregorio de Nigua",
     "lat": 18.38336,
-    "lon": -70.05241
+    "lng": -70.05241
   },
   {
     "id": 3492997,
     "name": "Samaná",
     "lat": 19.20404,
-    "lon": -69.33407
+    "lng": -69.33407
   },
   {
     "id": 3493198,
     "name": "Sánchez",
     "lat": 19.2281,
-    "lon": -69.6137
+    "lng": -69.6137
   },
   {
     "id": 3495137,
     "name": "Pedernales",
     "lat": 18.03562,
-    "lon": -71.7467
+    "lng": -71.7467
   },
   {
     "id": 3492030,
     "name": "Vicente Noble",
     "lat": 18.38443,
-    "lon": -71.18009
+    "lng": -71.18009
   },
   {
     "id": 3493410,
     "name": "Sabana Yegua",
     "lat": 18.71667,
-    "lon": -71.01667
+    "lng": -71.01667
   },
   {
     "id": 3500367,
     "name": "Las Matas de Santa Cruz",
     "lat": 19.67119,
-    "lon": -71.50471
+    "lng": -71.50471
   },
   {
     "id": 3491937,
     "name": "Villa González",
     "lat": 19.54057,
-    "lon": -70.78853
+    "lng": -70.78853
   },
   {
     "id": 3505778,
     "name": "Fantino",
     "lat": 19.12148,
-    "lon": -70.29972
+    "lng": -70.29972
   },
   {
     "id": 3493103,
     "name": "San José de Las Matas",
     "lat": 19.33915,
-    "lon": -70.93819
+    "lng": -70.93819
   },
   {
     "id": 3500518,
     "name": "Las Guáranas",
     "lat": 19.1931,
-    "lon": -70.20835
+    "lng": -70.20835
   },
   {
     "id": 3494768,
     "name": "Pimentel",
     "lat": 19.18416,
-    "lon": -70.10884
+    "lng": -70.10884
   },
   {
     "id": 3496396,
     "name": "Miches",
     "lat": 18.98364,
-    "lon": -69.0476
+    "lng": -69.0476
   },
   {
     "id": 3491927,
     "name": "Villa Jaragua",
     "lat": 18.49077,
-    "lon": -71.48377
+    "lng": -71.48377
   },
   {
     "id": 3493743,
     "name": "Río San Juan",
     "lat": 19.64385,
-    "lon": -70.07635
+    "lng": -70.07635
   },
   {
     "id": 3494863,
     "name": "Piedra Blanca",
     "lat": 18.84431,
-    "lon": -70.31688
+    "lng": -70.31688
   },
   {
     "id": 3495664,
     "name": "Padre Las Casas",
     "lat": 18.73172,
-    "lon": -70.93917
+    "lng": -70.93917
   },
   {
     "id": 7290233,
     "name": "Zona Colonial",
     "lat": 18.47,
-    "lon": -69.88644
+    "lng": -69.88644
   },
   {
     "id": 3504332,
     "name": "Imbert",
     "lat": 19.75371,
-    "lon": -70.82906
+    "lng": -70.82906
   },
   {
     "id": 3500243,
     "name": "Las Terrenas",
     "lat": 19.31102,
-    "lon": -69.5428
+    "lng": -69.5428
   },
   {
     "id": 3492628,
     "name": "Sosúa",
     "lat": 19.7522,
-    "lon": -70.51995
+    "lng": -70.51995
   },
   {
     "id": 3502373,
     "name": "Laguna Salada",
     "lat": 19.65043,
-    "lon": -71.08429
+    "lng": -71.08429
   },
   {
     "id": 3492477,
     "name": "Tenares",
     "lat": 19.37439,
-    "lon": -70.35087
+    "lng": -70.35087
   },
   {
     "id": 3495020,
     "name": "Peralta",
     "lat": 18.58164,
-    "lon": -70.77029
+    "lng": -70.77029
   },
   {
     "id": 3507628,
     "name": "El Factor",
     "lat": 19.31834,
-    "lon": -69.88827
+    "lng": -69.88827
   },
   {
     "id": 3495159,
     "name": "Paya",
     "lat": 18.26196,
-    "lon": -70.2956
+    "lng": -70.2956
   },
   {
     "id": 3499602,
     "name": "Loma de Cabrera",
     "lat": 19.43333,
-    "lon": -71.6
+    "lng": -71.6
   },
   {
     "id": 3496284,
     "name": "Monción",
     "lat": 19.41083,
-    "lon": -71.15257
+    "lng": -71.15257
   },
   {
     "id": 3504077,
     "name": "Jimaní",
     "lat": 18.48775,
-    "lon": -71.85148
+    "lng": -71.85148
   },
   {
     "id": 3495811,
     "name": "Nizao",
     "lat": 18.24697,
-    "lon": -70.21053
+    "lng": -70.21053
   },
   {
     "id": 3505488,
     "name": "Gaspar Hernández",
     "lat": 19.62748,
-    "lon": -70.27772
+    "lng": -70.27772
   },
   {
     "id": 3495272,
     "name": "Paraíso",
     "lat": 17.99172,
-    "lon": -71.16526
+    "lng": -71.16526
   },
   {
     "id": 3499748,
     "name": "Licey al Medio",
     "lat": 19.43333,
-    "lon": -70.6
+    "lng": -70.6
   },
   {
     "id": 3492520,
     "name": "Tamayo",
     "lat": 18.3947,
-    "lon": -71.2029
+    "lng": -71.2029
   },
   {
     "id": 3510065,
     "name": "Castillo",
     "lat": 19.20824,
-    "lon": -70.02726
+    "lng": -70.02726
   },
   {
     "id": 3504080,
     "name": "Jima Abajo",
     "lat": 19.13292,
-    "lon": -70.37607
+    "lng": -70.37607
   },
   {
     "id": 3504951,
     "name": "Guaymate",
     "lat": 18.58793,
-    "lon": -68.97867
+    "lng": -68.97867
   },
   {
     "id": 3495694,
     "name": "Otra Banda",
     "lat": 18.65017,
-    "lon": -68.66281
+    "lng": -68.66281
   },
   {
     "id": 3505517,
     "name": "Galván",
     "lat": 18.50228,
-    "lon": -71.34271
+    "lng": -71.34271
   },
   {
     "id": 3493873,
     "name": "Rincón",
     "lat": 19.11938,
-    "lon": -70.40632
+    "lng": -70.40632
   },
   {
     "id": 3492073,
     "name": "Veragua Arriba",
     "lat": 19.58333,
-    "lon": -70.33333
+    "lng": -70.33333
   },
   {
     "id": 3491916,
     "name": "Villa Riva",
     "lat": 19.18069,
-    "lon": -69.91319
+    "lng": -69.91319
   },
   {
     "id": 3491736,
     "name": "Yayas de Viajama",
     "lat": 18.6071,
-    "lon": -70.92753
+    "lng": -70.92753
   },
   {
     "id": 3506034,
     "name": "El Valle",
     "lat": 18.97567,
-    "lon": -69.37827
+    "lng": -69.37827
   },
   {
     "id": 3492897,
     "name": "San Víctor Arriba",
     "lat": 19.47741,
-    "lon": -70.53585
+    "lng": -70.53585
   },
   {
     "id": 3491807,
     "name": "Yaguate",
     "lat": 18.3353,
-    "lon": -70.18113
+    "lng": -70.18113
   },
   {
     "id": 3505825,
     "name": "Estebanía",
     "lat": 18.4577,
-    "lon": -70.6435
+    "lng": -70.6435
   },
   {
     "id": 3503900,
     "name": "Juan de Herrera",
     "lat": 18.87402,
-    "lon": -71.2383
+    "lng": -71.2383
   },
   {
     "id": 3498191,
     "name": "Los Llanos",
     "lat": 18.62035,
-    "lon": -69.49581
+    "lng": -69.49581
   },
   {
     "id": 3502786,
     "name": "La Descubierta",
     "lat": 18.57053,
-    "lon": -71.72967
+    "lng": -71.72967
   },
   {
     "id": 3505861,
     "name": "Esperalvillo",
     "lat": 18.81509,
-    "lon": -70.03557
+    "lng": -70.03557
   },
   {
     "id": 3505947,
     "name": "Enriquillo",
     "lat": 17.9,
-    "lon": -71.23333
+    "lng": -71.23333
   },
   {
     "id": 3509882,
     "name": "Cercado Abajo",
     "lat": 18.72681,
-    "lon": -71.51742
+    "lng": -71.51742
   },
   {
     "id": 3493022,
     "name": "San Rafael del Yuma",
     "lat": 18.42993,
-    "lon": -68.6739
+    "lng": -68.6739
   },
   {
     "id": 3492123,
     "name": "Vallejuelo",
     "lat": 18.65354,
-    "lon": -71.33431
+    "lng": -71.33431
   },
   {
     "id": 3493478,
     "name": "Sabana Iglesia",
     "lat": 19.32114,
-    "lon": -70.75992
+    "lng": -70.75992
   },
   {
     "id": 3510874,
     "name": "Cabrera",
     "lat": 19.6426,
-    "lon": -69.90489
+    "lng": -69.90489
   },
   {
     "id": 3504193,
     "name": "Jaibón",
     "lat": 19.61169,
-    "lon": -71.14847
+    "lng": -71.14847
   },
   {
     "id": 3493480,
     "name": "Sabana Grande de Palenque",
     "lat": 18.26256,
-    "lon": -70.14821
+    "lng": -70.14821
   },
   {
     "id": 3500641,
     "name": "Las Charcas",
     "lat": 18.45026,
-    "lon": -70.61724
+    "lng": -70.61724
   },
   {
     "id": 3512795,
     "name": "Altamira",
     "lat": 19.6773,
-    "lon": -70.84428
+    "lng": -70.84428
   },
   {
     "id": 3500261,
     "name": "Las Salinas",
     "lat": 18.27485,
-    "lon": -71.31596
+    "lng": -71.31596
   },
   {
     "id": 3497564,
     "name": "Los Ríos",
     "lat": 18.52131,
-    "lon": -71.59106
+    "lng": -71.59106
   },
   {
     "id": 3497350,
     "name": "Luperón",
     "lat": 19.89131,
-    "lon": -70.96204
+    "lng": -70.96204
   },
   {
     "id": 3510083,
     "name": "Castañuelas",
     "lat": 19.71387,
-    "lon": -71.49876
+    "lng": -71.49876
   },
   {
     "id": 3494329,
     "name": "Pueblo Viejo",
     "lat": 18.4,
-    "lon": -70.76765
+    "lng": -70.76765
   },
   {
     "id": 3496601,
     "name": "Matanzas",
     "lat": 18.24297,
-    "lon": -70.41768
+    "lng": -70.41768
   },
   {
     "id": 3510969,
     "name": "Cabarete",
     "lat": 19.74982,
-    "lon": -70.40829
+    "lng": -70.40829
   },
   {
     "id": 3506630,
     "name": "El Peñón",
     "lat": 18.29643,
-    "lon": -71.1841
+    "lng": -71.1841
   },
   {
     "id": 3509823,
     "name": "Cevicos",
     "lat": 19.00449,
-    "lon": -69.97896
+    "lng": -69.97896
   },
   {
     "id": 3499230,
     "name": "Los Botados",
     "lat": 18.73226,
-    "lon": -69.99536
+    "lng": -69.99536
   },
   {
     "id": 3503338,
     "name": "La Canela",
     "lat": 19.47341,
-    "lon": -70.81629
+    "lng": -70.81629
   },
   {
     "id": 3504983,
     "name": "Guayabo Dulce",
     "lat": 18.65,
-    "lon": -69.28333
+    "lng": -69.28333
   },
   {
     "id": 3491929,
     "name": "Villa Isabela",
     "lat": 19.81564,
-    "lon": -71.06056
+    "lng": -71.06056
   },
   {
     "id": 3495024,
     "name": "Pepillo Salcedo",
     "lat": 19.69841,
-    "lon": -71.74513
+    "lng": -71.74513
   },
   {
     "id": 3492367,
     "name": "Tireo Arriba",
     "lat": 18.93537,
-    "lon": -70.6885
+    "lng": -70.6885
   },
   {
     "id": 3492557,
     "name": "Tábara Arriba",
     "lat": 18.56999,
-    "lon": -70.87978
+    "lng": -70.87978
   },
   {
     "id": 3504466,
     "name": "Hondo Valle",
     "lat": 18.71599,
-    "lon": -71.69511
+    "lng": -71.69511
   },
   {
     "id": 3495555,
     "name": "Palmar Arriba",
     "lat": 19.53957,
-    "lon": -70.73826
+    "lng": -70.73826
   },
   {
     "id": 3493732,
     "name": "Río Verde Arriba",
     "lat": 19.31583,
-    "lon": -70.56643
+    "lng": -70.56643
   },
   {
     "id": 3504793,
     "name": "Hatillo Palma",
     "lat": 19.66256,
-    "lon": -71.19406
+    "lng": -71.19406
   },
   {
     "id": 3497204,
     "name": "Maizal",
     "lat": 19.63655,
-    "lon": -71.02734
+    "lng": -71.02734
   },
   {
     "id": 3506415,
     "name": "El Puerto",
     "lat": 18.78333,
-    "lon": -69.46667
+    "lng": -69.46667
   },
   {
     "id": 3491908,
     "name": "Villa Tapia",
     "lat": 19.30084,
-    "lon": -70.42199
+    "lng": -70.42199
   },
   {
     "id": 3494509,
     "name": "Postrer Río",
     "lat": 18.54374,
-    "lon": -71.63561
+    "lng": -71.63561
   },
   {
     "id": 3504160,
     "name": "Jaquimeyes",
     "lat": 18.31173,
-    "lon": -71.16145
+    "lng": -71.16145
   },
   {
     "id": 3491914,
     "name": "Villarpando",
     "lat": 18.6586,
-    "lon": -71.03916
+    "lng": -71.03916
   },
   {
     "id": 3512573,
     "name": "Arenoso",
     "lat": 19.18732,
-    "lon": -69.85917
+    "lng": -69.85917
   },
   {
     "id": 3503100,
     "name": "La Ciénaga",
     "lat": 18.06858,
-    "lon": -71.10651
+    "lng": -71.10651
   },
   {
     "id": 3507461,
     "name": "El Guayabal",
     "lat": 18.7496,
-    "lon": -70.8369
+    "lng": -70.8369
   },
   {
     "id": 3498418,
     "name": "Los Hidalgos",
     "lat": 19.73333,
-    "lon": -71.03333
+    "lng": -71.03333
   },
   {
     "id": 3509191,
     "name": "Cristóbal",
     "lat": 18.29405,
-    "lon": -71.29298
+    "lng": -71.29298
   },
   {
     "id": 3494655,
     "name": "Pizarrete",
     "lat": 18.29935,
-    "lon": -70.22648
+    "lng": -70.22648
   },
   {
     "id": 3495684,
     "name": "Oviedo",
     "lat": 17.80136,
-    "lon": -71.401
+    "lng": -71.401
   },
   {
     "id": 3508083,
     "name": "El Carril",
     "lat": 18.44905,
-    "lon": -70.02785
+    "lng": -70.02785
   },
   {
     "id": 3505128,
     "name": "Guananico",
     "lat": 19.72693,
-    "lon": -70.92294
+    "lng": -70.92294
   },
   {
     "id": 3509989,
     "name": "Cayetano Germosén",
     "lat": 19.34413,
-    "lon": -70.48342
+    "lng": -70.48342
   },
   {
     "id": 3505612,
     "name": "Fundación",
     "lat": 18.28668,
-    "lon": -71.18147
+    "lng": -71.18147
   },
   {
     "id": 3506719,
     "name": "El Palmar",
     "lat": 18.41139,
-    "lon": -71.24558
+    "lng": -71.24558
   },
   {
     "id": 3507117,
     "name": "El Llano",
     "lat": 18.81667,
-    "lon": -71.63333
+    "lng": -71.63333
   },
   {
     "id": 3508761,
     "name": "Don Juan",
     "lat": 18.82774,
-    "lon": -69.94629
+    "lng": -69.94629
   },
   {
     "id": 3510363,
     "name": "Canoa",
     "lat": 18.35499,
-    "lon": -71.15851
+    "lng": -71.15851
   },
   {
     "id": 3511262,
     "name": "Bohechío",
     "lat": 18.77515,
-    "lon": -70.98889
+    "lng": -70.98889
   },
   {
     "id": 3493601,
     "name": "Sabana Buey",
     "lat": 18.27351,
-    "lon": -70.52352
+    "lng": -70.52352
   },
   {
     "id": 3504175,
     "name": "Jamao al Norte",
     "lat": 19.63552,
-    "lon": -70.44664
+    "lng": -70.44664
   },
   {
     "id": 3500013,
     "name": "La Uvilla",
     "lat": 18.36186,
-    "lon": -71.21046
+    "lng": -71.21046
   },
   {
     "id": 3494064,
     "name": "Ramón Santana",
     "lat": 18.54224,
-    "lon": -69.17979
+    "lng": -69.17979
   },
   {
     "id": 3495256,
     "name": "Partido",
     "lat": 19.48403,
-    "lon": -71.5473
+    "lng": -71.5473
   },
   {
     "id": 3494584,
     "name": "Polo",
     "lat": 18.07873,
-    "lon": -71.28723
+    "lng": -71.28723
   },
   {
     "id": 3494979,
     "name": "Pescadería",
     "lat": 18.26766,
-    "lon": -71.16612
+    "lng": -71.16612
   },
   {
     "id": 3495115,
     "name": "Pedro Corto",
     "lat": 18.84856,
-    "lon": -71.41041
+    "lng": -71.41041
   },
   {
     "id": 3493887,
     "name": "Restauración",
     "lat": 19.31532,
-    "lon": -71.69239
+    "lng": -71.69239
   },
   {
     "id": 3505432,
     "name": "Gonzalo",
     "lat": 18.95147,
-    "lon": -69.75114
+    "lng": -69.75114
   },
   {
     "id": 3496446,
     "name": "Mella",
     "lat": 18.35871,
-    "lon": -71.41716
+    "lng": -71.41716
   },
   {
     "id": 3512166,
     "name": "Baitoa",
     "lat": 19.32512,
-    "lon": -70.70357
+    "lng": -70.70357
   },
   {
     "id": 3508286,
     "name": "El Cacao",
     "lat": 18.52719,
-    "lon": -70.29585
+    "lng": -70.29585
   },
   {
     "id": 3495546,
     "name": "Palmar de Ocoa",
     "lat": 18.29656,
-    "lon": -70.58635
+    "lng": -70.58635
   },
   {
     "id": 3511277,
     "name": "Boca de Yuma",
     "lat": 18.37825,
-    "lon": -68.609
+    "lng": -68.609
   },
   {
     "id": 3512332,
     "name": "Arroyo Salado",
     "lat": 19.5,
-    "lon": -69.9
+    "lng": -69.9
   },
   {
     "id": 3512720,
     "name": "Amina",
     "lat": 19.54813,
-    "lon": -70.99599
+    "lng": -70.99599
   },
   {
     "id": 3510822,
     "name": "Cachón",
     "lat": 18.24833,
-    "lon": -71.18912
+    "lng": -71.18912
   },
   {
     "id": 3512902,
     "name": "Agua Santa del Yuna",
     "lat": 19.15072,
-    "lon": -69.80069
+    "lng": -69.80069
   },
   {
     "id": 3504438,
     "name": "Hostos",
     "lat": 19.18043,
-    "lon": -70.02046
+    "lng": -70.02046
   },
   {
     "id": 3510553,
     "name": "Cana Chapetón",
     "lat": 19.60703,
-    "lon": -71.25734
+    "lng": -71.25734
   },
   {
     "id": 3504097,
     "name": "Jicomé",
     "lat": 19.64955,
-    "lon": -70.94927
+    "lng": -70.94927
   },
   {
     "id": 3505034,
     "name": "Guatapanal",
     "lat": 19.50705,
-    "lon": -70.91713
+    "lng": -70.91713
   },
   {
     "id": 3505819,
     "name": "Estero Hondo",
     "lat": 19.82712,
-    "lon": -71.17411
+    "lng": -71.17411
   },
   {
     "id": 3503910,
     "name": "Juancho",
     "lat": 17.85782,
-    "lon": -71.29311
+    "lng": -71.29311
   },
   {
     "id": 3495102,
     "name": "Pedro Sánchez",
     "lat": 18.86375,
-    "lon": -69.10868
+    "lng": -69.10868
   },
   {
     "id": 3503811,
     "name": "Juan Santiago",
     "lat": 18.70342,
-    "lon": -71.58971
+    "lng": -71.58971
   },
   {
     "id": 3503845,
     "name": "Juan López Abajo",
     "lat": 19.43333,
-    "lon": -70.5
+    "lng": -70.5
   },
   {
     "id": 3506541,
     "name": "El Pino",
     "lat": 19.43537,
-    "lon": -71.4754
+    "lng": -71.4754
   },
   {
     "id": 3505029,
     "name": "Guayabal",
     "lat": 18.5981,
-    "lon": -71.64184
+    "lng": -71.64184
   },
   {
     "id": 3504033,
     "name": "Joba Arriba",
     "lat": 19.56667,
-    "lon": -70.26667
+    "lng": -70.26667
   },
   {
     "id": 3495111,
     "name": "Pedro García",
     "lat": 19.59202,
-    "lon": -70.65256
+    "lng": -70.65256
   },
   {
     "id": 3512064,
     "name": "Bánica",
     "lat": 19.08239,
-    "lon": -71.7054
+    "lng": -71.7054
   },
   {
     "id": 3497176,
     "name": "Majagual",
     "lat": 19.04134,
-    "lon": -69.83616
+    "lng": -69.83616
   },
   {
     "id": 3493756,
     "name": "Río Limpio",
     "lat": 19.24513,
-    "lon": -71.53077
+    "lng": -71.53077
   },
   {
     "id": 3503950,
     "name": "Juan Adrián",
     "lat": 18.76365,
-    "lon": -70.33732
+    "lng": -70.33732
   },
   {
     "id": 3503782,
     "name": "Juncalito Abajo",
     "lat": 19.2199,
-    "lon": -70.81905
+    "lng": -70.81905
   },
   {
     "id": 3493537,
     "name": "Sabana del Puerto",
     "lat": 19.06667,
-    "lon": -70.41667
+    "lng": -70.41667
   },
   {
     "id": 3495098,
     "name": "Pedro Santana",
     "lat": 19.10515,
-    "lon": -71.69498
+    "lng": -71.69498
   },
   {
     "id": 3491943,
     "name": "Villa Elisa",
     "lat": 19.6856,
-    "lon": -71.27007
+    "lng": -71.27007
   },
   {
     "id": 3502745,
     "name": "La Entrada",
     "lat": 19.55367,
-    "lon": -69.90762
+    "lng": -69.90762
   },
   {
     "id": 3503256,
     "name": "La Caya",
     "lat": 19.69981,
-    "lon": -71.12084
+    "lng": -71.12084
   },
   {
     "id": 3496574,
     "name": "Matayaya",
     "lat": 18.89036,
-    "lon": -71.59459
+    "lng": -71.59459
   },
   {
     "id": 3501329,
     "name": "La Peña",
     "lat": 19.27676,
-    "lon": -70.17173
+    "lng": -70.17173
   },
   {
     "id": 3506241,
     "name": "El Rubio",
     "lat": 19.36966,
-    "lon": -71.06964
+    "lng": -71.06964
   },
   {
     "id": 3503981,
     "name": "José Contreras",
     "lat": 19.46954,
-    "lon": -70.45253
+    "lng": -70.45253
   },
   {
     "id": 3509921,
     "name": "Cenoví",
     "lat": 19.2545,
-    "lon": -70.368
+    "lng": -70.368
   }
 ]

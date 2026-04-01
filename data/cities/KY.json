@@ -3,414 +3,414 @@
     "id": 3580661,
     "name": "George Town",
     "lat": 19.2866,
-    "lon": -81.37436
+    "lng": -81.37436
   },
   {
     "id": 3580477,
     "name": "West Bay",
     "lat": 19.38197,
-    "lon": -81.39281
+    "lng": -81.39281
   },
   {
     "id": 3580733,
     "name": "Bodden Town",
     "lat": 19.27647,
-    "lon": -81.2542
+    "lng": -81.2542
   },
   {
     "id": 3580713,
     "name": "Channel Land",
     "lat": 19.34365,
-    "lon": -81.21762
+    "lng": -81.21762
   },
   {
     "id": 3580590,
     "name": "Midland Acres",
     "lat": 19.29862,
-    "lon": -81.22061
+    "lng": -81.22061
   },
   {
     "id": 3580662,
     "name": "Further Ground",
     "lat": 19.34149,
-    "lon": -81.19896
+    "lng": -81.19896
   },
   {
     "id": 3580495,
     "name": "The Mountain",
     "lat": 19.3309,
-    "lon": -81.19905
+    "lng": -81.19905
   },
   {
     "id": 3580572,
     "name": "North Sound Estates",
     "lat": 19.29303,
-    "lon": -81.30242
+    "lng": -81.30242
   },
   {
     "id": 3580725,
     "name": "Breakers",
     "lat": 19.2961,
-    "lon": -81.19844
+    "lng": -81.19844
   },
   {
     "id": 3580666,
     "name": "Frank Sound",
     "lat": 19.30239,
-    "lon": -81.18194
+    "lng": -81.18194
   },
   {
     "id": 3580471,
     "name": "Whitehall Estates",
     "lat": 19.31313,
-    "lon": -81.38208
+    "lng": -81.38208
   },
   {
     "id": 3580571,
     "name": "North Ward",
     "lat": 19.28439,
-    "lon": -81.27053
+    "lng": -81.27053
   },
   {
     "id": 3580556,
     "name": "Pedro",
     "lat": 19.27581,
-    "lon": -81.27487
+    "lng": -81.27487
   },
   {
     "id": 3580601,
     "name": "Lower Valley",
     "lat": 19.2804,
-    "lon": -81.28431
+    "lng": -81.28431
   },
   {
     "id": 3580723,
     "name": "Brinkleys",
     "lat": 19.34909,
-    "lon": -81.2409
+    "lng": -81.2409
   },
   {
     "id": 3580682,
     "name": "Driftwood Village",
     "lat": 19.35339,
-    "lon": -81.24647
+    "lng": -81.24647
   },
   {
     "id": 3580633,
     "name": "Hutland",
     "lat": 19.34922,
-    "lon": -81.21346
+    "lng": -81.21346
   },
   {
     "id": 3580566,
     "name": "Old Man Bay",
     "lat": 19.34419,
-    "lon": -81.17652
+    "lng": -81.17652
   },
   {
     "id": 3580580,
     "name": "Newlands",
     "lat": 19.28542,
-    "lon": -81.302
+    "lng": -81.302
   },
   {
     "id": 3580528,
     "name": "Savannah Acres",
     "lat": 19.28023,
-    "lon": -81.29996
+    "lng": -81.29996
   },
   {
     "id": 3580762,
     "name": "Ally Land",
     "lat": 19.34101,
-    "lon": -81.1194
+    "lng": -81.1194
   },
   {
     "id": 3580717,
     "name": "Cayman Palms",
     "lat": 19.27759,
-    "lon": -81.2699
+    "lng": -81.2699
   },
   {
     "id": 3580540,
     "name": "Saint James",
     "lat": 19.26713,
-    "lon": -81.28887
+    "lng": -81.28887
   },
   {
     "id": 3580529,
     "name": "Savannah",
     "lat": 19.2806,
-    "lon": -81.29866
+    "lng": -81.29866
   },
   {
     "id": 3580562,
     "name": "Omega Gardens",
     "lat": 19.29239,
-    "lon": -81.32675
+    "lng": -81.32675
   },
   {
     "id": 3580751,
     "name": "Belford Estates",
     "lat": 19.28472,
-    "lon": -81.2464
+    "lng": -81.2464
   },
   {
     "id": 3580557,
     "name": "Pease Bay",
     "lat": 19.28781,
-    "lon": -81.24166
+    "lng": -81.24166
   },
   {
     "id": 3580551,
     "name": "Prospect Park",
     "lat": 19.28072,
-    "lon": -81.3302
+    "lng": -81.3302
   },
   {
     "id": 3580506,
     "name": "Spotts",
     "lat": 19.2742,
-    "lon": -81.31256
+    "lng": -81.31256
   },
   {
     "id": 3580547,
     "name": "Red Bay Estate",
     "lat": 19.28724,
-    "lon": -81.34125
+    "lng": -81.34125
   },
   {
     "id": 3580490,
     "name": "Tropical Gardens",
     "lat": 19.29124,
-    "lon": -81.34894
+    "lng": -81.34894
   },
   {
     "id": 3580553,
     "name": "Prospect",
     "lat": 19.27971,
-    "lon": -81.33277
+    "lng": -81.33277
   },
   {
     "id": 3580724,
     "name": "Breezy Castle",
     "lat": 19.29613,
-    "lon": -81.36068
+    "lng": -81.36068
   },
   {
     "id": 3580650,
     "name": "Gun Bay",
     "lat": 19.31077,
-    "lon": -81.09202
+    "lng": -81.09202
   },
   {
     "id": 3580647,
     "name": "Half Moon Bay",
     "lat": 19.29689,
-    "lon": -81.15102
+    "lng": -81.15102
   },
   {
     "id": 3580645,
     "name": "Half Way Pond",
     "lat": 19.28687,
-    "lon": -81.37212
+    "lng": -81.37212
   },
   {
     "id": 3580742,
     "name": "Blakes",
     "lat": 19.30338,
-    "lon": -81.09753
+    "lng": -81.09753
   },
   {
     "id": 3580637,
     "name": "High Rock",
     "lat": 19.29467,
-    "lon": -81.13195
+    "lng": -81.13195
   },
   {
     "id": 3580636,
     "name": "High Rock Estates",
     "lat": 19.29875,
-    "lon": -81.14654
+    "lng": -81.14654
   },
   {
     "id": 3580489,
     "name": "Upper Land",
     "lat": 19.36258,
-    "lon": -81.38703
+    "lng": -81.38703
   },
   {
     "id": 3580533,
     "name": "Sand Bluff",
     "lat": 19.31788,
-    "lon": -81.08802
+    "lng": -81.08802
   },
   {
     "id": 3580709,
     "name": "Colliers",
     "lat": 19.34097,
-    "lon": -81.09179
+    "lng": -81.09179
   },
   {
     "id": 3580729,
     "name": "Botabano",
     "lat": 19.37709,
-    "lon": -81.38469
+    "lng": -81.38469
   },
   {
     "id": 3580754,
     "name": "Battle Ground",
     "lat": 19.37658,
-    "lon": -81.3949
+    "lng": -81.3949
   },
   {
     "id": 3580743,
     "name": "Birch Tree Hill",
     "lat": 19.38478,
-    "lon": -81.39991
+    "lng": -81.39991
   },
   {
     "id": 3580679,
     "name": "Dusty Place",
     "lat": 19.3787,
-    "lon": -81.39507
+    "lng": -81.39507
   },
   {
     "id": 3580583,
     "name": "Mount Pleasant",
     "lat": 19.38329,
-    "lon": -81.39137
+    "lng": -81.39137
   },
   {
     "id": 3580498,
     "name": "The Common",
     "lat": 19.3793,
-    "lon": -81.40102
+    "lng": -81.40102
   },
   {
     "id": 3580484,
     "name": "Water Ground",
     "lat": 19.37581,
-    "lon": -81.40026
+    "lng": -81.40026
   },
   {
     "id": 3580701,
     "name": "Coral Gables",
     "lat": 19.37329,
-    "lon": -81.4142
+    "lng": -81.4142
   },
   {
     "id": 3580488,
     "name": "Vicksville",
     "lat": 19.37754,
-    "lon": -81.41637
+    "lng": -81.41637
   },
   {
     "id": 3580491,
     "name": "Town Hall Crescent",
     "lat": 19.37462,
-    "lon": -81.40655
+    "lng": -81.40655
   },
   {
     "id": 3580563,
     "name": "Old Stores",
     "lat": 19.39273,
-    "lon": -81.39358
+    "lng": -81.39358
   },
   {
     "id": 11205015,
     "name": "Seven Miles",
     "lat": 19.33366,
-    "lon": -81.38062
+    "lng": -81.38062
   },
   {
     "id": 3580639,
     "name": "Hell",
     "lat": 19.3801,
-    "lon": -81.40694
+    "lng": -81.40694
   },
   {
     "id": 3580575,
     "name": "North Side",
     "lat": 19.35143,
-    "lon": -81.20851
+    "lng": -81.20851
   },
   {
     "id": 3580678,
     "name": "East End",
     "lat": 19.3,
-    "lon": -81.11667
+    "lng": -81.11667
   },
   {
     "id": 3580587,
     "name": "Molusca Heights",
     "lat": 19.73232,
-    "lon": -79.78745
+    "lng": -79.78745
   },
   {
     "id": 3580497,
     "name": "The Moorings",
     "lat": 19.73333,
-    "lon": -79.78333
+    "lng": -79.78333
   },
   {
     "id": 3580494,
     "name": "Tibbetts Turn",
     "lat": 19.73345,
-    "lon": -79.78374
+    "lng": -79.78374
   },
   {
     "id": 3580483,
     "name": "Watering Place",
     "lat": 19.73692,
-    "lon": -79.77805
+    "lng": -79.77805
   },
   {
     "id": 3580646,
     "name": "Half Way Ground",
     "lat": 19.72119,
-    "lon": -79.82195
+    "lng": -79.82195
   },
   {
     "id": 3580692,
     "name": "Creek",
     "lat": 19.74435,
-    "lon": -79.76574
+    "lng": -79.76574
   },
   {
     "id": 9241039,
     "name": "Rum Point",
     "lat": 19.36415,
-    "lon": -81.26145
+    "lng": -81.26145
   },
   {
     "id": 3580755,
     "name": "Battle Ground",
     "lat": 19.7385,
-    "lon": -79.76086
+    "lng": -79.76086
   },
   {
     "id": 3580510,
     "name": "Spot Bay",
     "lat": 19.75433,
-    "lon": -79.74592
+    "lng": -79.74592
   },
   {
     "id": 3580758,
     "name": "Banksville",
     "lat": 19.70113,
-    "lon": -79.84826
+    "lng": -79.84826
   },
   {
     "id": 3580667,
     "name": "Foster Land",
     "lat": 19.74403,
-    "lon": -79.73595
+    "lng": -79.73595
   },
   {
     "id": 3580663,
     "name": "Frenchman’s Fort",
     "lat": 19.69395,
-    "lon": -79.87906
+    "lng": -79.87906
   }
 ]

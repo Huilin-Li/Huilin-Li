@@ -3,156 +3,156 @@
     "id": 935264,
     "name": "Saint-Denis",
     "lat": -20.88231,
-    "lon": 55.4504
+    "lng": 55.4504
   },
   {
     "id": 935221,
     "name": "Saint-Paul",
     "lat": -21.00961,
-    "lon": 55.27134
+    "lng": 55.27134
   },
   {
     "id": 935214,
     "name": "Saint-Pierre",
     "lat": -21.3393,
-    "lon": 55.47811
+    "lng": 55.47811
   },
   {
     "id": 935582,
     "name": "Le Tampon",
     "lat": -21.2766,
-    "lon": 55.51766
+    "lng": 55.51766
   },
   {
     "id": 935268,
     "name": "Saint-André",
     "lat": -20.96333,
-    "lon": 55.65031
+    "lng": 55.65031
   },
   {
     "id": 935223,
     "name": "Saint-Louis",
     "lat": -21.28585,
-    "lon": 55.41124
+    "lng": 55.41124
   },
   {
     "id": 935227,
     "name": "Saint-Joseph",
     "lat": -21.3777,
-    "lon": 55.61691
+    "lng": 55.61691
   },
   {
     "id": 935267,
     "name": "Saint-Benoît",
     "lat": -21.03795,
-    "lon": 55.71546
+    "lng": 55.71546
   },
   {
     "id": 935691,
     "name": "La Possession",
     "lat": -20.92909,
-    "lon": 55.3348
+    "lng": 55.3348
   },
   {
     "id": 935225,
     "name": "Saint-Leu",
     "lat": -21.17059,
-    "lon": 55.28824
+    "lng": 55.28824
   },
   {
     "id": 935255,
     "name": "Sainte-Marie",
     "lat": -20.89686,
-    "lon": 55.55056
+    "lng": 55.55056
   },
   {
     "id": 935616,
     "name": "Le Port",
     "lat": -20.93752,
-    "lon": 55.29415
+    "lng": 55.29415
   },
   {
     "id": 7932385,
     "name": "Piton Saint-Leu",
     "lat": -21.21962,
-    "lon": 55.31513
+    "lng": 55.31513
   },
   {
     "id": 935248,
     "name": "Sainte-Suzanne",
     "lat": -20.90616,
-    "lon": 55.60788
+    "lng": 55.60788
   },
   {
     "id": 935902,
     "name": "L'Étang-Salé",
     "lat": -21.25,
-    "lon": 55.38333
+    "lng": 55.38333
   },
   {
     "id": 936048,
     "name": "Bras-Panon",
     "lat": -20.99667,
-    "lon": 55.67823
+    "lng": 55.67823
   },
   {
     "id": 935416,
     "name": "Petite-Île",
     "lat": -21.35327,
-    "lon": 55.56427
+    "lng": 55.56427
   },
   {
     "id": 935608,
     "name": "Les Avirons",
     "lat": -21.24063,
-    "lon": 55.33685
+    "lng": 55.33685
   },
   {
     "id": 935210,
     "name": "Salazie",
     "lat": -21.0271,
-    "lon": 55.5395
+    "lng": 55.5395
   },
   {
     "id": 935146,
     "name": "Les Trois-Bassins",
     "lat": -21.1,
-    "lon": 55.3
+    "lng": 55.3
   },
   {
     "id": 935915,
     "name": "Entre-Deux",
     "lat": -21.23333,
-    "lon": 55.46667
+    "lng": 55.46667
   },
   {
     "id": 935251,
     "name": "Sainte-Rose",
     "lat": -21.12858,
-    "lon": 55.79616
+    "lng": 55.79616
   },
   {
     "id": 935694,
     "name": "La Plaine-des-Palmistes",
     "lat": -21.13425,
-    "lon": 55.62819
+    "lng": 55.62819
   },
   {
     "id": 935975,
     "name": "Cilaos",
     "lat": -21.13641,
-    "lon": 55.47187
+    "lng": 55.47187
   },
   {
     "id": 935215,
     "name": "Saint-Philippe",
     "lat": -21.36086,
-    "lon": 55.7679
+    "lng": 55.7679
   },
   {
     "id": 935713,
     "name": "La Mare",
     "lat": -20.8978,
-    "lon": 55.53264
+    "lng": 55.53264
   }
 ]

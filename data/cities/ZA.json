@@ -3,5604 +3,5604 @@
     "id": 993800,
     "name": "Johannesburg",
     "lat": -26.20227,
-    "lon": 28.04363
+    "lng": 28.04363
   },
   {
     "id": 3369157,
     "name": "Cape Town",
     "lat": -33.92584,
-    "lon": 18.42322
+    "lng": 18.42322
   },
   {
     "id": 1007311,
     "name": "Durban",
     "lat": -29.8579,
-    "lon": 31.0292
+    "lng": 31.0292
   },
   {
     "id": 964137,
     "name": "Pretoria",
     "lat": -25.74486,
-    "lon": 28.18783
+    "lng": 28.18783
   },
   {
     "id": 953781,
     "name": "Soweto",
     "lat": -26.26781,
-    "lon": 27.85849
+    "lng": 27.85849
   },
   {
     "id": 964420,
     "name": "Port Elizabeth",
     "lat": -33.96109,
-    "lon": 25.61494
+    "lng": 25.61494
   },
   {
     "id": 954013,
     "name": "Soshanguve",
     "lat": -25.47288,
-    "lon": 28.09919
+    "lng": 28.09919
   },
   {
     "id": 965301,
     "name": "Pietermaritzburg",
     "lat": -29.61679,
-    "lon": 30.39278
+    "lng": 30.39278
   },
   {
     "id": 1004866,
     "name": "Evaton",
     "lat": -26.53333,
-    "lon": 27.85
+    "lng": 27.85
   },
   {
     "id": 1020098,
     "name": "Benoni",
     "lat": -26.18848,
-    "lon": 28.32078
+    "lng": 28.32078
   },
   {
     "id": 1018725,
     "name": "Bloemfontein",
     "lat": -29.12107,
-    "lon": 26.214
+    "lng": 26.214
   },
   {
     "id": 949880,
     "name": "Thembisa",
     "lat": -25.99636,
-    "lon": 28.2268
+    "lng": 28.2268
   },
   {
     "id": 1006984,
     "name": "East London",
     "lat": -33.01529,
-    "lon": 27.91162
+    "lng": 27.91162
   },
   {
     "id": 944385,
     "name": "Vereeniging",
     "lat": -26.67313,
-    "lon": 27.92615
+    "lng": 27.92615
   },
   {
     "id": 1017780,
     "name": "Boksburg",
     "lat": -26.21197,
-    "lon": 28.25958
+    "lng": 28.25958
   },
   {
     "id": 940909,
     "name": "Welkom",
     "lat": -27.97742,
-    "lon": 26.73506
+    "lng": 26.73506
   },
   {
     "id": 971421,
     "name": "Newcastle",
     "lat": -27.75796,
-    "lon": 29.9318
+    "lng": 29.9318
   },
   {
     "id": 986822,
     "name": "Krugersdorp",
     "lat": -26.08577,
-    "lon": 27.77515
+    "lng": 27.77515
   },
   {
     "id": 958724,
     "name": "Rustenburg",
     "lat": -25.66756,
-    "lon": 27.24208
+    "lng": 27.24208
   },
   {
     "id": 939270,
     "name": "Emalahleni",
     "lat": -25.87133,
-    "lon": 29.23323
+    "lng": 29.23323
   },
   {
     "id": 963241,
     "name": "Randburg",
     "lat": -26.0941,
-    "lon": 28.00123
+    "lng": 28.00123
   },
   {
     "id": 936374,
     "name": "Roodepoort",
     "lat": -26.1625,
-    "lon": 27.8725
+    "lng": 27.8725
   },
   {
     "id": 1016670,
     "name": "Botshabelo",
     "lat": -29.26737,
-    "lon": 26.72595
+    "lng": 26.72595
   },
   {
     "id": 1016181,
     "name": "Brakpan",
     "lat": -26.23656,
-    "lon": 28.36938
+    "lng": 28.36938
   },
   {
     "id": 946877,
     "name": "Kariega",
     "lat": -33.75562,
-    "lon": 25.40074
+    "lng": 25.40074
   },
   {
     "id": 965289,
     "name": "Polokwane",
     "lat": -23.90449,
-    "lon": 29.46885
+    "lng": 29.46885
   },
   {
     "id": 962367,
     "name": "Richards Bay",
     "lat": -28.78301,
-    "lon": 32.03768
+    "lng": 32.03768
   },
   {
     "id": 944986,
     "name": "Vanderbijlpark",
     "lat": -26.71171,
-    "lon": 27.83795
+    "lng": 27.83795
   },
   {
     "id": 3363094,
     "name": "Paarl",
     "lat": -33.73378,
-    "lon": 18.97523
+    "lng": 18.97523
   },
   {
     "id": 1105777,
     "name": "Centurion",
     "lat": -25.85891,
-    "lon": 28.18577
+    "lng": 28.18577
   },
   {
     "id": 989921,
     "name": "Klerksdorp",
     "lat": -26.85213,
-    "lon": 26.66672
+    "lng": 26.66672
   },
   {
     "id": 6951112,
     "name": "Somerset West",
     "lat": -34.08401,
-    "lon": 18.82113
+    "lng": 18.82113
   },
   {
     "id": 977432,
     "name": "Mdantsane",
     "lat": -32.93324,
-    "lon": 27.77656
+    "lng": 27.77656
   },
   {
     "id": 976361,
     "name": "Middelburg",
     "lat": -25.77507,
-    "lon": 29.46482
+    "lng": 29.46482
   },
   {
     "id": 1002145,
     "name": "George",
     "lat": -33.963,
-    "lon": 22.46173
+    "lng": 22.46173
   },
   {
     "id": 1014073,
     "name": "Carletonville",
     "lat": -26.36094,
-    "lon": 27.39767
+    "lng": 27.39767
   },
   {
     "id": 964349,
     "name": "Potchefstroom",
     "lat": -26.71667,
-    "lon": 27.1
+    "lng": 27.1
   },
   {
     "id": 946058,
     "name": "Mthatha",
     "lat": -31.58893,
-    "lon": 28.78443
+    "lng": 28.78443
   },
   {
     "id": 952734,
     "name": "KwaDukuza",
     "lat": -29.32816,
-    "lon": 31.28954
+    "lng": 31.28954
   },
   {
     "id": 940316,
     "name": "Westonaria",
     "lat": -26.31905,
-    "lon": 27.6486
+    "lng": 27.6486
   },
   {
     "id": 11204106,
     "name": "Etwatwa",
     "lat": -26.12516,
-    "lon": 28.45472
+    "lng": 28.45472
   },
   {
     "id": 942470,
     "name": "Vryheid",
     "lat": -27.76952,
-    "lon": 30.79165
+    "lng": 30.79165
   },
   {
     "id": 965154,
     "name": "Pinetown",
     "lat": -29.82068,
-    "lon": 30.88674
+    "lng": 30.88674
   },
   {
     "id": 984998,
     "name": "Ladysmith",
     "lat": -28.55874,
-    "lon": 29.77896
+    "lng": 29.77896
   },
   {
     "id": 1005646,
     "name": "eMbalenhle",
     "lat": -26.53333,
-    "lon": 29.06667
+    "lng": 29.06667
   },
   {
     "id": 990930,
     "name": "Kimberley",
     "lat": -28.73226,
-    "lon": 24.76232
+    "lng": 24.76232
   },
   {
     "id": 970566,
     "name": "Nigel",
     "lat": -26.43138,
-    "lon": 28.47713
+    "lng": 28.47713
   },
   {
     "id": 973111,
     "name": "Mpumalanga",
     "lat": -29.81292,
-    "lon": 30.63646
+    "lng": 30.63646
   },
   {
     "id": 1019330,
     "name": "Bhisho",
     "lat": -32.84721,
-    "lon": 27.44218
+    "lng": 27.44218
   },
   {
     "id": 957487,
     "name": "Sasolburg",
     "lat": -26.81358,
-    "lon": 27.81695
+    "lng": 27.81695
   },
   {
     "id": 963230,
     "name": "Randfontein",
     "lat": -26.1844,
-    "lon": 27.70203
+    "lng": 27.70203
   },
   {
     "id": 3359041,
     "name": "Worcester",
     "lat": -33.64651,
-    "lon": 19.44852
+    "lng": 19.44852
   },
   {
     "id": 11205667,
     "name": "Ntuzuma",
     "lat": -29.739,
-    "lon": 30.949
+    "lng": 30.949
   },
   {
     "id": 943882,
     "name": "Virginia",
     "lat": -28.10391,
-    "lon": 26.86593
+    "lng": 26.86593
   },
   {
     "id": 1015621,
     "name": "Brits",
     "lat": -25.63473,
-    "lon": 27.78022
+    "lng": 27.78022
   },
   {
     "id": 1023441,
     "name": "Alberton",
     "lat": -26.26786,
-    "lon": 28.12225
+    "lng": 28.12225
   },
   {
     "id": 963516,
     "name": "Queenstown",
     "lat": -31.89756,
-    "lon": 26.87533
+    "lng": 26.87533
   },
   {
     "id": 986846,
     "name": "Kroonstad",
     "lat": -27.65036,
-    "lon": 27.23488
+    "lng": 27.23488
   },
   {
     "id": 1105728,
     "name": "Somaroboro",
     "lat": -25.34604,
-    "lon": 28.83431
+    "lng": 28.83431
   },
   {
     "id": 998082,
     "name": "Hammanskraal",
     "lat": -25.40892,
-    "lon": 28.287
+    "lng": 28.287
   },
   {
     "id": 980921,
     "name": "Mabopane",
     "lat": -25.509,
-    "lon": 28.064
+    "lng": 28.064
   },
   {
     "id": 971534,
     "name": "Mbombela",
     "lat": -25.47512,
-    "lon": 30.96935
+    "lng": 30.96935
   },
   {
     "id": 967476,
     "name": "Orkney",
     "lat": -26.98023,
-    "lon": 26.67272
+    "lng": 26.67272
   },
   {
     "id": 965528,
     "name": "Phalaborwa",
     "lat": -23.94299,
-    "lon": 31.14107
+    "lng": 31.14107
   },
   {
     "id": 949224,
     "name": "Thohoyandou",
     "lat": -22.94564,
-    "lon": 30.48497
+    "lng": 30.48497
   },
   {
     "id": 948542,
     "name": "Tokoza",
     "lat": -26.36,
-    "lon": 28.129
+    "lng": 28.129
   },
   {
     "id": 952747,
     "name": "Standerton",
     "lat": -26.93366,
-    "lon": 29.24152
+    "lng": 29.24152
   },
   {
     "id": 964315,
     "name": "Mokopane",
     "lat": -24.19436,
-    "lon": 29.00974
+    "lng": 29.00974
   },
   {
     "id": 1005125,
     "name": "Ermelo",
     "lat": -26.53333,
-    "lon": 29.98333
+    "lng": 29.98333
   },
   {
     "id": 3361025,
     "name": "Stellenbosch",
     "lat": -33.93462,
-    "lon": 18.86676
+    "lng": 18.86676
   },
   {
     "id": 986083,
     "name": "Kutloanong",
     "lat": -27.83333,
-    "lon": 26.75
+    "lng": 26.75
   },
   {
     "id": 952192,
     "name": "Stilfontein",
     "lat": -26.84493,
-    "lon": 26.76829
+    "lng": 26.76829
   },
   {
     "id": 990849,
     "name": "Qonce",
     "lat": -32.88076,
-    "lon": 27.39377
+    "lng": 27.39377
   },
   {
     "id": 1011031,
     "name": "Delmas",
     "lat": -26.1466,
-    "lon": 28.68322
+    "lng": 28.68322
   },
   {
     "id": 1000501,
     "name": "Grahamstown",
     "lat": -33.30422,
-    "lon": 26.53276
+    "lng": 26.53276
   },
   {
     "id": 1019704,
     "name": "Bethlehem",
     "lat": -28.23078,
-    "lon": 28.30707
+    "lng": 28.30707
   },
   {
     "id": 1002851,
     "name": "Ga-Rankuwa",
     "lat": -25.61692,
-    "lon": 27.99471
+    "lng": 27.99471
   },
   {
     "id": 941966,
     "name": "Bela Bela",
     "lat": -24.88333,
-    "lon": 28.28333
+    "lng": 28.28333
   },
   {
     "id": 1105776,
     "name": "Midrand",
     "lat": -25.976,
-    "lon": 28.118
+    "lng": 28.118
   },
   {
     "id": 981827,
     "name": "Louis Trichardt",
     "lat": -23.04385,
-    "lon": 29.90319
+    "lng": 29.90319
   },
   {
     "id": 997151,
     "name": "Heidelberg",
     "lat": -26.50476,
-    "lon": 28.35921
+    "lng": 28.35921
   },
   {
     "id": 1007400,
     "name": "Dundee",
     "lat": -28.16678,
-    "lon": 30.23371
+    "lng": 30.23371
   },
   {
     "id": 965241,
     "name": "Piet Retief",
     "lat": -27.00706,
-    "lon": 30.81323
+    "lng": 30.81323
   },
   {
     "id": 965401,
     "name": "Phuthaditjhaba",
     "lat": -28.52423,
-    "lon": 28.81582
+    "lng": 28.81582
   },
   {
     "id": 3370352,
     "name": "Atlantis",
     "lat": -33.56668,
-    "lon": 18.48335
+    "lng": 18.48335
   },
   {
     "id": 973709,
     "name": "Mossel Bay",
     "lat": -34.18307,
-    "lon": 22.14605
+    "lng": 22.14605
   },
   {
     "id": 980595,
     "name": "Mafikeng",
     "lat": -25.86522,
-    "lon": 25.64421
+    "lng": 25.64421
   },
   {
     "id": 968477,
     "name": "Odendaalsrus",
     "lat": -27.87394,
-    "lon": 26.69072
+    "lng": 26.69072
   },
   {
     "id": 967106,
     "name": "Oudtshoorn",
     "lat": -33.60047,
-    "lon": 22.19955
+    "lng": 22.19955
   },
   {
     "id": 1019760,
     "name": "Bethal",
     "lat": -26.45794,
-    "lon": 29.46553
+    "lng": 29.46553
   },
   {
     "id": 949703,
     "name": "Thaba Nchu",
     "lat": -29.20932,
-    "lon": 26.83898
+    "lng": 26.83898
   },
   {
     "id": 1016698,
     "name": "Bothaville",
     "lat": -27.3887,
-    "lon": 26.61701
+    "lng": 26.61701
   },
   {
     "id": 945945,
     "name": "Upington",
     "lat": -28.44776,
-    "lon": 21.25612
+    "lng": 21.25612
   },
   {
     "id": 966166,
     "name": "Parys",
     "lat": -26.9033,
-    "lon": 27.45727
+    "lng": 27.45727
   },
   {
     "id": 956907,
     "name": "Schweizer-Reneke",
     "lat": -27.18871,
-    "lon": 25.32931
+    "lng": 25.32931
   },
   {
     "id": 988698,
     "name": "Knysna",
     "lat": -34.03627,
-    "lon": 23.04713
+    "lng": 23.04713
   },
   {
     "id": 3361934,
     "name": "Saldanha",
     "lat": -33.01167,
-    "lon": 17.9442
+    "lng": 17.9442
   },
   {
     "id": 1021086,
     "name": "Barberton",
     "lat": -25.78842,
-    "lon": 31.05319
+    "lng": 31.05319
   },
   {
     "id": 982899,
     "name": "Lichtenburg",
     "lat": -26.152,
-    "lon": 26.15968
+    "lng": 26.15968
   },
   {
     "id": 948468,
     "name": "Tongaat",
     "lat": -29.57366,
-    "lon": 31.11552
+    "lng": 31.11552
   },
   {
     "id": 1000543,
     "name": "Graaff Reinet",
     "lat": -32.25215,
-    "lon": 24.53075
+    "lng": 24.53075
   },
   {
     "id": 1004109,
     "name": "Fochville",
     "lat": -26.48862,
-    "lon": 27.49387
+    "lng": 27.49387
   },
   {
     "id": 988356,
     "name": "Kokstad",
     "lat": -30.54723,
-    "lon": 29.42412
+    "lng": 29.42412
   },
   {
     "id": 1003953,
     "name": "Fort Beaufort",
     "lat": -32.77477,
-    "lon": 26.63376
+    "lng": 26.63376
   },
   {
     "id": 1105726,
     "name": "Ekangala",
     "lat": -25.668,
-    "lon": 28.73
+    "lng": 28.73
   },
   {
     "id": 3365083,
     "name": "Kraaifontein",
     "lat": -33.84808,
-    "lon": 18.71723
+    "lng": 18.71723
   },
   {
     "id": 3366880,
     "name": "Hermanus",
     "lat": -34.4187,
-    "lon": 19.23446
+    "lng": 19.23446
   },
   {
     "id": 942511,
     "name": "Vryburg",
     "lat": -26.95659,
-    "lon": 24.7284
+    "lng": 24.7284
   },
   {
     "id": 3359510,
     "name": "Wellington",
     "lat": -33.63981,
-    "lon": 19.0112
+    "lng": 19.0112
   },
   {
     "id": 943960,
     "name": "Viljoenskroon",
     "lat": -27.20841,
-    "lon": 26.94855
+    "lng": 26.94855
   },
   {
     "id": 3368254,
     "name": "Durbanville",
     "lat": -33.83079,
-    "lon": 18.6486
+    "lng": 18.6486
   },
   {
     "id": 985885,
     "name": "Kwaggafontein",
     "lat": -25.32729,
-    "lon": 28.94224
+    "lng": 28.94224
   },
   {
     "id": 974670,
     "name": "Mondlo",
     "lat": -27.98299,
-    "lon": 30.71769
+    "lng": 30.71769
   },
   {
     "id": 1014489,
     "name": "Butterworth",
     "lat": -32.33083,
-    "lon": 28.14981
+    "lng": 28.14981
   },
   {
     "id": 964406,
     "name": "Port Shepstone",
     "lat": -30.74137,
-    "lon": 30.45499
+    "lng": 30.45499
   },
   {
     "id": 948130,
     "name": "Trichardt",
     "lat": -26.49155,
-    "lon": 29.22878
+    "lng": 29.22878
   },
   {
     "id": 970341,
     "name": "Nkowakowa",
     "lat": -23.88782,
-    "lon": 30.28708
+    "lng": 30.28708
   },
   {
     "id": 8030223,
     "name": "Musina",
     "lat": -22.34881,
-    "lon": 30.04074
+    "lng": 30.04074
   },
   {
     "id": 968665,
     "name": "Modimolle",
     "lat": -24.7,
-    "lon": 28.4
+    "lng": 28.4
   },
   {
     "id": 12718846,
     "name": "Letlhabile",
     "lat": -25.48238,
-    "lon": 27.83925
+    "lng": 27.83925
   },
   {
     "id": 981158,
     "name": "Lydenburg",
     "lat": -25.09598,
-    "lon": 30.44393
+    "lng": 30.44393
   },
   {
     "id": 11204446,
     "name": "Mankweng",
     "lat": -23.88384,
-    "lon": 29.70557
+    "lng": 29.70557
   },
   {
     "id": 1004303,
     "name": "Ficksburg",
     "lat": -28.872,
-    "lon": 27.87506
+    "lng": 27.87506
   },
   {
     "id": 938457,
     "name": "Wolmaransstad",
     "lat": -27.1974,
-    "lon": 25.98311
+    "lng": 25.98311
   },
   {
     "id": 1006834,
     "name": "Edenvale",
     "lat": -26.14095,
-    "lon": 28.15247
+    "lng": 28.15247
   },
   {
     "id": 1005029,
     "name": "eSikhaleni",
     "lat": -28.87097,
-    "lon": 31.89961
+    "lng": 31.89961
   },
   {
     "id": 977975,
     "name": "Matsulu",
     "lat": -25.52297,
-    "lon": 31.35693
+    "lng": 31.35693
   },
   {
     "id": 1021396,
     "name": "Balfour",
     "lat": -26.66331,
-    "lon": 28.59016
+    "lng": 28.59016
   },
   {
     "id": 3359741,
     "name": "Vredenburg",
     "lat": -32.90719,
-    "lon": 17.98997
+    "lng": 17.98997
   },
   {
     "id": 1020641,
     "name": "Beaufort West",
     "lat": -32.35671,
-    "lon": 22.58295
+    "lng": 22.58295
   },
   {
     "id": 1023309,
     "name": "Aliwal North",
     "lat": -30.69366,
-    "lon": 26.71141
+    "lng": 26.71141
   },
   {
     "id": 955313,
     "name": "Siyabuswa",
     "lat": -25.11319,
-    "lon": 29.04454
+    "lng": 29.04454
   },
   {
     "id": 1012600,
     "name": "Cradock",
     "lat": -32.16422,
-    "lon": 25.61918
+    "lng": 25.61918
   },
   {
     "id": 943032,
     "name": "Volksrust",
     "lat": -27.36541,
-    "lon": 29.88175
+    "lng": 29.88175
   },
   {
     "id": 3364346,
     "name": "Malmesbury",
     "lat": -33.4608,
-    "lon": 18.72714
+    "lng": 18.72714
   },
   {
     "id": 11204552,
     "name": "Mkhuhlu",
     "lat": -24.98776,
-    "lon": 31.2385
+    "lng": 31.2385
   },
   {
     "id": 940424,
     "name": "Wesselsbron",
     "lat": -27.8549,
-    "lon": 26.36583
+    "lng": 26.36583
   },
   {
     "id": 12718813,
     "name": "Lebowakgomo",
     "lat": -24.31457,
-    "lon": 29.50078
+    "lng": 29.50078
   },
   {
     "id": 3369129,
     "name": "Ceres",
     "lat": -33.36889,
-    "lon": 19.31095
+    "lng": 19.31095
   },
   {
     "id": 1015504,
     "name": "Bronkhorstspruit",
     "lat": -25.81015,
-    "lon": 28.74248
+    "lng": 28.74248
   },
   {
     "id": 956507,
     "name": "Senekal",
     "lat": -28.31971,
-    "lon": 27.62082
+    "lng": 27.62082
   },
   {
     "id": 983065,
     "name": "Leslie",
     "lat": -26.36737,
-    "lon": 28.9189
+    "lng": 28.9189
   },
   {
     "id": 964712,
     "name": "Plettenberg Bay",
     "lat": -34.05274,
-    "lon": 23.3716
+    "lng": 23.3716
   },
   {
     "id": 8063456,
     "name": "Mandeni",
     "lat": -29.14691,
-    "lon": 31.41403
+    "lng": 31.41403
   },
   {
     "id": 3367513,
     "name": "Grabouw",
     "lat": -34.15152,
-    "lon": 19.01509
+    "lng": 19.01509
   },
   {
     "id": 11204240,
     "name": "Lukwatini",
     "lat": -26.05501,
-    "lon": 30.82292
+    "lng": 30.82292
   },
   {
     "id": 1001860,
     "name": "Giyani",
     "lat": -23.30246,
-    "lon": 30.71868
+    "lng": 30.71868
   },
   {
     "id": 1014306,
     "name": "Calcutta",
     "lat": -24.98317,
-    "lon": 31.23485
+    "lng": 31.23485
   },
   {
     "id": 951650,
     "name": "Stutterheim",
     "lat": -32.57076,
-    "lon": 27.42396
+    "lng": 27.42396
   },
   {
     "id": 1007140,
     "name": "Dwarsloop",
     "lat": -24.79456,
-    "lon": 31.10277
+    "lng": 31.10277
   },
   {
     "id": 995094,
     "name": "Humansdorp",
     "lat": -34.02903,
-    "lon": 24.76912
+    "lng": 24.76912
   },
   {
     "id": 949282,
     "name": "Theunissen",
     "lat": -28.41098,
-    "lon": 26.70107
+    "lng": 26.70107
   },
   {
     "id": 949683,
     "name": "Thabazimbi",
     "lat": -24.59165,
-    "lon": 27.41155
+    "lng": 27.41155
   },
   {
     "id": 978895,
     "name": "Margate",
     "lat": -30.8636,
-    "lon": 30.37052
+    "lng": 30.37052
   },
   {
     "id": 1012413,
     "name": "Cullinan",
     "lat": -25.67088,
-    "lon": 28.52364
+    "lng": 28.52364
   },
   {
     "id": 940509,
     "name": "Wembesi",
     "lat": -29.04912,
-    "lon": 29.78232
+    "lng": 29.78232
   },
   {
     "id": 940186,
     "name": "Whittlesea",
     "lat": -32.17588,
-    "lon": 26.82437
+    "lng": 26.82437
   },
   {
     "id": 1023713,
     "name": "Acornhoek",
     "lat": -24.5878,
-    "lon": 31.09467
+    "lng": 31.09467
   },
   {
     "id": 1018673,
     "name": "Bloemhof",
     "lat": -27.64685,
-    "lon": 25.60697
+    "lng": 25.60697
   },
   {
     "id": 997751,
     "name": "Harrismith",
     "lat": -28.27276,
-    "lon": 29.12946
+    "lng": 29.12946
   },
   {
     "id": 3362349,
     "name": "Robertson",
     "lat": -33.80342,
-    "lon": 19.88537
+    "lng": 19.88537
   },
   {
     "id": 972803,
     "name": "Mtubatuba",
     "lat": -28.41789,
-    "lon": 32.18483
+    "lng": 32.18483
   },
   {
     "id": 1005544,
     "name": "Empangeni",
     "lat": -28.76197,
-    "lon": 31.89329
+    "lng": 31.89329
   },
   {
     "id": 997140,
     "name": "Heilbron",
     "lat": -27.28115,
-    "lon": 27.9709
+    "lng": 27.9709
   },
   {
     "id": 993910,
     "name": "Jeffreys Bay",
     "lat": -34.04526,
-    "lon": 24.92146
+    "lng": 24.92146
   },
   {
     "id": 995202,
     "name": "Howick",
     "lat": -29.47795,
-    "lon": 30.23057
+    "lng": 30.23057
   },
   {
     "id": 962330,
     "name": "Richmond",
     "lat": -29.87196,
-    "lon": 30.27235
+    "lng": 30.27235
   },
   {
     "id": 1011632,
     "name": "De Aar",
     "lat": -30.64966,
-    "lon": 24.0123
+    "lng": 24.0123
   },
   {
     "id": 946257,
     "name": "Ulundi",
     "lat": -28.33523,
-    "lon": 31.41617
+    "lng": 31.41617
   },
   {
     "id": 1023287,
     "name": "Allanridge",
     "lat": -27.75431,
-    "lon": 26.64382
+    "lng": 26.64382
   },
   {
     "id": 8604906,
     "name": "Hartbeestfontein-A",
     "lat": -25.44141,
-    "lon": 27.51114
+    "lng": 27.51114
   },
   {
     "id": 11428880,
     "name": "Lebohang",
     "lat": -26.37945,
-    "lon": 28.92112
+    "lng": 28.92112
   },
   {
     "id": 8629684,
     "name": "Marapong",
     "lat": -23.65506,
-    "lon": 27.62495
+    "lng": 27.62495
   },
   {
     "id": 1003763,
     "name": "Frankfort",
     "lat": -27.27888,
-    "lon": 28.49696
+    "lng": 28.49696
   },
   {
     "id": 964432,
     "name": "Port Alfred",
     "lat": -33.58601,
-    "lon": 26.88329
+    "lng": 26.88329
   },
   {
     "id": 985015,
     "name": "Ladybrand",
     "lat": -29.19448,
-    "lon": 27.45739
+    "lng": 27.45739
   },
   {
     "id": 973139,
     "name": "Mpophomeni",
     "lat": -29.56822,
-    "lon": 30.18618
+    "lng": 30.18618
   },
   {
     "id": 964363,
     "name": "Postmasburg",
     "lat": -28.33392,
-    "lon": 23.06541
+    "lng": 23.06541
   },
   {
     "id": 972206,
     "name": "Mookgophong",
     "lat": -24.51667,
-    "lon": 28.71667
+    "lng": 28.71667
   },
   {
     "id": 12750584,
     "name": "Nhlazatje",
     "lat": -26.04027,
-    "lon": 30.79268
+    "lng": 30.79268
   },
   {
     "id": 1008261,
     "name": "Driefontein",
     "lat": -26.96501,
-    "lon": 30.43571
+    "lng": 30.43571
   },
   {
     "id": 1014747,
     "name": "Bultfontein",
     "lat": -28.28756,
-    "lon": 26.14996
+    "lng": 26.14996
   },
   {
     "id": 1021360,
     "name": "Ballitoville",
     "lat": -29.53897,
-    "lon": 31.21439
+    "lng": 31.21439
   },
   {
     "id": 956232,
     "name": "Shakaskraal",
     "lat": -29.44931,
-    "lon": 31.21532
+    "lng": 31.21532
   },
   {
     "id": 996930,
     "name": "Hendrina",
     "lat": -26.15881,
-    "lon": 29.71528
+    "lng": 29.71528
   },
   {
     "id": 997678,
     "name": "Hartbeespoort",
     "lat": -25.7287,
-    "lon": 27.87
+    "lng": 27.87
   },
   {
     "id": 12718812,
     "name": "Praktiseer",
     "lat": -24.58398,
-    "lon": 30.31684
+    "lng": 30.31684
   },
   {
     "id": 944531,
     "name": "Ventersdorp",
     "lat": -26.31401,
-    "lon": 26.82223
+    "lng": 26.82223
   },
   {
     "id": 1004962,
     "name": "Estcourt",
     "lat": -29.01269,
-    "lon": 29.86619
+    "lng": 29.86619
   },
   {
     "id": 1009863,
     "name": "Dimbaza",
     "lat": -32.83483,
-    "lon": 27.21742
+    "lng": 27.21742
   },
   {
     "id": 8604596,
     "name": "Retreat",
     "lat": -34.05515,
-    "lon": 18.47617
+    "lng": 18.47617
   },
   {
     "id": 938694,
     "name": "White River",
     "lat": -25.33177,
-    "lon": 31.01166
+    "lng": 31.01166
   },
   {
     "id": 1022982,
     "name": "Amandelbult",
     "lat": -24.81811,
-    "lon": 27.29659
+    "lng": 27.29659
   },
   {
     "id": 11204695,
     "name": "Kamaqhekeza",
     "lat": -25.67031,
-    "lon": 31.86288
+    "lng": 31.86288
   },
   {
     "id": 985011,
     "name": "Lady Frere",
     "lat": -31.70312,
-    "lon": 27.2329
+    "lng": 27.2329
   },
   {
     "id": 1013550,
     "name": "Christiana",
     "lat": -27.91402,
-    "lon": 25.16111
+    "lng": 25.16111
   },
   {
     "id": 8030233,
     "name": "Midstream",
     "lat": -25.91849,
-    "lon": 28.19881
+    "lng": 28.19881
   },
   {
     "id": 12718757,
     "name": "Phomolong",
     "lat": -28.01274,
-    "lon": 27.08234
+    "lng": 27.08234
   },
   {
     "id": 1007514,
     "name": "Duiwelskloof",
     "lat": -23.69339,
-    "lon": 30.14002
+    "lng": 30.14002
   },
   {
     "id": 962847,
     "name": "Reitz",
     "lat": -27.80138,
-    "lon": 28.42726
+    "lng": 28.42726
   },
   {
     "id": 956878,
     "name": "Scottburgh",
     "lat": -30.28666,
-    "lon": 30.75316
+    "lng": 30.75316
   },
   {
     "id": 994432,
     "name": "Itsoseng",
     "lat": -26.08159,
-    "lon": 25.88124
+    "lng": 25.88124
   },
   {
     "id": 1000937,
     "name": "Gonubie",
     "lat": -32.94433,
-    "lon": 28.01496
+    "lng": 28.01496
   },
   {
     "id": 11204123,
     "name": "Marikana",
     "lat": -25.699,
-    "lon": 27.47475
+    "lng": 27.47475
   },
   {
     "id": 987648,
     "name": "Koster",
     "lat": -25.86301,
-    "lon": 26.89756
+    "lng": 26.89756
   },
   {
     "id": 1010962,
     "name": "Deneysville",
     "lat": -26.8908,
-    "lon": 28.09707
+    "lng": 28.09707
   },
   {
     "id": 957178,
     "name": "Schoemansdal",
     "lat": -25.70866,
-    "lon": 31.51025
+    "lng": 31.51025
   },
   {
     "id": 12718837,
     "name": "Redhill",
     "lat": -26.26074,
-    "lon": 30.82545
+    "lng": 30.82545
   },
   {
     "id": 1000006,
     "name": "Greytown",
     "lat": -29.06415,
-    "lon": 30.59279
+    "lng": 30.59279
   },
   {
     "id": 996918,
     "name": "Hennenman",
     "lat": -27.97654,
-    "lon": 27.02423
+    "lng": 27.02423
   },
   {
     "id": 954161,
     "name": "Somerset East",
     "lat": -32.72173,
-    "lon": 25.58804
+    "lng": 25.58804
   },
   {
     "id": 976358,
     "name": "Middelburg",
     "lat": -31.49285,
-    "lon": 25.00633
+    "lng": 25.00633
   },
   {
     "id": 997718,
     "name": "Hartbeesfontein",
     "lat": -26.76566,
-    "lon": 26.42024
+    "lng": 26.42024
   },
   {
     "id": 974738,
     "name": "Moloto South",
     "lat": -25.46279,
-    "lon": 28.65041
+    "lng": 28.65041
   },
   {
     "id": 967238,
     "name": "Ottosdal",
     "lat": -26.80908,
-    "lon": 26.00538
+    "lng": 26.00538
   },
   {
     "id": 3359736,
     "name": "Vredendal",
     "lat": -31.66833,
-    "lon": 18.50119
+    "lng": 18.50119
   },
   {
     "id": 974222,
     "name": "Mooi River",
     "lat": -29.20824,
-    "lon": 29.9946
+    "lng": 29.9946
   },
   {
     "id": 966380,
     "name": "Pampierstad",
     "lat": -27.78324,
-    "lon": 24.68768
+    "lng": 24.68768
   },
   {
     "id": 1023366,
     "name": "Hlanganani",
     "lat": -24.95911,
-    "lon": 31.17025
+    "lng": 31.17025
   },
   {
     "id": 944380,
     "name": "Verena",
     "lat": -25.48251,
-    "lon": 29.02763
+    "lng": 29.02763
   },
   {
     "id": 942701,
     "name": "Vrede",
     "lat": -27.42573,
-    "lon": 29.16585
+    "lng": 29.16585
   },
   {
     "id": 7730334,
     "name": "Lephalale",
     "lat": -23.66607,
-    "lon": 27.74477
+    "lng": 27.74477
   },
   {
     "id": 1013266,
     "name": "Hlohlolwane",
     "lat": -28.91588,
-    "lon": 27.56957
+    "lng": 27.56957
   },
   {
     "id": 1001736,
     "name": "Glencoe",
     "lat": -28.17827,
-    "lon": 30.14702
+    "lng": 30.14702
   },
   {
     "id": 950709,
     "name": "Swellendam",
     "lat": -34.02262,
-    "lon": 20.44171
+    "lng": 20.44171
   },
   {
     "id": 943937,
     "name": "Villiers",
     "lat": -27.03026,
-    "lon": 28.60061
+    "lng": 28.60061
   },
   {
     "id": 1013067,
     "name": "Coligny",
     "lat": -26.33172,
-    "lon": 26.32065
+    "lng": 26.32065
   },
   {
     "id": 988290,
     "name": "Komatipoort",
     "lat": -25.43321,
-    "lon": 31.95478
+    "lng": 31.95478
   },
   {
     "id": 956767,
     "name": "Secunda",
     "lat": -26.55,
-    "lon": 29.16667
+    "lng": 29.16667
   },
   {
     "id": 946128,
     "name": "eMkhomazi",
     "lat": -30.20672,
-    "lon": 30.79641
+    "lng": 30.79641
   },
   {
     "id": 13527189,
     "name": "Mafemani",
     "lat": -24.78864,
-    "lon": 31.07938
+    "lng": 31.07938
   },
   {
     "id": 1014012,
     "name": "Carolina",
     "lat": -26.06927,
-    "lon": 30.11489
+    "lng": 30.11489
   },
   {
     "id": 1020340,
     "name": "Belfast",
     "lat": -25.68991,
-    "lon": 30.03504
+    "lng": 30.03504
   },
   {
     "id": 963525,
     "name": "Queensdale",
     "lat": -31.87101,
-    "lon": 26.97862
+    "lng": 26.97862
   },
   {
     "id": 3367877,
     "name": "Franschhoek",
     "lat": -33.91075,
-    "lon": 19.1198
+    "lng": 19.1198
   },
   {
     "id": 945141,
     "name": "Vaalwater",
     "lat": -24.2957,
-    "lon": 28.11415
+    "lng": 28.11415
   },
   {
     "id": 11205753,
     "name": "Ncotshane",
     "lat": -27.342,
-    "lon": 31.58
+    "lng": 31.58
   },
   {
     "id": 12718836,
     "name": "Vaalbank",
     "lat": -25.15226,
-    "lon": 28.85563
+    "lng": 28.85563
   },
   {
     "id": 946010,
     "name": "eMuziwezinto",
     "lat": -30.31002,
-    "lon": 30.66275
+    "lng": 30.66275
   },
   {
     "id": 961152,
     "name": "Riversdale",
     "lat": -34.09345,
-    "lon": 21.25725
+    "lng": 21.25725
   },
   {
     "id": 995573,
     "name": "Hoopstad",
     "lat": -27.83273,
-    "lon": 25.90833
+    "lng": 25.90833
   },
   {
     "id": 1014653,
     "name": "Burgersdorp",
     "lat": -30.99766,
-    "lon": 26.32862
+    "lng": 26.32862
   },
   {
     "id": 937136,
     "name": "Zeerust",
     "lat": -25.53695,
-    "lon": 26.07512
+    "lng": 26.07512
   },
   {
     "id": 12718811,
     "name": "Tshitereke",
     "lat": -22.88416,
-    "lon": 30.49358
+    "lng": 30.49358
   },
   {
     "id": 986717,
     "name": "Kruisfontein",
     "lat": -34.00333,
-    "lon": 24.73142
+    "lng": 24.73142
   },
   {
     "id": 958441,
     "name": "Sabie",
     "lat": -25.0999,
-    "lon": 30.78001
+    "lng": 30.78001
   },
   {
     "id": 937246,
     "name": "Zastron",
     "lat": -30.30225,
-    "lon": 27.08395
+    "lng": 27.08395
   },
   {
     "id": 1015776,
     "name": "Bredasdorp",
     "lat": -34.53215,
-    "lon": 20.04031
+    "lng": 20.04031
   },
   {
     "id": 978677,
     "name": "Marquard",
     "lat": -28.66449,
-    "lon": 27.43048
+    "lng": 27.43048
   },
   {
     "id": 1008064,
     "name": "Driekoppies",
     "lat": -25.69776,
-    "lon": 31.564
+    "lng": 31.564
   },
   {
     "id": 1013199,
     "name": "Clydesdale",
     "lat": -30.29831,
-    "lon": 29.93772
+    "lng": 29.93772
   },
   {
     "id": 990825,
     "name": "Kinross",
     "lat": -26.41663,
-    "lon": 29.08668
+    "lng": 29.08668
   },
   {
     "id": 987202,
     "name": "Kriel",
     "lat": -26.25,
-    "lon": 29.26
+    "lng": 29.26
   },
   {
     "id": 974611,
     "name": "Montagu",
     "lat": -33.78664,
-    "lon": 20.12106
+    "lng": 20.12106
   },
   {
     "id": 12718754,
     "name": "Ndevana",
     "lat": -32.90769,
-    "lon": 27.50973
+    "lng": 27.50973
   },
   {
     "id": 1023332,
     "name": "Alice",
     "lat": -32.78749,
-    "lon": 26.8344
+    "lng": 26.8344
   },
   {
     "id": 999602,
     "name": "Groot-Brakrivier",
     "lat": -34.04368,
-    "lon": 22.22574
+    "lng": 22.22574
   },
   {
     "id": 941931,
     "name": "Warrenton",
     "lat": -28.11396,
-    "lon": 24.84753
+    "lng": 24.84753
   },
   {
     "id": 12718835,
     "name": "Tekwane",
     "lat": -25.47776,
-    "lon": 31.14559
+    "lng": 31.14559
   },
   {
     "id": 12718756,
     "name": "Tshiame",
     "lat": -28.33057,
-    "lon": 28.99087
+    "lng": 28.99087
   },
   {
     "id": 1005040,
     "name": "Eshowe",
     "lat": -28.88649,
-    "lon": 31.4699
+    "lng": 31.4699
   },
   {
     "id": 942683,
     "name": "Vredefort",
     "lat": -27.00805,
-    "lon": 27.3646
+    "lng": 27.3646
   },
   {
     "id": 946973,
     "name": "Tzaneen",
     "lat": -23.83322,
-    "lon": 30.16351
+    "lng": 30.16351
   },
   {
     "id": 12718868,
     "name": "Le Roux",
     "lat": -33.89058,
-    "lon": 19.10328
+    "lng": 19.10328
   },
   {
     "id": 1005781,
     "name": "Khowa",
     "lat": -31.33306,
-    "lon": 27.85
+    "lng": 27.85
   },
   {
     "id": 1015694,
     "name": "Breyten",
     "lat": -26.30176,
-    "lon": 29.98696
+    "lng": 29.98696
   },
   {
     "id": 11204214,
     "name": "Ga-Malakhe",
     "lat": -30.8063,
-    "lon": 30.33484
+    "lng": 30.33484
   },
   {
     "id": 939608,
     "name": "Winburg",
     "lat": -28.51805,
-    "lon": 27.00933
+    "lng": 27.00933
   },
   {
     "id": 3369179,
     "name": "Caledon",
     "lat": -34.22997,
-    "lon": 19.4265
+    "lng": 19.4265
   },
   {
     "id": 987875,
     "name": "Koppies",
     "lat": -27.24179,
-    "lon": 27.57422
+    "lng": 27.57422
   },
   {
     "id": 12718789,
     "name": "Frischgewaagd",
     "lat": -27.38985,
-    "lon": 30.95469
+    "lng": 30.95469
   },
   {
     "id": 946932,
     "name": "Ugie",
     "lat": -31.19809,
-    "lon": 28.23351
+    "lng": 28.23351
   },
   {
     "id": 12718768,
     "name": "Bagale",
     "lat": -26.06566,
-    "lon": 27.64765
+    "lng": 27.64765
   },
   {
     "id": 984012,
     "name": "Leeudoringstad",
     "lat": -27.23712,
-    "lon": 26.23514
+    "lng": 26.23514
   },
   {
     "id": 979910,
     "name": "Makwassie",
     "lat": -27.31564,
-    "lon": 25.99497
+    "lng": 25.99497
   },
   {
     "id": 949026,
     "name": "Thulamahashi",
     "lat": -24.72459,
-    "lon": 31.19939
+    "lng": 31.19939
   },
   {
     "id": 1022145,
     "name": "Ashton",
     "lat": -33.83136,
-    "lon": 20.05595
+    "lng": 20.05595
   },
   {
     "id": 3367804,
     "name": "Gansbaai",
     "lat": -34.58301,
-    "lon": 19.35048
+    "lng": 19.35048
   },
   {
     "id": 973527,
     "name": "Tlokoeng",
     "lat": -30.69268,
-    "lon": 28.5061
+    "lng": 28.5061
   },
   {
     "id": 12718834,
     "name": "Thubelihle",
     "lat": -26.21551,
-    "lon": 29.29164
+    "lng": 29.29164
   },
   {
     "id": 12718833,
     "name": "Daggakraal",
     "lat": -27.13246,
-    "lon": 29.97635
+    "lng": 29.97635
   },
   {
     "id": 1014322,
     "name": "Cala",
     "lat": -31.52356,
-    "lon": 27.6952
+    "lng": 27.6952
   },
   {
     "id": 12750601,
     "name": "Fernie",
     "lat": -26.39015,
-    "lon": 30.78742
+    "lng": 30.78742
   },
   {
     "id": 11282157,
     "name": "Malamulele",
     "lat": -22.97111,
-    "lon": 30.67361
+    "lng": 30.67361
   },
   {
     "id": 969698,
     "name": "Northam",
     "lat": -24.95775,
-    "lon": 27.26543
+    "lng": 27.26543
   },
   {
     "id": 1003843,
     "name": "Fouriesburg",
     "lat": -28.61961,
-    "lon": 28.20966
+    "lng": 28.20966
   },
   {
     "id": 1015969,
     "name": "Winnie Mandela",
     "lat": -28.70025,
-    "lon": 26.4581
+    "lng": 26.4581
   },
   {
     "id": 965571,
     "name": "Mamafubedu",
     "lat": -27.66606,
-    "lon": 28.13132
+    "lng": 28.13132
   },
   {
     "id": 3363957,
     "name": "Moorreesburg",
     "lat": -33.15388,
-    "lon": 18.66031
+    "lng": 18.66031
   },
   {
     "id": 7302802,
     "name": "Rondebosch",
     "lat": -33.96333,
-    "lon": 18.47639
+    "lng": 18.47639
   },
   {
     "id": 1007061,
     "name": "Dysselsdorp",
     "lat": -33.57565,
-    "lon": 22.44391
+    "lng": 22.44391
   },
   {
     "id": 12718832,
     "name": "Empuluzu",
     "lat": -26.30497,
-    "lon": 30.77365
+    "lng": 30.77365
   },
   {
     "id": 1020066,
     "name": "Berea",
     "lat": -29.85185,
-    "lon": 30.99337
+    "lng": 30.99337
   },
   {
     "id": 978327,
     "name": "Matatiele",
     "lat": -30.34357,
-    "lon": 28.81161
+    "lng": 28.81161
   },
   {
     "id": 994418,
     "name": "Ixopo",
     "lat": -30.15,
-    "lon": 30.08333
+    "lng": 30.08333
   },
   {
     "id": 3362870,
     "name": "Piketberg",
     "lat": -32.90323,
-    "lon": 18.75704
+    "lng": 18.75704
   },
   {
     "id": 12718867,
     "name": "Fisantekraal",
     "lat": -33.78545,
-    "lon": 18.71406
+    "lng": 18.71406
   },
   {
     "id": 1022912,
     "name": "Amersfoort",
     "lat": -27.00941,
-    "lon": 29.86643
+    "lng": 29.86643
   },
   {
     "id": 1023656,
     "name": "Adelaide",
     "lat": -32.70747,
-    "lon": 26.29564
+    "lng": 26.29564
   },
   {
     "id": 972147,
     "name": "Namakgale",
     "lat": -23.93399,
-    "lon": 31.03119
+    "lng": 31.03119
   },
   {
     "id": 3359094,
     "name": "Wolseley",
     "lat": -33.41403,
-    "lon": 19.20052
+    "lng": 19.20052
   },
   {
     "id": 3369098,
     "name": "Claremont",
     "lat": -33.98056,
-    "lon": 18.46528
+    "lng": 18.46528
   },
   {
     "id": 983151,
     "name": "Lenyenye",
     "lat": -23.97056,
-    "lon": 30.26965
+    "lng": 30.26965
   },
   {
     "id": 982701,
     "name": "Lindley",
     "lat": -27.8791,
-    "lon": 27.91348
+    "lng": 27.91348
   },
   {
     "id": 1006420,
     "name": "Ekuvukeni",
     "lat": -28.46752,
-    "lon": 30.15513
+    "lng": 30.15513
   },
   {
     "id": 998001,
     "name": "Hankey",
     "lat": -33.83308,
-    "lon": 24.88359
+    "lng": 24.88359
   },
   {
     "id": 974719,
     "name": "Molteno",
     "lat": -31.39675,
-    "lon": 26.36246
+    "lng": 26.36246
   },
   {
     "id": 3361943,
     "name": "Saint Helena Bay",
     "lat": -32.76667,
-    "lon": 18.03333
+    "lng": 18.03333
   },
   {
     "id": 12718788,
     "name": "Craigieburn",
     "lat": -30.19709,
-    "lon": 30.75222
+    "lng": 30.75222
   },
   {
     "id": 3364208,
     "name": "Melkbosstrand",
     "lat": -33.72614,
-    "lon": 18.44286
+    "lng": 18.44286
   },
   {
     "id": 944540,
     "name": "Ventersburg",
     "lat": -28.08561,
-    "lon": 27.13814
+    "lng": 27.13814
   },
   {
     "id": 994023,
     "name": "Jan Kempdorp",
     "lat": -27.92246,
-    "lon": 24.83051
+    "lng": 24.83051
   },
   {
     "id": 11287980,
     "name": "Poortje",
     "lat": -26.45951,
-    "lon": 27.76726
+    "lng": 27.76726
   },
   {
     "id": 13527156,
     "name": "Thulamahashe",
     "lat": -24.72455,
-    "lon": 31.21181
+    "lng": 31.21181
   },
   {
     "id": 13527164,
     "name": "Xikhusese",
     "lat": -24.60238,
-    "lon": 31.13456
+    "lng": 31.13456
   },
   {
     "id": 995469,
     "name": "Hopewell",
     "lat": -29.79171,
-    "lon": 30.39588
+    "lng": 30.39588
   },
   {
     "id": 994978,
     "name": "Dutywa",
     "lat": -32.09618,
-    "lon": 28.30489
+    "lng": 28.30489
   },
   {
     "id": 3360020,
     "name": "Velddrif",
     "lat": -32.78518,
-    "lon": 18.17859
+    "lng": 18.17859
   },
   {
     "id": 957592,
     "name": "Sannieshof",
     "lat": -26.52946,
-    "lon": 25.80894
+    "lng": 25.80894
   },
   {
     "id": 941976,
     "name": "Warden",
     "lat": -27.85452,
-    "lon": 28.9653
+    "lng": 28.9653
   },
   {
     "id": 12718767,
     "name": "Rethabiseng",
     "lat": -25.72286,
-    "lon": 28.71689
+    "lng": 28.71689
   },
   {
     "id": 964078,
     "name": "Prince Albert",
     "lat": -33.22476,
-    "lon": 22.02673
+    "lng": 22.02673
   },
   {
     "id": 966060,
     "name": "Paulpietersburg",
     "lat": -27.42426,
-    "lon": 30.81689
+    "lng": 30.81689
   },
   {
     "id": 1003462,
     "name": "Ga-Kgapane",
     "lat": -23.64378,
-    "lon": 30.22324
+    "lng": 30.22324
   },
   {
     "id": 974933,
     "name": "Mogwase",
     "lat": -25.18505,
-    "lon": 27.26654
+    "lng": 27.26654
   },
   {
     "id": 12718753,
     "name": "Nomathamasanqa",
     "lat": -33.52276,
-    "lon": 25.71044
+    "lng": 25.71044
   },
   {
     "id": 994939,
     "name": "Ilinge",
     "lat": -31.97676,
-    "lon": 27.04267
+    "lng": 27.04267
   },
   {
     "id": 13527180,
     "name": "Maboke",
     "lat": -24.7254,
-    "lon": 31.01826
+    "lng": 31.01826
   },
   {
     "id": 1011062,
     "name": "Delareyville",
     "lat": -26.68638,
-    "lon": 25.45907
+    "lng": 25.45907
   },
   {
     "id": 11204017,
     "name": "Tjakastad",
     "lat": -25.989,
-    "lon": 30.823
+    "lng": 30.823
   },
   {
     "id": 13527163,
     "name": "Bolla-Tau",
     "lat": -24.63276,
-    "lon": 31.13108
+    "lng": 31.13108
   },
   {
     "id": 3368906,
     "name": "De Doorns",
     "lat": -33.47709,
-    "lon": 19.66625
+    "lng": 19.66625
   },
   {
     "id": 1105730,
     "name": "Allemansdrif",
     "lat": -25.11399,
-    "lon": 28.90949
+    "lng": 28.90949
   },
   {
     "id": 950833,
     "name": "Swartruggens",
     "lat": -25.65021,
-    "lon": 26.68856
+    "lng": 26.68856
   },
   {
     "id": 992385,
     "name": "Ka-Mhinga",
     "lat": -22.7577,
-    "lon": 30.89983
+    "lng": 30.89983
   },
   {
     "id": 980798,
     "name": "Maclear",
     "lat": -31.07104,
-    "lon": 28.35183
+    "lng": 28.35183
   },
   {
     "id": 993894,
     "name": "Embhojeni",
     "lat": -25.71794,
-    "lon": 31.4793
+    "lng": 31.4793
   },
   {
     "id": 979365,
     "name": "Mankoeng",
     "lat": -23.9,
-    "lon": 29.81667
+    "lng": 29.81667
   },
   {
     "id": 3368962,
     "name": "Darling",
     "lat": -33.37817,
-    "lon": 18.37938
+    "lng": 18.37938
   },
   {
     "id": 988429,
     "name": "Koffiefontein",
     "lat": -29.40661,
-    "lon": 25.00309
+    "lng": 25.00309
   },
   {
     "id": 951441,
     "name": "Sundumbili",
     "lat": -29.13371,
-    "lon": 31.39752
+    "lng": 31.39752
   },
   {
     "id": 1013076,
     "name": "Colesberg",
     "lat": -30.71999,
-    "lon": 25.09718
+    "lng": 25.09718
   },
   {
     "id": 1008858,
     "name": "Dordrecht",
     "lat": -31.372,
-    "lon": 27.04878
+    "lng": 27.04878
   },
   {
     "id": 1004210,
     "name": "Flagstaff",
     "lat": -31.08042,
-    "lon": 29.49522
+    "lng": 29.49522
   },
   {
     "id": 1004875,
     "name": "Evander",
     "lat": -26.47056,
-    "lon": 29.10973
+    "lng": 29.10973
   },
   {
     "id": 1023365,
     "name": "Alexandria",
     "lat": -33.65346,
-    "lon": 26.41268
+    "lng": 26.41268
   },
   {
     "id": 968562,
     "name": "Oakley",
     "lat": -24.92682,
-    "lon": 31.22888
+    "lng": 31.22888
   },
   {
     "id": 1018148,
     "name": "Bochum",
     "lat": -23.28609,
-    "lon": 29.13964
+    "lng": 29.13964
   },
   {
     "id": 3359957,
     "name": "Villiersdorp",
     "lat": -33.99121,
-    "lon": 19.29219
+    "lng": 19.29219
   },
   {
     "id": 1021046,
     "name": "Barkly East",
     "lat": -30.9683,
-    "lon": 27.59567
+    "lng": 27.59567
   },
   {
     "id": 973525,
     "name": "Mount Frere",
     "lat": -30.90173,
-    "lon": 28.99238
+    "lng": 28.99238
   },
   {
     "id": 1005470,
     "name": "Ngcobo",
     "lat": -31.6754,
-    "lon": 27.99664
+    "lng": 27.99664
   },
   {
     "id": 1001642,
     "name": "Glenharvie",
     "lat": -26.38989,
-    "lon": 27.61592
+    "lng": 27.61592
   },
   {
     "id": 1021040,
     "name": "Barkly West",
     "lat": -28.53537,
-    "lon": 24.52151
+    "lng": 24.52151
   },
   {
     "id": 12718787,
     "name": "Kgwaripe",
     "lat": -28.37007,
-    "lon": 32.34879
+    "lng": 32.34879
   },
   {
     "id": 1010627,
     "name": "Devon",
     "lat": -26.35576,
-    "lon": 28.77837
+    "lng": 28.77837
   },
   {
     "id": 940477,
     "name": "Wepener",
     "lat": -29.72866,
-    "lon": 27.03805
+    "lng": 27.03805
   },
   {
     "id": 997861,
     "name": "Harding",
     "lat": -30.57643,
-    "lon": 29.88401
+    "lng": 29.88401
   },
   {
     "id": 1010586,
     "name": "Dewetsdorp",
     "lat": -29.58274,
-    "lon": 26.66511
+    "lng": 26.66511
   },
   {
     "id": 984655,
     "name": "Emtfuntini",
     "lat": -25.68406,
-    "lon": 31.637
+    "lng": 31.637
   },
   {
     "id": 996800,
     "name": "Hertzogville",
     "lat": -28.12759,
-    "lon": 25.50387
+    "lng": 25.50387
   },
   {
     "id": 964090,
     "name": "Prieska",
     "lat": -29.66803,
-    "lon": 22.74251
+    "lng": 22.74251
   },
   {
     "id": 3368033,
     "name": "eNduli",
     "lat": -33.35637,
-    "lon": 19.34097
+    "lng": 19.34097
   },
   {
     "id": 956806,
     "name": "Sebayeng",
     "lat": -23.75827,
-    "lon": 29.66707
+    "lng": 29.66707
   },
   {
     "id": 952224,
     "name": "Steynsrus",
     "lat": -27.95333,
-    "lon": 27.56394
+    "lng": 27.56394
   },
   {
     "id": 1017620,
     "name": "Bonnievale",
     "lat": -33.93224,
-    "lon": 20.09924
+    "lng": 20.09924
   },
   {
     "id": 3364343,
     "name": "Mamre",
     "lat": -33.51273,
-    "lon": 18.47374
+    "lng": 18.47374
   },
   {
     "id": 3360396,
     "name": "Tulbagh",
     "lat": -33.28596,
-    "lon": 19.14116
+    "lng": 19.14116
   },
   {
     "id": 980845,
     "name": "Machadodorp",
     "lat": -25.6688,
-    "lon": 30.2497
+    "lng": 30.2497
   },
   {
     "id": 12718786,
     "name": "Hazelmere",
     "lat": -29.59665,
-    "lon": 31.04358
+    "lng": 31.04358
   },
   {
     "id": 1013125,
     "name": "Cofimvaba",
     "lat": -32.00115,
-    "lon": 27.58045
+    "lng": 27.58045
   },
   {
     "id": 1020592,
     "name": "Bedford",
     "lat": -32.67903,
-    "lon": 26.08686
+    "lng": 26.08686
   },
   {
     "id": 994304,
     "name": "Jacobsdal",
     "lat": -29.12792,
-    "lon": 24.77382
+    "lng": 24.77382
   },
   {
     "id": 13527192,
     "name": "Buyisonto",
     "lat": -24.79013,
-    "lon": 31.13034
+    "lng": 31.13034
   },
   {
     "id": 3361142,
     "name": "Springbok",
     "lat": -29.66434,
-    "lon": 17.8865
+    "lng": 17.8865
   },
   {
     "id": 1011881,
     "name": "Dannhauser",
     "lat": -28.0151,
-    "lon": 30.05658
+    "lng": 30.05658
   },
   {
     "id": 1017048,
     "name": "Boshof",
     "lat": -28.53914,
-    "lon": 25.23965
+    "lng": 25.23965
   },
   {
     "id": 990802,
     "name": "Kirkwood",
     "lat": -33.39829,
-    "lon": 25.44279
+    "lng": 25.44279
   },
   {
     "id": 1011918,
     "name": "Daniëlskuil",
     "lat": -28.18873,
-    "lon": 23.53951
+    "lng": 23.53951
   },
   {
     "id": 1011824,
     "name": "Darnall",
     "lat": -29.26679,
-    "lon": 31.35755
+    "lng": 31.35755
   },
   {
     "id": 965581,
     "name": "Petrusburg",
     "lat": -29.11597,
-    "lon": 25.41435
+    "lng": 25.41435
   },
   {
     "id": 973676,
     "name": "Motetema",
     "lat": -25.09468,
-    "lon": 29.46186
+    "lng": 29.46186
   },
   {
     "id": 956754,
     "name": "Sedgefield",
     "lat": -34.0211,
-    "lon": 22.8055
+    "lng": 22.8055
   },
   {
     "id": 1017565,
     "name": "Bontrug",
     "lat": -33.39786,
-    "lon": 25.48283
+    "lng": 25.48283
   },
   {
     "id": 994860,
     "name": "Inanda",
     "lat": -29.61392,
-    "lon": 30.92816
+    "lng": 30.92816
   },
   {
     "id": 3362024,
     "name": "Rosebank",
     "lat": -33.95556,
-    "lon": 18.47417
+    "lng": 18.47417
   },
   {
     "id": 980213,
     "name": "Maile",
     "lat": -25.44152,
-    "lon": 27.28165
+    "lng": 27.28165
   },
   {
     "id": 961226,
     "name": "Ritchie",
     "lat": -29.03801,
-    "lon": 24.60278
+    "lng": 24.60278
   },
   {
     "id": 3364795,
     "name": "Langebaan",
     "lat": -33.09751,
-    "lon": 18.0315
+    "lng": 18.0315
   },
   {
     "id": 991310,
     "name": "Kestell",
     "lat": -28.31094,
-    "lon": 28.7036
+    "lng": 28.7036
   },
   {
     "id": 997150,
     "name": "Heidelberg",
     "lat": -34.09127,
-    "lon": 20.95661
+    "lng": 20.95661
   },
   {
     "id": 12718752,
     "name": "Ilitha",
     "lat": -32.89243,
-    "lon": 27.5305
+    "lng": 27.5305
   },
   {
     "id": 948293,
     "name": "Touwsrivier",
     "lat": -33.33826,
-    "lon": 20.03092
+    "lng": 20.03092
   },
   {
     "id": 988265,
     "name": "Komga",
     "lat": -32.57704,
-    "lon": 27.892
+    "lng": 27.892
   },
   {
     "id": 974648,
     "name": "Monnakato",
     "lat": -25.35128,
-    "lon": 27.27377
+    "lng": 27.27377
   },
   {
     "id": 996236,
     "name": "Hluvukani",
     "lat": -24.64528,
-    "lon": 31.34103
+    "lng": 31.34103
   },
   {
     "id": 1019264,
     "name": "Bizana",
     "lat": -30.85907,
-    "lon": 29.85384
+    "lng": 29.85384
   },
   {
     "id": 993014,
     "name": "Kakamas",
     "lat": -28.77341,
-    "lon": 20.6147
+    "lng": 20.6147
   },
   {
     "id": 994804,
     "name": "Indwe",
     "lat": -31.46667,
-    "lon": 27.33333
+    "lng": 27.33333
   },
   {
     "id": 13527209,
     "name": "Khokhamoya",
     "lat": -24.95375,
-    "lon": 31.32135
+    "lng": 31.32135
   },
   {
     "id": 975404,
     "name": "Mmametlhake",
     "lat": -25.11222,
-    "lon": 28.55278
+    "lng": 28.55278
   },
   {
     "id": 3361777,
     "name": "Saron",
     "lat": -33.18078,
-    "lon": 19.00892
+    "lng": 19.00892
   },
   {
     "id": 977135,
     "name": "Melmoth",
     "lat": -28.58664,
-    "lon": 31.39783
+    "lng": 31.39783
   },
   {
     "id": 8555959,
     "name": "Klapmuts",
     "lat": -33.8111,
-    "lon": 18.86421
+    "lng": 18.86421
   },
   {
     "id": 1014994,
     "name": "Mhlambanyatsi",
     "lat": -25.66205,
-    "lon": 31.5159
+    "lng": 31.5159
   },
   {
     "id": 991664,
     "name": "Kathu",
     "lat": -27.69569,
-    "lon": 23.04929
+    "lng": 23.04929
   },
   {
     "id": 939676,
     "name": "Willowmore",
     "lat": -33.29265,
-    "lon": 23.48954
+    "lng": 23.48954
   },
   {
     "id": 3369100,
     "name": "Clanwilliam",
     "lat": -32.18173,
-    "lon": 18.89217
+    "lng": 18.89217
   },
   {
     "id": 973873,
     "name": "Morgenzon",
     "lat": -26.737,
-    "lon": 29.61774
+    "lng": 29.61774
   },
   {
     "id": 11395710,
     "name": "Shatale",
     "lat": -24.79571,
-    "lon": 31.04708
+    "lng": 31.04708
   },
   {
     "id": 970133,
     "name": "Nongoma",
     "lat": -27.90968,
-    "lon": 31.64817
+    "lng": 31.64817
   },
   {
     "id": 986134,
     "name": "Kuruman",
     "lat": -27.46353,
-    "lon": 23.43552
+    "lng": 23.43552
   },
   {
     "id": 13527167,
     "name": "Tsakani",
     "lat": -24.61933,
-    "lon": 31.05133
+    "lng": 31.05133
   },
   {
     "id": 12718845,
     "name": "Carousel View",
     "lat": -25.32264,
-    "lon": 28.28964
+    "lng": 28.28964
   },
   {
     "id": 1013911,
     "name": "Cathcart",
     "lat": -32.2985,
-    "lon": 27.14362
+    "lng": 27.14362
   },
   {
     "id": 12718751,
     "name": "Phakamisa",
     "lat": -32.93328,
-    "lon": 27.4571
+    "lng": 27.4571
   },
   {
     "id": 13527210,
     "name": "Kamalamule",
     "lat": -24.87576,
-    "lon": 31.31181
+    "lng": 31.31181
   },
   {
     "id": 959018,
     "name": "Rouxville",
     "lat": -30.41827,
-    "lon": 26.83656
+    "lng": 26.83656
   },
   {
     "id": 978786,
     "name": "Marite",
     "lat": -24.97161,
-    "lon": 31.11249
+    "lng": 31.11249
   },
   {
     "id": 11287120,
     "name": "Maluti",
     "lat": -30.26207,
-    "lon": 28.79242
+    "lng": 28.79242
   },
   {
     "id": 952249,
     "name": "Steynsburg",
     "lat": -31.29565,
-    "lon": 25.82338
+    "lng": 25.82338
   },
   {
     "id": 3369103,
     "name": "Citrusdal",
     "lat": -32.59215,
-    "lon": 19.01516
+    "lng": 19.01516
   },
   {
     "id": 952301,
     "name": "Sterkstroom",
     "lat": -31.55714,
-    "lon": 26.55417
+    "lng": 26.55417
   },
   {
     "id": 1023790,
     "name": "Aberdeen",
     "lat": -32.47588,
-    "lon": 24.06525
+    "lng": 24.06525
   },
   {
     "id": 977086,
     "name": "Memel",
     "lat": -27.68159,
-    "lon": 29.56686
+    "lng": 29.56686
   },
   {
     "id": 985020,
     "name": "Ladismith",
     "lat": -33.49331,
-    "lon": 21.26755
+    "lng": 21.26755
   },
   {
     "id": 1105727,
     "name": "Kwamhlanga",
     "lat": -25.43001,
-    "lon": 28.71218
+    "lng": 28.71218
   },
   {
     "id": 12718856,
     "name": "Nuwerus NC",
     "lat": -28.47438,
-    "lon": 21.27042
+    "lng": 21.27042
   },
   {
     "id": 945813,
     "name": "Utrecht",
     "lat": -27.65862,
-    "lon": 30.32166
+    "lng": 30.32166
   },
   {
     "id": 3362714,
     "name": "Porterville",
     "lat": -33.01816,
-    "lon": 18.99279
+    "lng": 18.99279
   },
   {
     "id": 985004,
     "name": "Lady Grey",
     "lat": -30.71084,
-    "lon": 27.21613
+    "lng": 27.21613
   },
   {
     "id": 1000023,
     "name": "Nthrowane",
     "lat": -26.74777,
-    "lon": 28.75015
+    "lng": 28.75015
   },
   {
     "id": 1021770,
     "name": "eManzana",
     "lat": -25.95414,
-    "lon": 30.5627
+    "lng": 30.5627
   },
   {
     "id": 944024,
     "name": "Victoria West",
     "lat": -31.40364,
-    "lon": 23.11461
+    "lng": 23.11461
   },
   {
     "id": 11258592,
     "name": "Lehurutshe",
     "lat": -25.4812,
-    "lon": 25.96508
+    "lng": 25.96508
   },
   {
     "id": 942136,
     "name": "Wakkerstroom",
     "lat": -27.35493,
-    "lon": 30.14384
+    "lng": 30.14384
   },
   {
     "id": 941335,
     "name": "Weenen",
     "lat": -28.84918,
-    "lon": 30.07722
+    "lng": 30.07722
   },
   {
     "id": 3362675,
     "name": "Prince Alfred Hamlet",
     "lat": -33.30392,
-    "lon": 19.32468
+    "lng": 19.32468
   },
   {
     "id": 3369174,
     "name": "Calvinia",
     "lat": -31.47069,
-    "lon": 19.77601
+    "lng": 19.77601
   },
   {
     "id": 12718831,
     "name": "Gemsbokspruit",
     "lat": -25.40339,
-    "lon": 28.87862
+    "lng": 28.87862
   },
   {
     "id": 1022857,
     "name": "eMvelo",
     "lat": -26.62455,
-    "lon": 30.66234
+    "lng": 30.66234
   },
   {
     "id": 942097,
     "name": "Walkerville",
     "lat": -26.42093,
-    "lon": 27.95251
+    "lng": 27.95251
   },
   {
     "id": 3365754,
     "name": "Kleinmond",
     "lat": -34.3394,
-    "lon": 19.03407
+    "lng": 19.03407
   },
   {
     "id": 12718830,
     "name": "Kamhlushwa",
     "lat": -25.66365,
-    "lon": 31.68337
+    "lng": 31.68337
   },
   {
     "id": 1017076,
     "name": "Bosfontein",
     "lat": -25.74237,
-    "lon": 31.61798
+    "lng": 31.61798
   },
   {
     "id": 1019700,
     "name": "Bethulie",
     "lat": -30.49864,
-    "lon": 25.97458
+    "lng": 25.97458
   },
   {
     "id": 947267,
     "name": "Tweeling",
     "lat": -27.55513,
-    "lon": 28.51609
+    "lng": 28.51609
   },
   {
     "id": 1006852,
     "name": "Edenburg",
     "lat": -29.73661,
-    "lon": 25.9364
+    "lng": 25.9364
   },
   {
     "id": 1013081,
     "name": "Colenso",
     "lat": -28.73933,
-    "lon": 29.82582
+    "lng": 29.82582
   },
   {
     "id": 1013397,
     "name": "Clarens",
     "lat": -28.5154,
-    "lon": 28.41985
+    "lng": 28.41985
   },
   {
     "id": 1023445,
     "name": "Albertina",
     "lat": -34.20544,
-    "lon": 21.58001
+    "lng": 21.58001
   },
   {
     "id": 1020854,
     "name": "Bathurst",
     "lat": -33.4998,
-    "lon": 26.8294
+    "lng": 26.8294
   },
   {
     "id": 1014650,
     "name": "Burgersfort",
     "lat": -24.67554,
-    "lon": 30.32877
+    "lng": 30.32877
   },
   {
     "id": 980557,
     "name": "Magaliesburg",
     "lat": -25.9936,
-    "lon": 27.55619
+    "lng": 27.55619
   },
   {
     "id": 12718810,
     "name": "Elandskraal",
     "lat": -24.7209,
-    "lon": 29.40783
+    "lng": 29.40783
   },
   {
     "id": 940524,
     "name": "Welverdiend",
     "lat": -24.58007,
-    "lon": 31.32559
+    "lng": 31.32559
   },
   {
     "id": 1004763,
     "name": "Excelsior",
     "lat": -28.94089,
-    "lon": 27.06069
+    "lng": 27.06069
   },
   {
     "id": 1006831,
     "name": "Edenville",
     "lat": -27.5518,
-    "lon": 27.67632
+    "lng": 27.67632
   },
   {
     "id": 3360078,
     "name": "Vanrhynsdorp",
     "lat": -31.60889,
-    "lon": 18.73968
+    "lng": 18.73968
   },
   {
     "id": 1023672,
     "name": "Addo",
     "lat": -33.54833,
-    "lon": 25.6899
+    "lng": 25.6899
   },
   {
     "id": 993612,
     "name": "Joubertina",
     "lat": -33.82547,
-    "lon": 23.85618
+    "lng": 23.85618
   },
   {
     "id": 3365921,
     "name": "Klawer",
     "lat": -31.77593,
-    "lon": 18.62497
+    "lng": 18.62497
   },
   {
     "id": 3366695,
     "name": "Hopefield",
     "lat": -33.06255,
-    "lon": 18.34907
+    "lng": 18.34907
   },
   {
     "id": 12718829,
     "name": "Emgwenya",
     "lat": -25.63684,
-    "lon": 30.32404
+    "lng": 30.32404
   },
   {
     "id": 981294,
     "name": "Lusikisiki",
     "lat": -31.36199,
-    "lon": 29.57328
+    "lng": 29.57328
   },
   {
     "id": 980457,
     "name": "Magogeni",
     "lat": -25.78841,
-    "lon": 31.60758
+    "lng": 31.60758
   },
   {
     "id": 939930,
     "name": "Wilderness",
     "lat": -33.99385,
-    "lon": 22.57574
+    "lng": 22.57574
   },
   {
     "id": 966058,
     "name": "Paul Roux",
     "lat": -28.29747,
-    "lon": 27.95042
+    "lng": 27.95042
   },
   {
     "id": 12718844,
     "name": "Umzimhle",
     "lat": -26.935,
-    "lon": 26.73074
+    "lng": 26.73074
   },
   {
     "id": 3364847,
     "name": "Lamberts Bay",
     "lat": -32.09694,
-    "lon": 18.3085
+    "lng": 18.3085
   },
   {
     "id": 981906,
     "name": "Lothair",
     "lat": -26.38939,
-    "lon": 30.43526
+    "lng": 30.43526
   },
   {
     "id": 13527151,
     "name": "Edinburgh A",
     "lat": -24.68985,
-    "lon": 31.17964
+    "lng": 31.17964
   },
   {
     "id": 12808666,
     "name": "KwaThandeka",
     "lat": -26.65372,
-    "lon": 30.678
+    "lng": 30.678
   },
   {
     "id": 950037,
     "name": "Tarkastad",
     "lat": -32.00893,
-    "lon": 26.25935
+    "lng": 26.25935
   },
   {
     "id": 939340,
     "name": "Winterton",
     "lat": -28.81229,
-    "lon": 29.54123
+    "lng": 29.54123
   },
   {
     "id": 980632,
     "name": "Madyembeni",
     "lat": -24.76969,
-    "lon": 31.02818
+    "lng": 31.02818
   },
   {
     "id": 12750587,
     "name": "Glenmore",
     "lat": -26.26469,
-    "lon": 30.84358
+    "lng": 30.84358
   },
   {
     "id": 11495909,
     "name": "Mathibela",
     "lat": -24.31249,
-    "lon": 29.31245
+    "lng": 29.31245
   },
   {
     "id": 947187,
     "name": "Tweespruit",
     "lat": -29.18521,
-    "lon": 27.03189
+    "lng": 27.03189
   },
   {
     "id": 3369056,
     "name": "Constantia",
     "lat": -34.03139,
-    "lon": 18.41833
+    "lng": 18.41833
   },
   {
     "id": 976922,
     "name": "Merry Pebble Stream",
     "lat": -24.76647,
-    "lon": 31.21869
+    "lng": 31.21869
   },
   {
     "id": 11204578,
     "name": "Trust Feed",
     "lat": -29.39967,
-    "lon": 30.54276
+    "lng": 30.54276
   },
   {
     "id": 964424,
     "name": "Port Edward",
     "lat": -31.05067,
-    "lon": 30.22799
+    "lng": 30.22799
   },
   {
     "id": 994257,
     "name": "Jagersfontein",
     "lat": -29.76126,
-    "lon": 25.42706
+    "lng": 25.42706
   },
   {
     "id": 947739,
     "name": "Tsolo",
     "lat": -31.30781,
-    "lon": 28.75541
+    "lng": 28.75541
   },
   {
     "id": 1012807,
     "name": "Cookhouse",
     "lat": -32.74322,
-    "lon": 25.80037
+    "lng": 25.80037
   },
   {
     "id": 977907,
     "name": "Maviljan A",
     "lat": -24.84822,
-    "lon": 31.08832
+    "lng": 31.08832
   },
   {
     "id": 982806,
     "name": "Lillydale",
     "lat": -24.86638,
-    "lon": 31.36893
+    "lng": 31.36893
   },
   {
     "id": 984962,
     "name": "Laingsburg",
     "lat": -33.19495,
-    "lon": 20.85872
+    "lng": 20.85872
   },
   {
     "id": 3367707,
     "name": "Genadendal",
     "lat": -34.03779,
-    "lon": 19.56224
+    "lng": 19.56224
   },
   {
     "id": 12718843,
     "name": "Itekeng",
     "lat": -26.35931,
-    "lon": 25.90688
+    "lng": 25.90688
   },
   {
     "id": 993993,
     "name": "Jansenville",
     "lat": -32.94306,
-    "lon": 24.67218
+    "lng": 24.67218
   },
   {
     "id": 12718866,
     "name": "Kranshoek",
     "lat": -34.0878,
-    "lon": 23.28333
+    "lng": 23.28333
   },
   {
     "id": 970148,
     "name": "Nondweni",
     "lat": -28.19228,
-    "lon": 30.81955
+    "lng": 30.81955
   },
   {
     "id": 966134,
     "name": "Paterson",
     "lat": -33.44064,
-    "lon": 25.9741
+    "lng": 25.9741
   },
   {
     "id": 980661,
     "name": "Madras A",
     "lat": -24.99106,
-    "lon": 31.14838
+    "lng": 31.14838
   },
   {
     "id": 3369569,
     "name": "Botrivier",
     "lat": -34.22568,
-    "lon": 19.20313
+    "lng": 19.20313
   },
   {
     "id": 3361618,
     "name": "Simon's Town",
     "lat": -34.1934,
-    "lon": 18.43585
+    "lng": 18.43585
   },
   {
     "id": 1023003,
     "name": "Amalia",
     "lat": -27.24836,
-    "lon": 25.04581
+    "lng": 25.04581
   },
   {
     "id": 969454,
     "name": "Nqutu",
     "lat": -28.21216,
-    "lon": 30.67542
+    "lng": 30.67542
   },
   {
     "id": 1011624,
     "name": "Dealesville",
     "lat": -28.67486,
-    "lon": 25.76681
+    "lng": 25.76681
   },
   {
     "id": 998836,
     "name": "Grootvlei",
     "lat": -26.76247,
-    "lon": 28.48382
+    "lng": 28.48382
   },
   {
     "id": 973551,
     "name": "Mount Ayliff",
     "lat": -30.80821,
-    "lon": 29.36644
+    "lng": 29.36644
   },
   {
     "id": 948099,
     "name": "Trompsburg",
     "lat": -30.03363,
-    "lon": 25.78041
+    "lng": 25.78041
   },
   {
     "id": 966137,
     "name": "Patensie",
     "lat": -33.76007,
-    "lon": 24.81383
+    "lng": 24.81383
   },
   {
     "id": 13527157,
     "name": "Godide",
     "lat": -24.72898,
-    "lon": 31.23695
+    "lng": 31.23695
   },
   {
     "id": 3362360,
     "name": "Riviersonderend",
     "lat": -34.14981,
-    "lon": 19.91429
+    "lng": 19.91429
   },
   {
     "id": 3364403,
     "name": "Lutzville",
     "lat": -31.55993,
-    "lon": 18.344
+    "lng": 18.344
   },
   {
     "id": 1007476,
     "name": "Dullstroom",
     "lat": -25.41672,
-    "lon": 30.10609
+    "lng": 30.10609
   },
   {
     "id": 993507,
     "name": "Justicia",
     "lat": -24.88002,
-    "lon": 31.41316
+    "lng": 31.41316
   },
   {
     "id": 967511,
     "name": "Oranjeville",
     "lat": -26.99379,
-    "lon": 28.20967
+    "lng": 28.20967
   },
   {
     "id": 13527208,
     "name": "eMakhazeni B",
     "lat": -24.9512,
-    "lon": 31.37171
+    "lng": 31.37171
   },
   {
     "id": 965722,
     "name": "Perdekop",
     "lat": -27.16575,
-    "lon": 29.62364
+    "lng": 29.62364
   },
   {
     "id": 972549,
     "name": "Murraysburg",
     "lat": -31.96046,
-    "lon": 23.76204
+    "lng": 23.76204
   },
   {
     "id": 12718828,
     "name": "Doornkop",
     "lat": -25.60828,
-    "lon": 29.43117
+    "lng": 29.43117
   },
   {
     "id": 944480,
     "name": "Venterstad",
     "lat": -30.77619,
-    "lon": 25.79923
+    "lng": 25.79923
   },
   {
     "id": 992071,
     "name": "Kareedouw",
     "lat": -33.9528,
-    "lon": 24.29053
+    "lng": 24.29053
   },
   {
     "id": 12718809,
     "name": "Nthabalala",
     "lat": -23.21959,
-    "lon": 29.99269
+    "lng": 29.99269
   },
   {
     "id": 13527188,
     "name": "Thabakgolo",
     "lat": -24.8005,
-    "lon": 31.03186
+    "lng": 31.03186
   },
   {
     "id": 964408,
     "name": "Port Saint John’s",
     "lat": -31.62291,
-    "lon": 29.54477
+    "lng": 29.54477
   },
   {
     "id": 980579,
     "name": "Magabeni",
     "lat": -30.17242,
-    "lon": 30.76566
+    "lng": 30.76566
   },
   {
     "id": 963488,
     "name": "Qumbu",
     "lat": -31.16304,
-    "lon": 28.87056
+    "lng": 28.87056
   },
   {
     "id": 13527185,
     "name": "Orinoco A",
     "lat": -24.76259,
-    "lon": 31.06516
+    "lng": 31.06516
   },
   {
     "id": 962994,
     "name": "Reddersburg",
     "lat": -29.65301,
-    "lon": 26.16773
+    "lng": 26.16773
   },
   {
     "id": 947962,
     "name": "Tshandama",
     "lat": -22.74567,
-    "lon": 30.50933
+    "lng": 30.50933
   },
   {
     "id": 1014034,
     "name": "Carnarvon",
     "lat": -30.96827,
-    "lon": 22.13303
+    "lng": 22.13303
   },
   {
     "id": 981802,
     "name": "Louterwater",
     "lat": -33.80009,
-    "lon": 23.66382
+    "lng": 23.66382
   },
   {
     "id": 981517,
     "name": "Ludlow",
     "lat": -24.66921,
-    "lon": 31.27929
+    "lng": 31.27929
   },
   {
     "id": 3361084,
     "name": "Stanford",
     "lat": -34.4394,
-    "lon": 19.45615
+    "lng": 19.45615
   },
   {
     "id": 954486,
     "name": "Smithfield",
     "lat": -30.21366,
-    "lon": 26.5307
+    "lng": 26.5307
   },
   {
     "id": 3362485,
     "name": "Riebeek-Kasteel",
     "lat": -33.38445,
-    "lon": 18.89953
+    "lng": 18.89953
   },
   {
     "id": 974331,
     "name": "Mooinooi",
     "lat": -25.74892,
-    "lon": 27.55564
+    "lng": 27.55564
   },
   {
     "id": 952523,
     "name": "Stella",
     "lat": -26.55298,
-    "lon": 24.86683
+    "lng": 24.86683
   },
   {
     "id": 12808668,
     "name": "Ngema Tribal Trust",
     "lat": -27.07309,
-    "lon": 30.54204
+    "lng": 30.54204
   },
   {
     "id": 994060,
     "name": "James Calata",
     "lat": -31.12139,
-    "lon": 26.80667
+    "lng": 26.80667
   },
   {
     "id": 936953,
     "name": "Zoar",
     "lat": -33.4956,
-    "lon": 21.44373
+    "lng": 21.44373
   },
   {
     "id": 966007,
     "name": "Peddie",
     "lat": -33.20059,
-    "lon": 27.11385
+    "lng": 27.11385
   },
   {
     "id": 979405,
     "name": "Manguzi",
     "lat": -26.99096,
-    "lon": 32.75102
+    "lng": 32.75102
   },
   {
     "id": 12718855,
     "name": "Oakglen",
     "lat": -31.05073,
-    "lon": 24.4326
+    "lng": 24.4326
   },
   {
     "id": 12420903,
     "name": "Khaya Mnandi",
     "lat": -33.82628,
-    "lon": 25.45378
+    "lng": 25.45378
   },
   {
     "id": 982906,
     "name": "Libode",
     "lat": -31.54331,
-    "lon": 29.0164
+    "lng": 29.0164
   },
   {
     "id": 1023454,
     "name": "Albert Falls",
     "lat": -29.44039,
-    "lon": 30.43344
+    "lng": 30.43344
   },
   {
     "id": 945970,
     "name": "Uniondale",
     "lat": -33.65895,
-    "lon": 23.12317
+    "lng": 23.12317
   },
   {
     "id": 12718827,
     "name": "Ekulindeni",
     "lat": -26.04605,
-    "lon": 31.02317
+    "lng": 31.02317
   },
   {
     "id": 982891,
     "name": "Lidgetton",
     "lat": -29.44047,
-    "lon": 30.09997
+    "lng": 30.09997
   },
   {
     "id": 966012,
     "name": "Pearston",
     "lat": -32.5822,
-    "lon": 25.13832
+    "lng": 25.13832
   },
   {
     "id": 7506857,
     "name": "Newlands",
     "lat": -33.97846,
-    "lon": 18.4481
+    "lng": 18.4481
   },
   {
     "id": 12718808,
     "name": "Senwamokgope",
     "lat": -23.40924,
-    "lon": 30.16038
+    "lng": 30.16038
   },
   {
     "id": 951787,
     "name": "Struisbaai",
     "lat": -34.80365,
-    "lon": 20.05474
+    "lng": 20.05474
   },
   {
     "id": 975509,
     "name": "eMkhuze",
     "lat": -27.62051,
-    "lon": 32.03385
+    "lng": 32.03385
   },
   {
     "id": 1013835,
     "name": "Cedarville",
     "lat": -30.38419,
-    "lon": 29.04164
+    "lng": 29.04164
   },
   {
     "id": 1013706,
     "name": "Charlestown",
     "lat": -27.41112,
-    "lon": 29.87375
+    "lng": 29.87375
   },
   {
     "id": 13527155,
     "name": "Kumana",
     "lat": -24.75034,
-    "lon": 31.22105
+    "lng": 31.22105
   },
   {
     "id": 12718807,
     "name": "GaSekhaolelo",
     "lat": -23.95524,
-    "lon": 28.98335
+    "lng": 28.98335
   },
   {
     "id": 3362482,
     "name": "Riebeek West",
     "lat": -33.35045,
-    "lon": 18.87019
+    "lng": 18.87019
   },
   {
     "id": 3364872,
     "name": "Kylemore",
     "lat": -33.91515,
-    "lon": 18.95025
+    "lng": 18.95025
   },
   {
     "id": 1013886,
     "name": "Cato Ridge",
     "lat": -29.73333,
-    "lon": 30.58333
+    "lng": 30.58333
   },
   {
     "id": 13527196,
     "name": "Matsavana",
     "lat": -24.82188,
-    "lon": 31.26
+    "lng": 31.26
   },
   {
     "id": 12718865,
     "name": "Languedoc",
     "lat": -33.8973,
-    "lon": 18.96726
+    "lng": 18.96726
   },
   {
     "id": 1014257,
     "name": "Calitzdorp",
     "lat": -33.52755,
-    "lon": 21.6762
+    "lng": 21.6762
   },
   {
     "id": 997255,
     "name": "Hazyview",
     "lat": -25.04398,
-    "lon": 31.12767
+    "lng": 31.12767
   },
   {
     "id": 13527168,
     "name": "Kgapamadi",
     "lat": -24.60858,
-    "lon": 31.01772
+    "lng": 31.01772
   },
   {
     "id": 3363792,
     "name": "Napier",
     "lat": -34.47451,
-    "lon": 19.89812
+    "lng": 19.89812
   },
   {
     "id": 12718842,
     "name": "Boipelo",
     "lat": -27.56543,
-    "lon": 24.18493
+    "lng": 24.18493
   },
   {
     "id": 12718806,
     "name": "Babirwa",
     "lat": -23.42968,
-    "lon": 28.60902
+    "lng": 28.60902
   },
   {
     "id": 12104196,
     "name": "Thornhill",
     "lat": -33.89511,
-    "lon": 25.13914
+    "lng": 25.13914
   },
   {
     "id": 13527213,
     "name": "Tiyimeleni A",
     "lat": -24.89844,
-    "lon": 31.20793
+    "lng": 31.20793
   },
   {
     "id": 1020992,
     "name": "Barrydale",
     "lat": -33.9053,
-    "lon": 20.72439
+    "lng": 20.72439
   },
   {
     "id": 959172,
     "name": "Rosendal",
     "lat": -28.50481,
-    "lon": 27.93293
+    "lng": 27.93293
   },
   {
     "id": 999964,
     "name": "Groblersdal",
     "lat": -25.16843,
-    "lon": 29.39412
+    "lng": 29.39412
   },
   {
     "id": 981782,
     "name": "Louwsburg",
     "lat": -27.57857,
-    "lon": 31.2894
+    "lng": 31.2894
   },
   {
     "id": 3369115,
     "name": "Chatsworth",
     "lat": -33.54778,
-    "lon": 18.58201
+    "lng": 18.58201
   },
   {
     "id": 1010967,
     "name": "Dendron",
     "lat": -23.36669,
-    "lon": 29.32371
+    "lng": 29.32371
   },
   {
     "id": 991396,
     "name": "Kenhardt",
     "lat": -29.34574,
-    "lon": 21.15786
+    "lng": 21.15786
   },
   {
     "id": 11203982,
     "name": "Kurland",
     "lat": -33.94489,
-    "lon": 23.49272
+    "lng": 23.49272
   },
   {
     "id": 963049,
     "name": "Rayton",
     "lat": -25.73917,
-    "lon": 28.53338
+    "lng": 28.53338
   },
   {
     "id": 952213,
     "name": "Steytlerville",
     "lat": -33.33274,
-    "lon": 24.34539
+    "lng": 24.34539
   },
   {
     "id": 12718826,
     "name": "Masakhane",
     "lat": -25.95354,
-    "lon": 29.33068
+    "lng": 29.33068
   },
   {
     "id": 1013563,
     "name": "Chrissiesmeer",
     "lat": -26.27953,
-    "lon": 30.2137
+    "lng": 30.2137
   },
   {
     "id": 1000352,
     "name": "Graskop",
     "lat": -24.93144,
-    "lon": 30.84191
+    "lng": 30.84191
   },
   {
     "id": 996223,
     "name": "Hobhouse",
     "lat": -29.5272,
-    "lon": 27.14472
+    "lng": 27.14472
   },
   {
     "id": 12750588,
     "name": "Dundonald",
     "lat": -26.24656,
-    "lon": 30.81802
+    "lng": 30.81802
   },
   {
     "id": 1005753,
     "name": "Eloff",
     "lat": -26.16619,
-    "lon": 28.60704
+    "lng": 28.60704
   },
   {
     "id": 13527193,
     "name": "Maviljan B",
     "lat": -24.81994,
-    "lon": 31.08675
+    "lng": 31.08675
   },
   {
     "id": 962529,
     "name": "Rheenendal",
     "lat": -33.95,
-    "lon": 22.95
+    "lng": 22.95
   },
   {
     "id": 1022283,
     "name": "Arlington",
     "lat": -28.02881,
-    "lon": 27.85335
+    "lng": 27.85335
   },
   {
     "id": 13527179,
     "name": "Motlamogale",
     "lat": -24.69669,
-    "lon": 30.99934
+    "lng": 30.99934
   },
   {
     "id": 1023319,
     "name": "Alicedale",
     "lat": -33.31905,
-    "lon": 26.09139
+    "lng": 26.09139
   },
   {
     "id": 12718825,
     "name": "Mapulaneng View",
     "lat": -24.85009,
-    "lon": 31.07125
+    "lng": 31.07125
   },
   {
     "id": 996256,
     "name": "Hluhluwe",
     "lat": -28.01895,
-    "lon": 32.26762
+    "lng": 32.26762
   },
   {
     "id": 13527148,
     "name": "Islington",
     "lat": -24.62412,
-    "lon": 31.26708
+    "lng": 31.26708
   },
   {
     "id": 13527197,
     "name": "Manyakatana",
     "lat": -24.81173,
-    "lon": 31.28049
+    "lng": 31.28049
   },
   {
     "id": 12718824,
     "name": "KwaDela",
     "lat": -26.46389,
-    "lon": 29.66585
+    "lng": 29.66585
   },
   {
     "id": 12718864,
     "name": "Abbotsdale",
     "lat": -33.48694,
-    "lon": 18.67583
+    "lng": 18.67583
   },
   {
     "id": 996289,
     "name": "Hlobane",
     "lat": -27.71656,
-    "lon": 31.00112
+    "lng": 31.00112
   },
   {
     "id": 12718805,
     "name": "Ka-Mahonisi",
     "lat": -23.05613,
-    "lon": 30.63581
+    "lng": 30.63581
   },
   {
     "id": 999775,
     "name": "Groenpunt",
     "lat": -26.82634,
-    "lon": 28.03844
+    "lng": 28.03844
   },
   {
     "id": 12718804,
     "name": "Saselamani",
     "lat": -22.85611,
-    "lon": 30.83353
+    "lng": 30.83353
   },
   {
     "id": 952906,
     "name": "Springfontein",
     "lat": -30.26391,
-    "lon": 25.70401
+    "lng": 25.70401
   },
   {
     "id": 981554,
     "name": "Luckhoff",
     "lat": -29.75023,
-    "lon": 24.78794
+    "lng": 24.78794
   },
   {
     "id": 1012688,
     "name": "Coronation",
     "lat": -27.66667,
-    "lon": 31.05
+    "lng": 31.05
   },
   {
     "id": 996072,
     "name": "Hofmeyr",
     "lat": -31.65349,
-    "lon": 25.80366
+    "lng": 25.80366
   },
   {
     "id": 13527158,
     "name": "New Forest B",
     "lat": -24.72473,
-    "lon": 31.15417
+    "lng": 31.15417
   },
   {
     "id": 965478,
     "name": "Philippolis",
     "lat": -30.26556,
-    "lon": 25.27427
+    "lng": 25.27427
   },
   {
     "id": 976197,
     "name": "Middelplaas",
     "lat": -25.71808,
-    "lon": 31.55094
+    "lng": 31.55094
   },
   {
     "id": 961712,
     "name": "Rietkuil",
     "lat": -25.93401,
-    "lon": 29.81168
+    "lng": 29.81168
   },
   {
     "id": 1004406,
     "name": "Fauresmith",
     "lat": -29.74893,
-    "lon": 25.31505
+    "lng": 25.31505
   },
   {
     "id": 980703,
     "name": "Madikwe",
     "lat": -25.35397,
-    "lon": 26.53009
+    "lng": 26.53009
   },
   {
     "id": 13527176,
     "name": "Ga-Josepha",
     "lat": -24.66797,
-    "lon": 31.02554
+    "lng": 31.02554
   },
   {
     "id": 13527121,
     "name": "Sidlamafa",
     "lat": -25.67045,
-    "lon": 31.69017
+    "lng": 31.69017
   },
   {
     "id": 1010728,
     "name": "De Rust",
     "lat": -33.49035,
-    "lon": 22.53523
+    "lng": 22.53523
   },
   {
     "id": 968442,
     "name": "Ogies",
     "lat": -26.04877,
-    "lon": 29.06391
+    "lng": 29.06391
   },
   {
     "id": 970480,
     "name": "Nkandla",
     "lat": -28.6207,
-    "lon": 31.09067
+    "lng": 31.09067
   },
   {
     "id": 12718750,
     "name": "Ducats",
     "lat": -32.92795,
-    "lon": 27.90373
+    "lng": 27.90373
   },
   {
     "id": 6942527,
     "name": "Century City",
     "lat": -33.89115,
-    "lon": 18.51274
+    "lng": 18.51274
   },
   {
     "id": 975903,
     "name": "Migdol",
     "lat": -26.90414,
-    "lon": 25.45243
+    "lng": 25.45243
   },
   {
     "id": 951046,
     "name": "Swartklip",
     "lat": -24.93603,
-    "lon": 27.15838
+    "lng": 27.15838
   },
   {
     "id": 952200,
     "name": "Still Bay",
     "lat": -34.3693,
-    "lon": 21.40748
+    "lng": 21.40748
   },
   {
     "id": 12750585,
     "name": "Mooiplaas",
     "lat": -26.06282,
-    "lon": 30.87868
+    "lng": 30.87868
   },
   {
     "id": 979837,
     "name": "Malelane",
     "lat": -25.49489,
-    "lon": 31.50891
+    "lng": 31.50891
   },
   {
     "id": 12718823,
     "name": "Ngodwana",
     "lat": -25.56923,
-    "lon": 30.67895
+    "lng": 30.67895
   },
   {
     "id": 1010821,
     "name": "Derby",
     "lat": -25.90913,
-    "lon": 27.04157
+    "lng": 27.04157
   },
   {
     "id": 13527149,
     "name": "Burlington",
     "lat": -24.62456,
-    "lon": 31.21988
+    "lng": 31.21988
   },
   {
     "id": 3367553,
     "name": "Gouda",
     "lat": -33.30034,
-    "lon": 19.04006
+    "lng": 19.04006
   },
   {
     "id": 12718822,
     "name": "Pullens Hope",
     "lat": -26.02036,
-    "lon": 29.59486
+    "lng": 29.59486
   },
   {
     "id": 957995,
     "name": "Sanddrif",
     "lat": -33.98298,
-    "lon": 23.99581
+    "lng": 23.99581
   },
   {
     "id": 973816,
     "name": "Morolaneng",
     "lat": -24.75609,
-    "lon": 30.97452
+    "lng": 30.97452
   },
   {
     "id": 999121,
     "name": "Groot-Marico",
     "lat": -25.597,
-    "lon": 26.41724
+    "lng": 26.41724
   },
   {
     "id": 956945,
     "name": "Hlengesha",
     "lat": -25.74932,
-    "lon": 31.54034
+    "lng": 31.54034
   },
   {
     "id": 11427426,
     "name": "Tongaat Beach",
     "lat": -29.61376,
-    "lon": 31.15281
+    "lng": 31.15281
   },
   {
     "id": 969582,
     "name": "Noupoort",
     "lat": -31.18736,
-    "lon": 24.94991
+    "lng": 24.94991
   },
   {
     "id": 950468,
     "name": "Ntabankulu",
     "lat": -30.95901,
-    "lon": 29.30297
+    "lng": 29.30297
   },
   {
     "id": 13527205,
     "name": "Mahlobyanini",
     "lat": -24.90107,
-    "lon": 31.39389
+    "lng": 31.39389
   },
   {
     "id": 12718755,
     "name": "Ikgomotseng",
     "lat": -28.73477,
-    "lon": 26.10788
+    "lng": 26.10788
   },
   {
     "id": 1003297,
     "name": "Ga-Maotole",
     "lat": -24.60516,
-    "lon": 30.9919
+    "lng": 30.9919
   },
   {
     "id": 13527181,
     "name": "Violetbank D",
     "lat": -24.73697,
-    "lon": 31.01595
+    "lng": 31.01595
   },
   {
     "id": 971377,
     "name": "New Hanover",
     "lat": -29.35519,
-    "lon": 30.52801
+    "lng": 30.52801
   },
   {
     "id": 996195,
     "name": "Hoedspruit",
     "lat": -24.35122,
-    "lon": 30.95332
+    "lng": 30.95332
   },
   {
     "id": 3364246,
     "name": "McGregor",
     "lat": -33.94725,
-    "lon": 19.82906
+    "lng": 19.82906
   },
   {
     "id": 3362555,
     "name": "Rawsonville",
     "lat": -33.68622,
-    "lon": 19.31382
+    "lng": 19.31382
   },
   {
     "id": 997184,
     "name": "Hectorspruit",
     "lat": -25.44115,
-    "lon": 31.68382
+    "lng": 31.68382
   },
   {
     "id": 1003508,
     "name": "Ga-Boelang",
     "lat": -24.59852,
-    "lon": 30.96818
+    "lng": 30.96818
   },
   {
     "id": 12718821,
     "name": "Wolfenkop",
     "lat": -25.52121,
-    "lon": 28.99197
+    "lng": 28.99197
   },
   {
     "id": 1019883,
     "name": "Ntabozuko",
     "lat": -32.88304,
-    "lon": 27.58186
+    "lng": 27.58186
   },
   {
     "id": 960109,
     "name": "Rooiboklaagte B",
     "lat": -24.66173,
-    "lon": 31.05886
+    "lng": 31.05886
   },
   {
     "id": 1022038,
     "name": "Augrabies",
     "lat": -28.63333,
-    "lon": 20.35
+    "lng": 20.35
   },
   {
     "id": 13527169,
     "name": "Mamelodi",
     "lat": -24.59764,
-    "lon": 31.02379
+    "lng": 31.02379
   },
   {
     "id": 937796,
     "name": "Xanthia",
     "lat": -24.83429,
-    "lon": 31.14858
+    "lng": 31.14858
   },
   {
     "id": 12718863,
     "name": "Slangrivier",
     "lat": -34.13722,
-    "lon": 20.86167
+    "lng": 20.86167
   },
   {
     "id": 1023281,
     "name": "Alldays",
     "lat": -22.66392,
-    "lon": 29.09336
+    "lng": 29.09336
   },
   {
     "id": 947679,
     "name": "Tugela",
     "lat": -29.17949,
-    "lon": 31.41695
+    "lng": 31.41695
   },
   {
     "id": 12718785,
     "name": "Ibisikululwa",
     "lat": -30.41119,
-    "lon": 29.89194
+    "lng": 29.89194
   },
   {
     "id": 989173,
     "name": "Klipplaat",
     "lat": -33.01907,
-    "lon": 24.34077
+    "lng": 24.34077
   },
   {
     "id": 1012724,
     "name": "Cornelia",
     "lat": -27.23227,
-    "lon": 28.85226
+    "lng": 28.85226
   },
   {
     "id": 981331,
     "name": "Luphisi",
     "lat": -25.40637,
-    "lon": 31.27893
+    "lng": 31.27893
   },
   {
     "id": 982494,
     "name": "eMbangweni",
     "lat": -26.1401,
-    "lon": 30.78316
+    "lng": 30.78316
   },
   {
     "id": 985609,
     "name": "KwaMbonambi",
     "lat": -28.59827,
-    "lon": 32.0894
+    "lng": 32.0894
   },
   {
     "id": 12718820,
     "name": "Warburton",
     "lat": -26.22909,
-    "lon": 30.47643
+    "lng": 30.47643
   },
   {
     "id": 13527161,
     "name": "Dingleydale A",
     "lat": -24.70122,
-    "lon": 31.11743
+    "lng": 31.11743
   },
   {
     "id": 12718819,
     "name": "Iswepe",
     "lat": -26.8406,
-    "lon": 30.53511
+    "lng": 30.53511
   },
   {
     "id": 12718862,
     "name": "Victor Verster",
     "lat": -33.84088,
-    "lon": 18.99893
+    "lng": 18.99893
   },
   {
     "id": 965925,
     "name": "Penge",
     "lat": -24.38689,
-    "lon": 30.2884
+    "lng": 30.2884
   },
   {
     "id": 939702,
     "name": "Williston",
     "lat": -31.34048,
-    "lon": 20.91544
+    "lng": 20.91544
   },
   {
     "id": 965471,
     "name": "Philipstown",
     "lat": -30.43733,
-    "lon": 24.47261
+    "lng": 24.47261
   },
   {
     "id": 12718854,
     "name": "Raaswater",
     "lat": -28.59337,
-    "lon": 21.1906
+    "lng": 21.1906
   },
   {
     "id": 12718803,
     "name": "Vuwani",
     "lat": -23.13524,
-    "lon": 30.42136
+    "lng": 30.42136
   },
   {
     "id": 12718749,
     "name": "Loerieheuwel",
     "lat": -33.87596,
-    "lon": 25.02064
+    "lng": 25.02064
   },
   {
     "id": 6692734,
     "name": "Pennington",
     "lat": -30.36847,
-    "lon": 30.7025
+    "lng": 30.7025
   },
   {
     "id": 3367442,
     "name": "Greyton",
     "lat": -34.05048,
-    "lon": 19.60884
+    "lng": 19.60884
   },
   {
     "id": 3362755,
     "name": "Pofadder",
     "lat": -29.1283,
-    "lon": 19.39492
+    "lng": 19.39492
   },
   {
     "id": 13527201,
     "name": "Khomanani",
     "lat": -24.83782,
-    "lon": 31.30996
+    "lng": 31.30996
   },
   {
     "id": 991478,
     "name": "Keiskammahoek",
     "lat": -32.68248,
-    "lon": 27.15027
+    "lng": 27.15027
   },
   {
     "id": 983988,
     "name": "Leeu-Gamka",
     "lat": -32.77423,
-    "lon": 21.9786
+    "lng": 21.9786
   },
   {
     "id": 956128,
     "name": "Sheepmoor",
     "lat": -26.71738,
-    "lon": 30.29916
+    "lng": 30.29916
   },
   {
     "id": 940522,
     "name": "Welverdiend",
     "lat": -26.38752,
-    "lon": 27.27789
+    "lng": 27.27789
   },
   {
     "id": 945995,
     "name": "Underberg",
     "lat": -29.79084,
-    "lon": 29.49448
+    "lng": 29.49448
   },
   {
     "id": 978944,
     "name": "Marble Hall",
     "lat": -24.96627,
-    "lon": 29.29068
+    "lng": 29.29068
   },
   {
     "id": 12718784,
     "name": "Nkongolwane",
     "lat": -27.68858,
-    "lon": 31.03867
+    "lng": 31.03867
   },
   {
     "id": 12718802,
     "name": "Nthabiseng",
     "lat": -23.48258,
-    "lon": 29.91478
+    "lng": 29.91478
   },
   {
     "id": 947486,
     "name": "Tutuka",
     "lat": -26.77695,
-    "lon": 29.35266
+    "lng": 29.35266
   },
   {
     "id": 1021395,
     "name": "Balfour",
     "lat": -32.5404,
-    "lon": 26.67944
+    "lng": 26.67944
   },
   {
     "id": 973061,
     "name": "Mqanduli",
     "lat": -31.81919,
-    "lon": 28.76175
+    "lng": 28.76175
   },
   {
     "id": 12718853,
     "name": "Grootdrink",
     "lat": -28.56402,
-    "lon": 21.74656
+    "lng": 21.74656
   },
   {
     "id": 971016,
     "name": "Ngqeleni",
     "lat": -31.67315,
-    "lon": 29.03327
+    "lng": 29.03327
   },
   {
     "id": 959290,
     "name": "Roossenekal",
     "lat": -25.19311,
-    "lon": 29.92544
+    "lng": 29.92544
   },
   {
     "id": 11428969,
     "name": "Cool Air",
     "lat": -29.36365,
-    "lon": 30.63398
+    "lng": 30.63398
   },
   {
     "id": 13527187,
     "name": "Shata",
     "lat": -24.77186,
-    "lon": 31.0394
+    "lng": 31.0394
   },
   {
     "id": 996490,
     "name": "Hillshaven",
     "lat": -26.36447,
-    "lon": 27.65808
+    "lng": 27.65808
   },
   {
     "id": 12718801,
     "name": "Mokgoba",
     "lat": -23.71188,
-    "lon": 30.1345
+    "lng": 30.1345
   },
   {
     "id": 984896,
     "name": "La Mercy",
     "lat": -29.63918,
-    "lon": 31.13106
+    "lng": 31.13106
   },
   {
     "id": 12718800,
     "name": "Ka-Xihosana",
     "lat": -23.16436,
-    "lon": 30.58221
+    "lng": 30.58221
   },
   {
     "id": 977169,
     "name": "Melkhoutfontein",
     "lat": -34.32673,
-    "lon": 21.42093
+    "lng": 21.42093
   },
   {
     "id": 1003702,
     "name": "Fraserburg",
     "lat": -31.91566,
-    "lon": 21.51335
+    "lng": 21.51335
   },
   {
     "id": 939658,
     "name": "Willowvale",
     "lat": -32.26588,
-    "lon": 28.50727
+    "lng": 28.50727
   },
   {
     "id": 961327,
     "name": "Rietvlei",
     "lat": -30.5105,
-    "lon": 29.82637
+    "lng": 29.82637
   },
   {
     "id": 975144,
     "name": "Modderfontein",
     "lat": -26.08909,
-    "lon": 28.16534
+    "lng": 28.16534
   },
   {
     "id": 952869,
     "name": "Springs",
     "lat": -26.25837,
-    "lon": 28.47173
+    "lng": 28.47173
   },
   {
     "id": 13527212,
     "name": "Tiyimeleni B",
     "lat": -24.89151,
-    "lon": 31.2614
+    "lng": 31.2614
   },
   {
     "id": 13527150,
     "name": "Edinburgh B",
     "lat": -24.68134,
-    "lon": 31.22759
+    "lng": 31.22759
   },
   {
     "id": 996377,
     "name": "Hlabisa",
     "lat": -28.14519,
-    "lon": 31.87719
+    "lng": 31.87719
   },
   {
     "id": 956254,
     "name": "Seymour",
     "lat": -32.55571,
-    "lon": 26.76534
+    "lng": 26.76534
   },
   {
     "id": 942112,
     "name": "Wales",
     "lat": -24.7,
-    "lon": 30.98333
+    "lng": 30.98333
   },
   {
     "id": 995061,
     "name": "Hundzukani",
     "lat": -24.91919,
-    "lon": 31.41489
+    "lng": 31.41489
   },
   {
     "id": 1009781,
     "name": "Dirkiesdorp",
     "lat": -27.17445,
-    "lon": 30.40476
+    "lng": 30.40476
   },
   {
     "id": 12718783,
     "name": "Ezibomvu",
     "lat": -28.09016,
-    "lon": 30.77948
+    "lng": 30.77948
   },
   {
     "id": 3366317,
     "name": "Kalbaskraal",
     "lat": -33.57316,
-    "lon": 18.64887
+    "lng": 18.64887
   },
   {
     "id": 1015850,
     "name": "Brandvlei",
     "lat": -30.46532,
-    "lon": 20.48659
+    "lng": 20.48659
   },
   {
     "id": 13527191,
     "name": "Orinoco C",
     "lat": -24.73987,
-    "lon": 31.10057
+    "lng": 31.10057
   },
   {
     "id": 998360,
     "name": "Haarlem",
     "lat": -33.73302,
-    "lon": 23.34263
+    "lng": 23.34263
   },
   {
     "id": 12718799,
     "name": "Morbeng",
     "lat": -23.49265,
-    "lon": 29.93865
+    "lng": 29.93865
   },
   {
     "id": 1001817,
     "name": "Glaudina",
     "lat": -27.03679,
-    "lon": 25.63026
+    "lng": 25.63026
   },
   {
     "id": 12718748,
     "name": "Ngabangu",
     "lat": -32.62924,
-    "lon": 27.39823
+    "lng": 27.39823
   },
   {
     "id": 13527199,
     "name": "Croquet Lawn A",
     "lat": -24.84745,
-    "lon": 31.28932
+    "lng": 31.28932
   },
   {
     "id": 960144,
     "name": "Rooiberg",
     "lat": -24.77777,
-    "lon": 27.73337
+    "lng": 27.73337
   },
   {
     "id": 11256886,
     "name": "Skoonplaas",
     "lat": -25.75694,
-    "lon": 31.63611
+    "lng": 31.63611
   },
   {
     "id": 3365533,
     "name": "Klipheuwel",
     "lat": -33.70096,
-    "lon": 18.69886
+    "lng": 18.69886
   },
   {
     "id": 1023291,
     "name": "Allandale A",
     "lat": -24.71019,
-    "lon": 31.27612
+    "lng": 31.27612
   },
   {
     "id": 12718782,
     "name": "Emaqeleni",
     "lat": -28.92643,
-    "lon": 31.70659
+    "lng": 31.70659
   },
   {
     "id": 12718747,
     "name": "Clarendon Marine",
     "lat": -34.01235,
-    "lon": 25.36577
+    "lng": 25.36577
   },
   {
     "id": 1005779,
     "name": "Elliotdale",
     "lat": -31.96292,
-    "lon": 28.68401
+    "lng": 28.68401
   },
   {
     "id": 3367527,
     "name": "Graafwater",
     "lat": -32.15466,
-    "lon": 18.60319
+    "lng": 18.60319
   },
   {
     "id": 12718798,
     "name": "Thabo Mbeki",
     "lat": -23.34099,
-    "lon": 28.01422
+    "lng": 28.01422
   },
   {
     "id": 951242,
     "name": "Suurbraak",
     "lat": -34.00442,
-    "lon": 20.65432
+    "lng": 20.65432
   },
   {
     "id": 13527143,
     "name": "Humulani",
     "lat": -24.70959,
-    "lon": 31.34667
+    "lng": 31.34667
   },
   {
     "id": 12718781,
     "name": "Ashburton",
     "lat": -29.66664,
-    "lon": 30.45502
+    "lng": 30.45502
   },
   {
     "id": 12718797,
     "name": "Laersdrift",
     "lat": -25.36529,
-    "lon": 29.8569
+    "lng": 29.8569
   },
   {
     "id": 972787,
     "name": "Mtunzini",
     "lat": -28.95657,
-    "lon": 31.75431
+    "lng": 31.75431
   },
   {
     "id": 1016747,
     "name": "Botha’s Hill",
     "lat": -29.7181,
-    "lon": 30.73331
+    "lng": 30.73331
   },
   {
     "id": 12718852,
     "name": "Wegdraai",
     "lat": -28.8413,
-    "lon": 21.8747
+    "lng": 21.8747
   },
   {
     "id": 12718780,
     "name": "Greylands",
     "lat": -29.52848,
-    "lon": 31.15385
+    "lng": 31.15385
   },
   {
     "id": 12718779,
     "name": "Emona",
     "lat": -29.55376,
-    "lon": 31.09656
+    "lng": 31.09656
   },
   {
     "id": 1005342,
     "name": "Enon",
     "lat": -33.39608,
-    "lon": 25.54653
+    "lng": 25.54653
   },
   {
     "id": 13527141,
     "name": "Hlavekisa",
     "lat": -24.62923,
-    "lon": 31.38002
+    "lng": 31.38002
   },
   {
     "id": 976009,
     "name": "Middledrift",
     "lat": -32.81851,
-    "lon": 26.98812
+    "lng": 26.98812
   },
   {
     "id": 944263,
     "name": "Verkeerdevlei",
     "lat": -28.83264,
-    "lon": 26.7777
+    "lng": 26.7777
   },
   {
     "id": 13527220,
     "name": "Jim Brown",
     "lat": -24.98016,
-    "lon": 31.08813
+    "lng": 31.08813
   },
   {
     "id": 947730,
     "name": "Tsomo",
     "lat": -32.03679,
-    "lon": 27.81994
+    "lng": 27.81994
   },
   {
     "id": 12750586,
     "name": "Swalluwnest",
     "lat": -26.23218,
-    "lon": 30.87115
+    "lng": 30.87115
   },
   {
     "id": 13527146,
     "name": "Clare A",
     "lat": -24.63293,
-    "lon": 31.30041
+    "lng": 31.30041
   },
   {
     "id": 1014180,
     "name": "Camperdown",
     "lat": -29.72868,
-    "lon": 30.54256
+    "lng": 30.54256
   },
   {
     "id": 13527203,
     "name": "Rulani",
     "lat": -24.88407,
-    "lon": 31.37773
+    "lng": 31.37773
   },
   {
     "id": 8643436,
     "name": "Colchester",
     "lat": -33.69135,
-    "lon": 25.82199
+    "lng": 25.82199
   },
   {
     "id": 1003761,
     "name": "Frankfort",
     "lat": -32.72985,
-    "lon": 27.46644
+    "lng": 27.46644
   },
   {
     "id": 991488,
     "name": "Kei Mouth",
     "lat": -32.68197,
-    "lon": 28.37632
+    "lng": 28.37632
   },
   {
     "id": 13527219,
     "name": "Mahukule B",
     "lat": -25.01486,
-    "lon": 31.18172
+    "lng": 31.18172
   },
   {
     "id": 1003753,
     "name": "Franklin",
     "lat": -30.31655,
-    "lon": 29.45216
+    "lng": 29.45216
   },
   {
     "id": 12718778,
     "name": "Cibelichle",
     "lat": -29.63451,
-    "lon": 29.78891
+    "lng": 29.78891
   },
   {
     "id": 3367594,
     "name": "Goedverwag",
     "lat": -32.86752,
-    "lon": 18.69433
+    "lng": 18.69433
   },
   {
     "id": 3362762,
     "name": "Pniel",
     "lat": -33.89314,
-    "lon": 18.95931
+    "lng": 18.95931
   },
   {
     "id": 3363003,
     "name": "Paternoster",
     "lat": -32.81016,
-    "lon": 17.89118
+    "lng": 17.89118
   },
   {
     "id": 12718851,
     "name": "Cillie",
     "lat": -28.73997,
-    "lon": 20.58895
+    "lng": 20.58895
   },
   {
     "id": 964596,
     "name": "Pomfret",
     "lat": -25.8156,
-    "lon": 23.52442
+    "lng": 23.52442
   },
   {
     "id": 987452,
     "name": "Krakeelrivier",
     "lat": -33.81706,
-    "lon": 23.73596
+    "lng": 23.73596
   },
   {
     "id": 13527216,
     "name": "Teka Mahala",
     "lat": -24.96277,
-    "lon": 31.21438
+    "lng": 31.21438
   },
   {
     "id": 13527123,
     "name": "Matsamo",
     "lat": -25.71869,
-    "lon": 31.61362
+    "lng": 31.61362
   },
   {
     "id": 996643,
     "name": "Hibberdene",
     "lat": -30.57201,
-    "lon": 30.57361
+    "lng": 30.57361
   },
   {
     "id": 965330,
     "name": "Pienaarsrivier",
     "lat": -25.20417,
-    "lon": 28.30111
+    "lng": 28.30111
   },
   {
     "id": 940364,
     "name": "Western Areas",
     "lat": -26.35,
-    "lon": 27.7
+    "lng": 27.7
   },
   {
     "id": 1021844,
     "name": "Babanango",
     "lat": -28.37734,
-    "lon": 31.08508
+    "lng": 31.08508
   },
   {
     "id": 12718746,
     "name": "Woodlands",
     "lat": -34.00208,
-    "lon": 24.17132
+    "lng": 24.17132
   },
   {
     "id": 13527170,
     "name": "Mapaleng A",
     "lat": -24.5976,
-    "lon": 31.01104
+    "lng": 31.01104
   },
   {
     "id": 13527204,
     "name": "Mabharule",
     "lat": -24.90109,
-    "lon": 31.39344
+    "lng": 31.39344
   },
   {
     "id": 1019847,
     "name": "Bertha Shaft Village",
     "lat": -26.75488,
-    "lon": 27.93914
+    "lng": 27.93914
   },
   {
     "id": 1013386,
     "name": "Clarkson",
     "lat": -34.01521,
-    "lon": 24.34291
+    "lng": 24.34291
   },
   {
     "id": 938640,
     "name": "Wittedrif",
     "lat": -34.00422,
-    "lon": 23.33175
+    "lng": 23.33175
   },
   {
     "id": 988295,
     "name": "Komati",
     "lat": -26.09548,
-    "lon": 29.4608
+    "lng": 29.4608
   },
   {
     "id": 13527175,
     "name": "Motlamogatsane",
     "lat": -24.63826,
-    "lon": 31.02226
+    "lng": 31.02226
   },
   {
     "id": 12718766,
     "name": "Thembisile",
     "lat": -25.60362,
-    "lon": 28.88795
+    "lng": 28.88795
   },
   {
     "id": 12718777,
     "name": "Mpungamhlophe",
     "lat": -28.26748,
-    "lon": 31.25298
+    "lng": 31.25298
   },
   {
     "id": 13527195,
     "name": "Mphenyatsatsi",
     "lat": -24.83786,
-    "lon": 31.04432
+    "lng": 31.04432
   },
   {
     "id": 12718765,
     "name": "Elsburg Gold Mine",
     "lat": -26.40967,
-    "lon": 27.68114
+    "lng": 27.68114
   },
   {
     "id": 946218,
     "name": "eMdloti",
     "lat": -29.66319,
-    "lon": 31.12103
+    "lng": 31.12103
   },
   {
     "id": 998149,
     "name": "Ha-Mavhunga",
     "lat": -22.92493,
-    "lon": 30.11682
+    "lng": 30.11682
   },
   {
     "id": 938753,
     "name": "Witpoort",
     "lat": -27.17179,
-    "lon": 26.12699
+    "lng": 26.12699
   },
   {
     "id": 12718745,
     "name": "Msobomvu",
     "lat": -32.69854,
-    "lon": 26.85864
+    "lng": 26.85864
   },
   {
     "id": 1017354,
     "name": "Bosbokrand",
     "lat": -24.83599,
-    "lon": 31.06718
+    "lng": 31.06718
   },
   {
     "id": 12718776,
     "name": "Glen Mill",
     "lat": -29.29371,
-    "lon": 31.1397
+    "lng": 31.1397
   },
   {
     "id": 944840,
     "name": "Van Stadensrus",
     "lat": -29.98737,
-    "lon": 27.0163
+    "lng": 27.0163
   },
   {
     "id": 1013464,
     "name": "Cintsa Mouth West",
     "lat": -32.84522,
-    "lon": 28.11598
+    "lng": 28.11598
   },
   {
     "id": 12718796,
     "name": "Phaweni",
     "lat": -22.88181,
-    "lon": 30.77882
+    "lng": 30.77882
   },
   {
     "id": 12718861,
     "name": "Wiesiesdraai",
     "lat": -33.89498,
-    "lon": 19.07536
+    "lng": 19.07536
   },
   {
     "id": 967542,
     "name": "Orania",
     "lat": -29.81381,
-    "lon": 24.41205
+    "lng": 24.41205
   },
   {
     "id": 13527190,
     "name": "Orinoco B",
     "lat": -24.73137,
-    "lon": 31.06501
+    "lng": 31.06501
   },
   {
     "id": 965179,
     "name": "Pilgrim’s Rest",
     "lat": -24.90502,
-    "lon": 30.75333
+    "lng": 30.75333
   },
   {
     "id": 12718764,
     "name": "Seberuberung",
     "lat": -26.41447,
-    "lon": 27.6991
+    "lng": 27.6991
   },
   {
     "id": 974742,
     "name": "Moloro",
     "lat": -24.61183,
-    "lon": 30.98003
+    "lng": 30.98003
   },
   {
     "id": 12718763,
     "name": "Randvaal",
     "lat": -26.43358,
-    "lon": 28.09267
+    "lng": 28.09267
   },
   {
     "id": 12718762,
     "name": "Leeudoorn Mine",
     "lat": -26.44244,
-    "lon": 27.57278
+    "lng": 27.57278
   },
   {
     "id": 12718761,
     "name": "Orient Hills",
     "lat": -26.03137,
-    "lon": 27.60266
+    "lng": 27.60266
   },
   {
     "id": 947846,
     "name": "Tshituni",
     "lat": -22.90384,
-    "lon": 30.03487
+    "lng": 30.03487
   },
   {
     "id": 971541,
     "name": "Nelspoort",
     "lat": -32.093,
-    "lon": 23.007
+    "lng": 23.007
   },
   {
     "id": 996409,
     "name": "Himeville",
     "lat": -29.74675,
-    "lon": 29.51361
+    "lng": 29.51361
   },
   {
     "id": 13527221,
     "name": "Sekrepeng",
     "lat": -24.96414,
-    "lon": 31.09429
+    "lng": 31.09429
   },
   {
     "id": 984118,
     "name": "Thuli",
     "lat": -26.37087,
-    "lon": 28.91521
+    "lng": 28.91521
   },
   {
     "id": 12718860,
     "name": "Pella WC",
     "lat": -33.53957,
-    "lon": 18.52149
+    "lng": 18.52149
   },
   {
     "id": 951910,
     "name": "Stormsrivier",
     "lat": -33.97041,
-    "lon": 23.88247
+    "lng": 23.88247
   },
   {
     "id": 13527186,
     "name": "Relani",
     "lat": -24.77478,
-    "lon": 31.05966
+    "lng": 31.05966
   },
   {
     "id": 1013092,
     "name": "Coldstream",
     "lat": -33.96462,
-    "lon": 23.71516
+    "lng": 23.71516
   },
   {
     "id": 965245,
     "name": "Piet Plessis",
     "lat": -26.16353,
-    "lon": 24.41192
+    "lng": 24.41192
   },
   {
     "id": 12718850,
     "name": "Swartkop",
     "lat": -28.51852,
-    "lon": 21.2043
+    "lng": 21.2043
   },
   {
     "id": 12718744,
     "name": "Mkukwini",
     "lat": -31.97144,
-    "lon": 27.43361
+    "lng": 27.43361
   },
   {
     "id": 940438,
     "name": "Wesley",
     "lat": -33.31949,
-    "lon": 27.33962
+    "lng": 27.33962
   },
   {
     "id": 13527153,
     "name": "Dumfries A",
     "lat": -24.77052,
-    "lon": 31.32178
+    "lng": 31.32178
   },
   {
     "id": 942245,
     "name": "Waay Hoek",
     "lat": -28.53333,
-    "lon": 30.1
+    "lng": 30.1
   },
   {
     "id": 964599,
     "name": "Solomon Linda",
     "lat": -28.55393,
-    "lon": 30.42642
+    "lng": 30.42642
   },
   {
     "id": 12718818,
     "name": "Kriel Power Station",
     "lat": -26.27466,
-    "lon": 29.1715
+    "lng": 29.1715
   },
   {
     "id": 953979,
     "name": "Southbroom",
     "lat": -30.91414,
-    "lon": 30.32701
+    "lng": 30.32701
   },
   {
     "id": 976901,
     "name": "Merweville",
     "lat": -32.66756,
-    "lon": 21.51554
+    "lng": 21.51554
   },
   {
     "id": 949923,
     "name": "Teko Springs",
     "lat": -32.37664,
-    "lon": 28.30316
+    "lng": 28.30316
   },
   {
     "id": 12718775,
     "name": "Randgate",
     "lat": -28.39885,
-    "lon": 32.21782
+    "lng": 32.21782
   },
   {
     "id": 12626041,
     "name": "Gariep Dam",
     "lat": -30.60093,
-    "lon": 25.49501
+    "lng": 25.49501
   },
   {
     "id": 12718795,
     "name": "Mvelaphanda",
     "lat": -23.0703,
-    "lon": 30.40252
+    "lng": 30.40252
   },
   {
     "id": 969515,
     "name": "Ngqamakhwe",
     "lat": -32.19648,
-    "lon": 27.93807
+    "lng": 27.93807
   },
   {
     "id": 3365354,
     "name": "Koekenaap",
     "lat": -31.52689,
-    "lon": 18.29128
+    "lng": 18.29128
   },
   {
     "id": 970641,
     "name": "Nieu-Bethesda",
     "lat": -31.867,
-    "lon": 24.55499
+    "lng": 24.55499
   },
   {
     "id": 13527174,
     "name": "New Line",
     "lat": -24.63881,
-    "lon": 31.00509
+    "lng": 31.00509
   },
   {
     "id": 12718794,
     "name": "Moshate",
     "lat": -23.85685,
-    "lon": 29.83668
+    "lng": 29.83668
   },
   {
     "id": 3363273,
     "name": "Op-die-Berg",
     "lat": -33.01726,
-    "lon": 19.3107
+    "lng": 19.3107
   },
   {
     "id": 3368187,
     "name": "Eendekuil",
     "lat": -32.68709,
-    "lon": 18.88363
+    "lng": 18.88363
   },
   {
     "id": 940394,
     "name": "Westbrook",
     "lat": -29.59215,
-    "lon": 31.16549
+    "lng": 31.16549
   },
   {
     "id": 3368118,
     "name": "Elandsbaai",
     "lat": -32.31401,
-    "lon": 18.34413
+    "lng": 18.34413
   },
   {
     "id": 12718774,
     "name": "Drummond",
     "lat": -29.75575,
-    "lon": 30.68977
+    "lng": 30.68977
   },
   {
     "id": 12718760,
     "name": "Onverwacht",
     "lat": -25.60233,
-    "lon": 28.59898
+    "lng": 28.59898
   },
   {
     "id": 987298,
     "name": "Kranskop",
     "lat": -28.96667,
-    "lon": 30.86667
+    "lng": 30.86667
   },
   {
     "id": 980322,
     "name": "Mahlabatini",
     "lat": -28.25856,
-    "lon": 31.44052
+    "lng": 31.44052
   },
   {
     "id": 977302,
     "name": "Meetse",
     "lat": -24.85346,
-    "lon": 31.3416
+    "lng": 31.3416
   },
   {
     "id": 13527154,
     "name": "Dumfries B",
     "lat": -24.76579,
-    "lon": 31.29522
+    "lng": 31.29522
   },
   {
     "id": 1012080,
     "name": "Dalton",
     "lat": -29.34093,
-    "lon": 30.63119
+    "lng": 30.63119
   },
   {
     "id": 996419,
     "name": "Hilton",
     "lat": -29.55453,
-    "lon": 30.301
+    "lng": 30.301
   },
   {
     "id": 12718817,
     "name": "Betty's Goed",
     "lat": -26.25394,
-    "lon": 30.91187
+    "lng": 30.91187
   },
   {
     "id": 13527171,
     "name": "Pelindaba",
     "lat": -24.60752,
-    "lon": 31.01168
+    "lng": 31.01168
   },
   {
     "id": 1015837,
     "name": "Brandwag",
     "lat": -34.06501,
-    "lon": 22.06257
+    "lng": 22.06257
   },
   {
     "id": 991359,
     "name": "Centane",
     "lat": -32.50598,
-    "lon": 28.31578
+    "lng": 28.31578
   },
   {
     "id": 3370511,
     "name": "Alexander Bay",
     "lat": -28.59608,
-    "lon": 16.48535
+    "lng": 16.48535
   },
   {
     "id": 971393,
     "name": "New Forest A",
     "lat": -24.74512,
-    "lon": 31.11911
+    "lng": 31.11911
   },
   {
     "id": 1015228,
     "name": "Buffeljagsrivier",
     "lat": -34.04605,
-    "lon": 20.52687
+    "lng": 20.52687
   },
   {
     "id": 13527166,
     "name": "Rooiboklaagte A",
     "lat": -24.62853,
-    "lon": 31.08247
+    "lng": 31.08247
   },
   {
     "id": 13527214,
     "name": "Fayini",
     "lat": -24.922,
-    "lon": 31.29931
+    "lng": 31.29931
   },
   {
     "id": 944774,
     "name": "Van Wyksvlei",
     "lat": -30.35101,
-    "lon": 21.82498
+    "lng": 21.82498
   },
   {
     "id": 1019995,
     "name": "Bergnek",
     "lat": -24.18674,
-    "lon": 29.33533
+    "lng": 29.33533
   },
   {
     "id": 3368057,
     "name": "Elim",
     "lat": -34.58972,
-    "lon": 19.75788
+    "lng": 19.75788
   },
   {
     "id": 964574,
     "name": "Pongola",
     "lat": -27.37808,
-    "lon": 31.61904
+    "lng": 31.61904
   },
   {
     "id": 12718849,
     "name": "Gannaput",
     "lat": -28.7526,
-    "lon": 21.84764
+    "lng": 21.84764
   },
   {
     "id": 941458,
     "name": "Waterval",
     "lat": -27.78333,
-    "lon": 30.26667
+    "lng": 30.26667
   },
   {
     "id": 973350,
     "name": "Mpakeni",
     "lat": -25.48562,
-    "lon": 31.26075
+    "lng": 31.26075
   },
   {
     "id": 947723,
     "name": "Tswafeng",
     "lat": -24.77028,
-    "lon": 30.97528
+    "lng": 30.97528
   },
   {
     "id": 12718848,
     "name": "Leerkrans",
     "lat": -28.406,
-    "lon": 21.52342
+    "lng": 21.52342
   },
   {
     "id": 3370086,
     "name": "Betty’s Bay",
     "lat": -34.3535,
-    "lon": 18.91268
+    "lng": 18.91268
   },
   {
     "id": 13527200,
     "name": "Matshaye",
     "lat": -24.8101,
-    "lon": 31.31361
+    "lng": 31.31361
   },
   {
     "id": 1002044,
     "name": "Geysdorp",
     "lat": -26.537,
-    "lon": 25.30251
+    "lng": 25.30251
   },
   {
     "id": 12718841,
     "name": "Bray",
     "lat": -25.46145,
-    "lon": 23.69713
+    "lng": 23.69713
   },
   {
     "id": 13527194,
     "name": "Masana",
     "lat": -24.84993,
-    "lon": 31.0575
+    "lng": 31.0575
   },
   {
     "id": 998131,
     "name": "Hamburg",
     "lat": -33.29042,
-    "lon": 27.4747
+    "lng": 27.4747
   },
   {
     "id": 991485,
     "name": "Kei Road",
     "lat": -32.70548,
-    "lon": 27.54697
+    "lng": 27.54697
   },
   {
     "id": 12718840,
     "name": "Sun Village",
     "lat": -25.35916,
-    "lon": 27.10296
+    "lng": 27.10296
   },
   {
     "id": 941914,
     "name": "Wasbank",
     "lat": -28.31314,
-    "lon": 30.10652
+    "lng": 30.10652
   },
   {
     "id": 1022210,
     "name": "Arthur’s Seat",
     "lat": -24.65076,
-    "lon": 31.02247
+    "lng": 31.02247
   },
   {
     "id": 3368195,
     "name": "Ebenhaeser",
     "lat": -31.58239,
-    "lon": 18.22527
+    "lng": 18.22527
   },
   {
     "id": 994758,
     "name": "Ingwavuma",
     "lat": -27.13313,
-    "lon": 31.99705
+    "lng": 31.99705
   },
   {
     "id": 12718793,
     "name": "Lwamondo",
     "lat": -23.03847,
-    "lon": 30.40458
+    "lng": 30.40458
   },
   {
     "id": 12718839,
     "name": "Sun City",
     "lat": -25.33997,
-    "lon": 27.09738
+    "lng": 27.09738
   },
   {
     "id": 949023,
     "name": "Thulani",
     "lat": -24.63847,
-    "lon": 31.41237
+    "lng": 31.41237
   },
   {
     "id": 946981,
     "name": "Tyusha",
     "lat": -32.76494,
-    "lon": 27.318
+    "lng": 27.318
   },
   {
     "id": 972572,
     "name": "Murchison",
     "lat": -23.90209,
-    "lon": 30.69097
+    "lng": 30.69097
   },
   {
     "id": 969619,
     "name": "Nottingham Road",
     "lat": -29.35,
-    "lon": 29.98333
+    "lng": 29.98333
   },
   {
     "id": 12718773,
     "name": "Hambanathi",
     "lat": -29.55416,
-    "lon": 31.10513
+    "lng": 31.10513
   },
   {
     "id": 942206,
     "name": "Arniston",
     "lat": -34.66739,
-    "lon": 20.23086
+    "lng": 20.23086
   },
   {
     "id": 3368507,
     "name": "Doringbaai",
     "lat": -31.8171,
-    "lon": 18.23659
+    "lng": 18.23659
   },
   {
     "id": 3360605,
     "name": "Tesselaarsdal",
     "lat": -34.33333,
-    "lon": 19.53333
+    "lng": 19.53333
   },
   {
     "id": 972673,
     "name": "Muldersdriseloop",
     "lat": -26.03673,
-    "lon": 27.83798
+    "lng": 27.83798
   },
   {
     "id": 12718743,
     "name": "Glenmore",
     "lat": -33.13235,
-    "lon": 26.87483
+    "lng": 26.87483
   },
   {
     "id": 12718859,
     "name": "Friemersheim",
     "lat": -33.95528,
-    "lon": 22.1425
+    "lng": 22.1425
   },
   {
     "id": 12718772,
     "name": "Thembalethu",
     "lat": -27.61748,
-    "lon": 32.02791
+    "lng": 32.02791
   },
   {
     "id": 12718759,
     "name": "Kameelkraal",
     "lat": -25.9009,
-    "lon": 28.53333
+    "lng": 28.53333
   },
   {
     "id": 13527142,
     "name": "Eglington A",
     "lat": -24.65698,
-    "lon": 31.36365
+    "lng": 31.36365
   },
   {
     "id": 3365182,
     "name": "Koringberg",
     "lat": -33.01806,
-    "lon": 18.67806
+    "lng": 18.67806
   },
   {
     "id": 972870,
     "name": "Mtititi",
     "lat": -23.09269,
-    "lon": 30.89928
+    "lng": 30.89928
   },
   {
     "id": 1018838,
     "name": "Blinkpan",
     "lat": -26.08266,
-    "lon": 29.43314
+    "lng": 29.43314
   },
   {
     "id": 13527162,
     "name": "Dingleydale B",
     "lat": -24.6768,
-    "lon": 31.13601
+    "lng": 31.13601
   },
   {
     "id": 956253,
     "name": "Sezela",
     "lat": -30.40605,
-    "lon": 30.68094
+    "lng": 30.68094
   },
   {
     "id": 997971,
     "name": "Hanover",
     "lat": -32.81899,
-    "lon": 27.4806
+    "lng": 27.4806
   },
   {
     "id": 1011708,
     "name": "Davel",
     "lat": -26.44477,
-    "lon": 29.66537
+    "lng": 29.66537
   },
   {
     "id": 13527182,
     "name": "Rivoni",
     "lat": -24.7375,
-    "lon": 31.0298
+    "lng": 31.0298
   },
   {
     "id": 962251,
     "name": "Rietbron",
     "lat": -32.90194,
-    "lon": 23.15084
+    "lng": 23.15084
   },
   {
     "id": 1006204,
     "name": "Elandshoek",
     "lat": -25.49851,
-    "lon": 30.71189
+    "lng": 30.71189
   },
   {
     "id": 12718758,
     "name": "Mamello",
     "lat": -26.87212,
-    "lon": 28.2534
+    "lng": 28.2534
   },
   {
     "id": 1019933,
     "name": "Bergville",
     "lat": -28.73122,
-    "lon": 29.35187
+    "lng": 29.35187
   },
   {
     "id": 13527178,
     "name": "Graigieburn",
     "lat": -24.66984,
-    "lon": 30.99611
+    "lng": 30.99611
   },
   {
     "id": 12718816,
     "name": "Sizanane",
     "lat": -26.11447,
-    "lon": 29.4086
+    "lng": 29.4086
   },
   {
     "id": 3358975,
     "name": "Yzerfontein",
     "lat": -33.34438,
-    "lon": 18.16157
+    "lng": 18.16157
   },
   {
     "id": 13527126,
     "name": "Louieville",
     "lat": -25.67704,
-    "lon": 31.30575
+    "lng": 31.30575
   },
   {
     "id": 12718815,
     "name": "Bosoord",
     "lat": -25.23237,
-    "lon": 30.33051
+    "lng": 30.33051
   },
   {
     "id": 12718792,
     "name": "Louis Trichardt Airforce Base",
     "lat": -23.15265,
-    "lon": 29.70407
+    "lng": 29.70407
   },
   {
     "id": 1001869,
     "name": "KwaGingindlovu",
     "lat": -29.02671,
-    "lon": 31.58152
+    "lng": 31.58152
   },
   {
     "id": 952681,
     "name": "Steelpoort",
     "lat": -24.73118,
-    "lon": 30.20584
+    "lng": 30.20584
   },
   {
     "id": 958273,
     "name": "Saint Lucia",
     "lat": -28.37622,
-    "lon": 32.41181
+    "lng": 32.41181
   },
   {
     "id": 971233,
     "name": "Ngagane",
     "lat": -27.84017,
-    "lon": 29.99771
+    "lng": 29.99771
   },
   {
     "id": 1000162,
     "name": "Gravelotte",
     "lat": -23.95307,
-    "lon": 30.61895
+    "lng": 30.61895
   },
   {
     "id": 12718791,
     "name": "Thusang",
     "lat": -24.62123,
-    "lon": 29.04054
+    "lng": 29.04054
   },
   {
     "id": 12718771,
     "name": "Ocean Drive-In",
     "lat": -29.58971,
-    "lon": 31.14713
+    "lng": 31.14713
   },
   {
     "id": 12718742,
     "name": "Santombe",
     "lat": -30.81595,
-    "lon": 29.36159
+    "lng": 29.36159
   },
   {
     "id": 12718847,
     "name": "Philandersbron",
     "lat": -26.81168,
-    "lon": 20.09484
+    "lng": 20.09484
   },
   {
     "id": 12718770,
     "name": "Loss",
     "lat": -28.10478,
-    "lon": 30.82101
+    "lng": 30.82101
   },
   {
     "id": 1014709,
     "name": "Bulwer",
     "lat": -29.80593,
-    "lon": 29.76729
+    "lng": 29.76729
   },
   {
     "id": 12718769,
     "name": "Hlalanathi",
     "lat": -27.49124,
-    "lon": 32.18304
+    "lng": 32.18304
   },
   {
     "id": 12718858,
     "name": "Hugenote",
     "lat": -33.90673,
-    "lon": 19.11792
+    "lng": 19.11792
   },
   {
     "id": 7304422,
     "name": "Herolds Bay",
     "lat": -34.04832,
-    "lon": 22.39709
+    "lng": 22.39709
   },
   {
     "id": 987458,
     "name": "Kragbron",
     "lat": -26.90782,
-    "lon": 27.88731
+    "lng": 27.88731
   },
   {
     "id": 12718790,
     "name": "KaNdengeza",
     "lat": -23.26352,
-    "lon": 30.39554
+    "lng": 30.39554
   },
   {
     "id": 3362976,
     "name": "Pearly Beach",
     "lat": -34.66277,
-    "lon": 19.49647
+    "lng": 19.49647
   },
   {
     "id": 13527202,
     "name": "Sabi-Sand Game Reserve",
     "lat": -24.79855,
-    "lon": 31.49851
+    "lng": 31.49851
   },
   {
     "id": 12718857,
     "name": "Wemmershoek",
     "lat": -33.87286,
-    "lon": 19.04329
+    "lng": 19.04329
   },
   {
     "id": 996060,
     "name": "Hogsback",
     "lat": -32.59527,
-    "lon": 26.94019
+    "lng": 26.94019
   },
   {
     "id": 1004380,
     "name": "Felixton",
     "lat": -28.82957,
-    "lon": 31.89125
+    "lng": 31.89125
   },
   {
     "id": 983857,
     "name": "Leeupoort",
     "lat": -24.91651,
-    "lon": 27.73154
+    "lng": 27.73154
   },
   {
     "id": 7289237,
     "name": "Marloth Park",
     "lat": -25.36512,
-    "lon": 31.78465
+    "lng": 31.78465
   },
   {
     "id": 3369367,
     "name": "Brandvlei",
     "lat": -33.73333,
-    "lon": 19.4
+    "lng": 19.4
   },
   {
     "id": 8184439,
     "name": "Vierlanden",
     "lat": -33.81229,
-    "lon": 18.65727
+    "lng": 18.65727
   },
   {
     "id": 13527138,
     "name": "Seville B",
     "lat": -24.67663,
-    "lon": 31.44538
+    "lng": 31.44538
   },
   {
     "id": 13527147,
     "name": "Eglington B",
     "lat": -24.67424,
-    "lon": 31.31677
+    "lng": 31.31677
   },
   {
     "id": 982298,
     "name": "Masakeng",
     "lat": -24.81927,
-    "lon": 31.04765
+    "lng": 31.04765
   },
   {
     "id": 12808667,
     "name": "KwaNgema",
     "lat": -27.01067,
-    "lon": 30.48566
+    "lng": 30.48566
   },
   {
     "id": 13527133,
     "name": "Hlalakahle",
     "lat": -24.62164,
-    "lon": 31.43162
+    "lng": 31.43162
   },
   {
     "id": 13527140,
     "name": "Utlha A",
     "lat": -24.70131,
-    "lon": 31.44183
+    "lng": 31.44183
   },
   {
     "id": 13527165,
     "name": "Mapaleng B",
     "lat": -24.61547,
-    "lon": 31.12495
+    "lng": 31.12495
   },
   {
     "id": 13527211,
     "name": "Malamule",
     "lat": -24.88111,
-    "lon": 31.29794
+    "lng": 31.29794
   },
   {
     "id": 13527152,
     "name": "Dumfries C",
     "lat": -24.74721,
-    "lon": 31.308
+    "lng": 31.308
   },
   {
     "id": 13527144,
     "name": "Clare C",
     "lat": -24.64887,
-    "lon": 31.3266
+    "lng": 31.3266
   },
   {
     "id": 1013716,
     "name": "Charl Cilliers",
     "lat": -26.66055,
-    "lon": 29.18566
+    "lng": 29.18566
   },
   {
     "id": 1014220,
     "name": "Camden",
     "lat": -26.6007,
-    "lon": 30.08933
+    "lng": 30.08933
   },
   {
     "id": 13527139,
     "name": "Utlha B",
     "lat": -24.693,
-    "lon": 31.44679
+    "lng": 31.44679
   },
   {
     "id": 13527137,
     "name": "Seville A",
     "lat": -24.66885,
-    "lon": 31.41703
+    "lng": 31.41703
   },
   {
     "id": 13527198,
     "name": "Croquet Lawn B",
     "lat": -24.83487,
-    "lon": 31.25675
+    "lng": 31.25675
   },
   {
     "id": 13527135,
     "name": "Thorndale",
     "lat": -24.64772,
-    "lon": 31.44744
+    "lng": 31.44744
   }
 ]

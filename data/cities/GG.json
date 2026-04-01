@@ -3,66 +3,66 @@
     "id": 3042287,
     "name": "Saint Peter Port",
     "lat": 49.45981,
-    "lon": -2.53527
+    "lng": -2.53527
   },
   {
     "id": 13527037,
     "name": "Vale Parish",
     "lat": 49.4944,
-    "lon": -2.5179
+    "lng": -2.5179
   },
   {
     "id": 3042286,
     "name": "Saint Sampson",
     "lat": 49.48389,
-    "lon": -2.52333
+    "lng": -2.52333
   },
   {
     "id": 13527038,
     "name": "Castel Parish",
     "lat": 49.47089,
-    "lon": -2.602
+    "lng": -2.602
   },
   {
     "id": 13527036,
     "name": "Saint Martin Parish",
     "lat": 49.43874,
-    "lon": -2.55734
+    "lng": -2.55734
   },
   {
     "id": 13527043,
     "name": "Saint Saviour Parish",
     "lat": 49.45839,
-    "lon": -2.62244
+    "lng": -2.62244
   },
   {
     "id": 13527039,
     "name": "Saint Andrew Parish",
     "lat": 49.45438,
-    "lon": -2.57449
+    "lng": -2.57449
   },
   {
     "id": 13527042,
     "name": "Saint Pierre du Bois Parish",
     "lat": 49.45399,
-    "lon": -2.63808
+    "lng": -2.63808
   },
   {
     "id": 13527040,
     "name": "Forest Parish",
     "lat": 49.42983,
-    "lon": -2.60168
+    "lng": -2.60168
   },
   {
     "id": 13527041,
     "name": "Torteval Parish",
     "lat": 49.42982,
-    "lon": -2.66608
+    "lng": -2.66608
   },
   {
     "id": 6696201,
     "name": "Sark",
     "lat": 49.43331,
-    "lon": -2.35622
+    "lng": -2.35622
   }
 ]
