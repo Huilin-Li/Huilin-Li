@@ -1,8 +1,26 @@
 {
   "version": 3,
-  "updatedAt": "2026-03-31T10:43:13.560Z",
-  "maxChangesPerUser": 3,
-  
-  "countries": { },
-  "users": { }
+  "updatedAt": "2026-04-01T10:33:03.895Z",
+  "maxChangesPerUser": 30000,
+  "countries": {
+    "CN": {
+      "users": {
+        "Huilin-Li": "2026-04-01T10:32:53Z"
+      },
+      "firstUser": "Huilin-Li",
+      "lastAt": "2026-04-01T10:32:53Z"
+    }
+  },
+  "users": {
+    "Huilin-Li": {
+      "visited": [
+        {
+          "iso": "CN",
+          "city": null,
+          "visitedAt": "2026-04-01T10:32:53Z"
+        }
+      ],
+      "changesUsed": 0
+    }
+  }
 }
