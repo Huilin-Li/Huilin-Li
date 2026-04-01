@@ -846,7 +846,7 @@
     }
 
     function loadCounts(cb) {
-      var url = 'https://raw.githubusercontent.com/buralog/buralog/refs/heads/main/data/visitors.json?ts=' + Date.now();
+      var url = 'https://raw.githubusercontent.com/Huilin-Li/Huilin-Li/refs/heads/main/data/visitors.json?ts=' + Date.now();
       fetch(url, { cache: 'no-store' })
         .then(function (res) { return res.ok ? res.json() : null; })
         .then(function (json) {
@@ -929,7 +929,7 @@
         );
       }
       var flag = getFlagEmoji(selected.iso2);
-      var url = new URL('https://github.com/buralog/buralog/issues/new');
+      var url = new URL('https://github.com/Huilin-Li/Huilin-Li/issues/new');
       url.searchParams.set('title', 'hello|' + selected.iso2);
       var body = 'Hello 👋 from ' + flag + ' ' + selected.name;
       url.searchParams.set('body', body);
