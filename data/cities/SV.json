@@ -1,0 +1,614 @@
+[
+  {
+    "id": 3583361,
+    "name": "San Salvador",
+    "lat": 13.68935,
+    "lon": -89.18718
+  },
+  {
+    "id": 3583096,
+    "name": "Soyapango",
+    "lat": 13.71024,
+    "lon": -89.13989
+  },
+  {
+    "id": 3583446,
+    "name": "San Miguel",
+    "lat": 13.48261,
+    "lon": -88.18211
+  },
+  {
+    "id": 3583334,
+    "name": "Santa Ana",
+    "lat": 13.98827,
+    "lon": -89.55685
+  },
+  {
+    "id": 3584399,
+    "name": "Mejicanos",
+    "lat": 13.72397,
+    "lon": -89.188
+  },
+  {
+    "id": 3584257,
+    "name": "Santa Tecla",
+    "lat": 13.67741,
+    "lon": -89.28335
+  },
+  {
+    "id": 3587345,
+    "name": "Apopa",
+    "lat": 13.80722,
+    "lon": -89.17917
+  },
+  {
+    "id": 3586814,
+    "name": "Delgado",
+    "lat": 13.72171,
+    "lon": -89.16874
+  },
+  {
+    "id": 3583102,
+    "name": "Sonsonate",
+    "lat": 13.71726,
+    "lon": -89.72304
+  },
+  {
+    "id": 3583480,
+    "name": "San Marcos",
+    "lat": 13.66108,
+    "lon": -89.18252
+  },
+  {
+    "id": 3582883,
+    "name": "Usulután",
+    "lat": 13.34467,
+    "lon": -88.43994
+  },
+  {
+    "id": 3586977,
+    "name": "Cojutepeque",
+    "lat": 13.71971,
+    "lon": -88.93309
+  },
+  {
+    "id": 3586833,
+    "name": "Cuscatancingo",
+    "lat": 13.72702,
+    "lon": -89.18161
+  },
+  {
+    "id": 3583178,
+    "name": "San Vicente",
+    "lat": 13.64114,
+    "lon": -88.78459
+  },
+  {
+    "id": 3582805,
+    "name": "Zacatecoluca",
+    "lat": 13.50872,
+    "lon": -88.87017
+  },
+  {
+    "id": 3583471,
+    "name": "San Martín",
+    "lat": 13.78333,
+    "lon": -88.91667
+  },
+  {
+    "id": 3585484,
+    "name": "Ilopango",
+    "lat": 13.70167,
+    "lon": -89.10944
+  },
+  {
+    "id": 3587426,
+    "name": "Ahuachapán",
+    "lat": 13.92403,
+    "lon": -89.84344
+  },
+  {
+    "id": 3587362,
+    "name": "Antiguo Cuscatlán",
+    "lat": 13.66492,
+    "lon": -89.25319
+  },
+  {
+    "id": 3587086,
+    "name": "Chalchuapa",
+    "lat": 13.98667,
+    "lon": -89.68111
+  },
+  {
+    "id": 3583981,
+    "name": "Quezaltepeque",
+    "lat": 13.83124,
+    "lon": -89.27221
+  },
+  {
+    "id": 3584772,
+    "name": "La Unión",
+    "lat": 13.33915,
+    "lon": -87.84328
+  },
+  {
+    "id": 3587308,
+    "name": "Ayutuxtepeque",
+    "lat": 13.73538,
+    "lon": -89.20221
+  },
+  {
+    "id": 3587498,
+    "name": "Acajutla",
+    "lat": 13.59278,
+    "lon": -89.8275
+  },
+  {
+    "id": 3587428,
+    "name": "Aguilares",
+    "lat": 13.95722,
+    "lon": -89.18972
+  },
+  {
+    "id": 3583158,
+    "name": "Sensuntepeque",
+    "lat": 13.87583,
+    "lon": -88.62727
+  },
+  {
+    "id": 3587091,
+    "name": "Chalatenango",
+    "lat": 14.04138,
+    "lon": -88.93951
+  },
+  {
+    "id": 3585473,
+    "name": "Izalco",
+    "lat": 13.74472,
+    "lon": -89.67306
+  },
+  {
+    "id": 3584384,
+    "name": "Metapán",
+    "lat": 14.33333,
+    "lon": -89.45
+  },
+  {
+    "id": 3583379,
+    "name": "San Rafael Oriente",
+    "lat": 13.38333,
+    "lon": -88.35
+  },
+  {
+    "id": 3584003,
+    "name": "Puerto El Triunfo",
+    "lat": 13.28333,
+    "lon": -88.55
+  },
+  {
+    "id": 3585157,
+    "name": "La Libertad",
+    "lat": 13.48833,
+    "lon": -89.32222
+  },
+  {
+    "id": 3583747,
+    "name": "San Francisco",
+    "lat": 13.69408,
+    "lon": -88.10407
+  },
+  {
+    "id": 3583098,
+    "name": "Sonzacate",
+    "lat": 13.73417,
+    "lon": -89.71472
+  },
+  {
+    "id": 3583199,
+    "name": "Santiago de María",
+    "lat": 13.48333,
+    "lon": -88.46667
+  },
+  {
+    "id": 3587333,
+    "name": "Armenia",
+    "lat": 13.74361,
+    "lon": -89.49889
+  },
+  {
+    "id": 3583183,
+    "name": "Santo Tomás",
+    "lat": 13.64083,
+    "lon": -89.13333
+  },
+  {
+    "id": 3583214,
+    "name": "Santa Rosa de Lima",
+    "lat": 13.62472,
+    "lon": -87.89361
+  },
+  {
+    "id": 3582896,
+    "name": "Turín",
+    "lat": 13.96639,
+    "lon": -89.76611
+  },
+  {
+    "id": 3582790,
+    "name": "Zaragoza",
+    "lat": 13.58944,
+    "lon": -89.28889
+  },
+  {
+    "id": 3587266,
+    "name": "Berlín",
+    "lat": 13.5,
+    "lon": -88.53333
+  },
+  {
+    "id": 3585636,
+    "name": "Guazapa",
+    "lat": 13.87694,
+    "lon": -89.17306
+  },
+  {
+    "id": 3585398,
+    "name": "Jucuapa",
+    "lat": 13.51667,
+    "lon": -88.38333
+  },
+  {
+    "id": 3586985,
+    "name": "Ciudad Arce",
+    "lat": 13.84028,
+    "lon": -89.44722
+  },
+  {
+    "id": 3584266,
+    "name": "Nueva Concepción",
+    "lat": 14.13333,
+    "lon": -89.3
+  },
+  {
+    "id": 3585401,
+    "name": "Juayúa",
+    "lat": 13.84139,
+    "lon": -89.74556
+  },
+  {
+    "id": 3583196,
+    "name": "Santiago Nonualco",
+    "lat": 13.51667,
+    "lon": -88.95
+  },
+  {
+    "id": 3585856,
+    "name": "El Tránsito",
+    "lat": 13.35,
+    "lon": -88.35
+  },
+  {
+    "id": 3587317,
+    "name": "Atiquizaya",
+    "lat": 13.97694,
+    "lon": -89.7525
+  },
+  {
+    "id": 3583851,
+    "name": "San Antonio del Monte",
+    "lat": 13.71639,
+    "lon": -89.73833
+  },
+  {
+    "id": 3585438,
+    "name": "Jiquilisco",
+    "lat": 13.31667,
+    "lon": -88.58333
+  },
+  {
+    "id": 3586550,
+    "name": "El Congo",
+    "lat": 13.90889,
+    "lon": -89.49583
+  },
+  {
+    "id": 3587037,
+    "name": "Chinameca",
+    "lat": 13.5,
+    "lon": -88.35
+  },
+  {
+    "id": 3586983,
+    "name": "Ciudad Barrios",
+    "lat": 13.76667,
+    "lon": -88.26667
+  },
+  {
+    "id": 3586926,
+    "name": "Concepción de Ataco",
+    "lat": 13.87028,
+    "lon": -89.84861
+  },
+  {
+    "id": 3584297,
+    "name": "Nahuizalco",
+    "lat": 13.7775,
+    "lon": -89.73667
+  },
+  {
+    "id": 3583352,
+    "name": "San Sebastián",
+    "lat": 13.73333,
+    "lon": -88.83333
+  },
+  {
+    "id": 3583531,
+    "name": "San Juan Opico",
+    "lat": 13.87611,
+    "lon": -89.35972
+  },
+  {
+    "id": 3584156,
+    "name": "Panchimalco",
+    "lat": 13.61278,
+    "lon": -89.18
+  },
+  {
+    "id": 3584251,
+    "name": "Nuevo Cuscatlán",
+    "lat": 13.64861,
+    "lon": -89.26528
+  },
+  {
+    "id": 3587018,
+    "name": "Chirilagua",
+    "lat": 13.22028,
+    "lon": -88.13861
+  },
+  {
+    "id": 3584212,
+    "name": "Olocuilta",
+    "lat": 13.56972,
+    "lon": -89.11722
+  },
+  {
+    "id": 3587157,
+    "name": "Candelaria de La Frontera",
+    "lat": 14.11667,
+    "lon": -89.65
+  },
+  {
+    "id": 3582918,
+    "name": "Tonacatepeque",
+    "lat": 13.78111,
+    "lon": -89.11861
+  },
+  {
+    "id": 3583278,
+    "name": "Santa Elena",
+    "lat": 13.38333,
+    "lon": -88.41667
+  },
+  {
+    "id": 3584260,
+    "name": "Nueva Guadalupe",
+    "lat": 13.53333,
+    "lon": -88.35
+  },
+  {
+    "id": 3587349,
+    "name": "Apastepeque",
+    "lat": 13.66667,
+    "lon": -88.78333
+  },
+  {
+    "id": 3586981,
+    "name": "Coatepeque",
+    "lat": 13.92861,
+    "lon": -89.50417
+  },
+  {
+    "id": 3583090,
+    "name": "Suchitoto",
+    "lat": 13.93806,
+    "lon": -89.02778
+  },
+  {
+    "id": 3586021,
+    "name": "El Rosario",
+    "lat": 13.49778,
+    "lon": -89.02972
+  },
+  {
+    "id": 3585653,
+    "name": "Guatajiagua",
+    "lat": 13.66667,
+    "lon": -88.2
+  },
+  {
+    "id": 3583937,
+    "name": "Rosario de Mora",
+    "lat": 13.57528,
+    "lon": -89.20889
+  },
+  {
+    "id": 3583905,
+    "name": "San Alejo",
+    "lat": 13.43139,
+    "lon": -87.96306
+  },
+  {
+    "id": 3583065,
+    "name": "Tacuba",
+    "lat": 13.90111,
+    "lon": -89.92972
+  },
+  {
+    "id": 3585427,
+    "name": "Jocoro",
+    "lat": 13.61667,
+    "lon": -88.01667
+  },
+  {
+    "id": 3584190,
+    "name": "Ozatlán",
+    "lat": 13.38333,
+    "lon": -88.5
+  },
+  {
+    "id": 3585480,
+    "name": "Intipucá",
+    "lat": 13.19694,
+    "lon": -88.05444
+  },
+  {
+    "id": 3586930,
+    "name": "Concepción Batres",
+    "lat": 13.35,
+    "lon": -88.36667
+  },
+  {
+    "id": 3586884,
+    "name": "Corinto",
+    "lat": 13.81083,
+    "lon": -87.97139
+  },
+  {
+    "id": 3587064,
+    "name": "Chapeltique",
+    "lat": 13.63333,
+    "lon": -88.26667
+  },
+  {
+    "id": 3586917,
+    "name": "Conchagua",
+    "lat": 13.30778,
+    "lon": -87.86472
+  },
+  {
+    "id": 3583429,
+    "name": "San Pablo Tacachico",
+    "lat": 13.97556,
+    "lon": -89.34
+  },
+  {
+    "id": 3583009,
+    "name": "Tecoluca",
+    "lat": 13.78917,
+    "lon": -89.00528
+  },
+  {
+    "id": 3587372,
+    "name": "Anamorós",
+    "lat": 13.74056,
+    "lon": -87.87361
+  },
+  {
+    "id": 3584714,
+    "name": "Lolotique",
+    "lat": 13.55,
+    "lon": -88.35
+  },
+  {
+    "id": 3583407,
+    "name": "San Pedro Masahuat",
+    "lat": 13.54361,
+    "lon": -89.03861
+  },
+  {
+    "id": 3587208,
+    "name": "Cacaopera",
+    "lat": 13.76667,
+    "lon": -88.08333
+  },
+  {
+    "id": 3584264,
+    "name": "Nueva Esparta",
+    "lat": 13.78361,
+    "lon": -87.83861
+  },
+  {
+    "id": 3582954,
+    "name": "Texistepeque",
+    "lat": 14.13333,
+    "lon": -89.5
+  },
+  {
+    "id": 3584140,
+    "name": "Pasaquina",
+    "lat": 13.58444,
+    "lon": -87.84111
+  },
+  {
+    "id": 3583910,
+    "name": "San Agustín",
+    "lat": 13.43333,
+    "lon": -88.6
+  },
+  {
+    "id": 3584348,
+    "name": "Moncagua",
+    "lat": 13.53333,
+    "lon": -88.25
+  },
+  {
+    "id": 3582835,
+    "name": "Victoria",
+    "lat": 13.95,
+    "lon": -88.63333
+  },
+  {
+    "id": 3585392,
+    "name": "Jujutla",
+    "lat": 13.78694,
+    "lon": -89.85722
+  },
+  {
+    "id": 3583111,
+    "name": "Sociedad",
+    "lat": 13.7,
+    "lon": -88.01667
+  },
+  {
+    "id": 3585395,
+    "name": "Jucuarán",
+    "lat": 13.25389,
+    "lon": -88.24778
+  },
+  {
+    "id": 3586204,
+    "name": "El Paisnal",
+    "lat": 13.97361,
+    "lon": -89.21861
+  },
+  {
+    "id": 3585640,
+    "name": "Guaymango",
+    "lat": 13.75028,
+    "lon": -89.84222
+  },
+  {
+    "id": 3583155,
+    "name": "Sesori",
+    "lat": 13.71667,
+    "lon": -88.36667
+  },
+  {
+    "id": 3583716,
+    "name": "San Francisco Menéndez",
+    "lat": 13.84306,
+    "lon": -90.01583
+  },
+  {
+    "id": 3582987,
+    "name": "Tenancingo",
+    "lat": 13.83333,
+    "lon": -88.98333
+  },
+  {
+    "id": 3583714,
+    "name": "San Francisco Morazán",
+    "lat": 14.18333,
+    "lon": -89.05
+  }
+]

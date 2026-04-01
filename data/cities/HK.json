@@ -1,0 +1,1910 @@
+[
+  {
+    "id": 1819729,
+    "name": "Hong Kong",
+    "lat": 22.27832,
+    "lon": 114.17469
+  },
+  {
+    "id": 1931681,
+    "name": "Victoria",
+    "lat": 22.2875,
+    "lon": 114.14417
+  },
+  {
+    "id": 1818446,
+    "name": "Tuen Mun",
+    "lat": 22.39175,
+    "lon": 113.97157
+  },
+  {
+    "id": 1818920,
+    "name": "Sha Tin",
+    "lat": 22.38333,
+    "lon": 114.18333
+  },
+  {
+    "id": 1818953,
+    "name": "Sham Shui Po",
+    "lat": 22.33023,
+    "lon": 114.15945
+  },
+  {
+    "id": 1818304,
+    "name": "Wong Tai Sin",
+    "lat": 22.35,
+    "lon": 114.18333
+  },
+  {
+    "id": 1819607,
+    "name": "Kowloon City",
+    "lat": 22.33047,
+    "lon": 114.19222
+  },
+  {
+    "id": 1818506,
+    "name": "Tseung Kwan O",
+    "lat": 22.32789,
+    "lon": 114.24992
+  },
+  {
+    "id": 1819595,
+    "name": "Kwai Chung",
+    "lat": 22.36828,
+    "lon": 114.13877
+  },
+  {
+    "id": 1818209,
+    "name": "Tsuen Wan",
+    "lat": 22.37137,
+    "lon": 114.11329
+  },
+  {
+    "id": 1818558,
+    "name": "Tin Shui Wai",
+    "lat": 22.45679,
+    "lon": 114.00234
+  },
+  {
+    "id": 1818673,
+    "name": "Tai Po",
+    "lat": 22.45007,
+    "lon": 114.16877
+  },
+  {
+    "id": 1819873,
+    "name": "Fanling",
+    "lat": 22.49487,
+    "lon": 114.13949
+  },
+  {
+    "id": 1819400,
+    "name": "Ma On Shan",
+    "lat": 22.40613,
+    "lon": 114.24079
+  },
+  {
+    "id": 1818225,
+    "name": "Yuen Long",
+    "lat": 22.44518,
+    "lon": 114.02621
+  },
+  {
+    "id": 1818222,
+    "name": "Yuen Long San Hui",
+    "lat": 22.43333,
+    "lon": 114.03333
+  },
+  {
+    "id": 1818483,
+    "name": "Tsing Yi Town",
+    "lat": 22.35,
+    "lon": 114.1
+  },
+  {
+    "id": 1818223,
+    "name": "Yuen Long Kau Hui",
+    "lat": 22.44831,
+    "lon": 114.03199
+  },
+  {
+    "id": 1818379,
+    "name": "Wan Chai",
+    "lat": 22.28142,
+    "lon": 114.17258
+  },
+  {
+    "id": 1819757,
+    "name": "Aberdeen",
+    "lat": 22.24802,
+    "lon": 114.15289
+  },
+  {
+    "id": 1819283,
+    "name": "San Tung Chung Hang",
+    "lat": 22.27875,
+    "lon": 113.94307
+  },
+  {
+    "id": 11101593,
+    "name": "Tung Chung",
+    "lat": 22.28783,
+    "lon": 113.94243
+  },
+  {
+    "id": 1818916,
+    "name": "Sha Tin Wai",
+    "lat": 22.37756,
+    "lon": 114.19753
+  },
+  {
+    "id": 12719430,
+    "name": "Shap Pat Heung",
+    "lat": 22.4248,
+    "lon": 114.03581
+  },
+  {
+    "id": 1819091,
+    "name": "Pok Fu Lam",
+    "lat": 22.26861,
+    "lon": 114.12924
+  },
+  {
+    "id": 12689055,
+    "name": "Nam Cheong",
+    "lat": 22.32799,
+    "lon": 114.15389
+  },
+  {
+    "id": 1819353,
+    "name": "Mong Kok",
+    "lat": 22.31935,
+    "lon": 114.17136
+  },
+  {
+    "id": 1818781,
+    "name": "Siu Lek Yuen",
+    "lat": 22.38174,
+    "lon": 114.21256
+  },
+  {
+    "id": 1818972,
+    "name": "Sau Mau Ping",
+    "lat": 22.3202,
+    "lon": 114.23497
+  },
+  {
+    "id": 1818550,
+    "name": "Tiu Keng Leng",
+    "lat": 22.29853,
+    "lon": 114.25115
+  },
+  {
+    "id": 12719433,
+    "name": "LOHAS Park",
+    "lat": 22.29315,
+    "lon": 114.27245
+  },
+  {
+    "id": 12640681,
+    "name": "Mei Foo",
+    "lat": 22.33719,
+    "lon": 114.13856
+  },
+  {
+    "id": 1819101,
+    "name": "Ping Shan",
+    "lat": 22.44111,
+    "lon": 114.00608
+  },
+  {
+    "id": 12640684,
+    "name": "Kai Tak",
+    "lat": 22.32425,
+    "lon": 114.19741
+  },
+  {
+    "id": 8224045,
+    "name": "Jordan",
+    "lat": 22.30539,
+    "lon": 114.17001
+  },
+  {
+    "id": 12689063,
+    "name": "Pat Heung",
+    "lat": 22.4461,
+    "lon": 114.09226
+  },
+  {
+    "id": 12689057,
+    "name": "Whampoa",
+    "lat": 22.30504,
+    "lon": 114.19021
+  },
+  {
+    "id": 12689060,
+    "name": "Choi Wan",
+    "lat": 22.33385,
+    "lon": 114.21368
+  },
+  {
+    "id": 12719566,
+    "name": "Mei Foo Sun Chuen",
+    "lat": 22.33636,
+    "lon": 114.14018
+  },
+  {
+    "id": 1818447,
+    "name": "Tsz Wan Shan",
+    "lat": 22.35247,
+    "lon": 114.20016
+  },
+  {
+    "id": 1819791,
+    "name": "Hang Hau",
+    "lat": 22.31811,
+    "lon": 114.26994
+  },
+  {
+    "id": 1819050,
+    "name": "Sai Kung",
+    "lat": 22.38333,
+    "lon": 114.26667
+  },
+  {
+    "id": 10170102,
+    "name": "Tai Koo",
+    "lat": 22.2841,
+    "lon": 114.21631
+  },
+  {
+    "id": 12719589,
+    "name": "Taikoo Shing",
+    "lat": 22.28613,
+    "lon": 114.2187
+  },
+  {
+    "id": 1818266,
+    "name": "Yau Tong",
+    "lat": 22.29569,
+    "lon": 114.23599
+  },
+  {
+    "id": 1818721,
+    "name": "Tai Kok Tsui",
+    "lat": 22.32146,
+    "lon": 114.163
+  },
+  {
+    "id": 1818892,
+    "name": "Shek Lei",
+    "lat": 22.36613,
+    "lon": 114.13982
+  },
+  {
+    "id": 12719843,
+    "name": "Whampoa Garden",
+    "lat": 22.30534,
+    "lon": 114.18936
+  },
+  {
+    "id": 1818268,
+    "name": "Yau Ma Tei",
+    "lat": 22.3138,
+    "lon": 114.16857
+  },
+  {
+    "id": 12746539,
+    "name": "Lower Wong Tai Sin Estate (I & II)",
+    "lat": 22.33923,
+    "lon": 114.19441
+  },
+  {
+    "id": 12719432,
+    "name": "South Horizons",
+    "lat": 22.24383,
+    "lon": 114.14828
+  },
+  {
+    "id": 12719791,
+    "name": "South Horizons (Estate)",
+    "lat": 22.24411,
+    "lon": 114.14616
+  },
+  {
+    "id": 1819529,
+    "name": "Leighton Hill",
+    "lat": 22.2761,
+    "lon": 114.18398
+  },
+  {
+    "id": 1819923,
+    "name": "Chuk Yuen",
+    "lat": 22.34544,
+    "lon": 114.19327
+  },
+  {
+    "id": 12640693,
+    "name": "Lei Tung",
+    "lat": 22.24052,
+    "lon": 114.15757
+  },
+  {
+    "id": 1818385,
+    "name": "Wah Fu",
+    "lat": 22.25474,
+    "lon": 114.13622
+  },
+  {
+    "id": 1818950,
+    "name": "Sham Tseng",
+    "lat": 22.36667,
+    "lon": 114.05
+  },
+  {
+    "id": 12719555,
+    "name": "Shek Kip Mei Estate",
+    "lat": 22.33412,
+    "lon": 114.16531
+  },
+  {
+    "id": 12746532,
+    "name": "Choi Wan Estate (I & II)",
+    "lat": 22.33337,
+    "lon": 114.21331
+  },
+  {
+    "id": 1818501,
+    "name": "Tsim Sha Tsui",
+    "lat": 22.3,
+    "lon": 114.16667
+  },
+  {
+    "id": 12719443,
+    "name": "Wu Kai Sha",
+    "lat": 22.43016,
+    "lon": 114.24212
+  },
+  {
+    "id": 12689059,
+    "name": "Laguna City",
+    "lat": 22.30554,
+    "lon": 114.22861
+  },
+  {
+    "id": 1818817,
+    "name": "Shuen Wan",
+    "lat": 22.46767,
+    "lon": 114.20812
+  },
+  {
+    "id": 1819855,
+    "name": "Fo Tan",
+    "lat": 22.39846,
+    "lon": 114.19293
+  },
+  {
+    "id": 1819685,
+    "name": "Kam Tin",
+    "lat": 22.44123,
+    "lon": 114.06019
+  },
+  {
+    "id": 12746541,
+    "name": "Tsz Ching Estate",
+    "lat": 22.35099,
+    "lon": 114.20056
+  },
+  {
+    "id": 1819775,
+    "name": "Ha Tsuen",
+    "lat": 22.44724,
+    "lon": 113.9916
+  },
+  {
+    "id": 1818614,
+    "name": "Tai Wo Hau",
+    "lat": 22.36718,
+    "lon": 114.12347
+  },
+  {
+    "id": 1819980,
+    "name": "Chek Chue",
+    "lat": 22.21849,
+    "lon": 114.21241
+  },
+  {
+    "id": 1818883,
+    "name": "Shek O",
+    "lat": 22.23344,
+    "lon": 114.25121
+  },
+  {
+    "id": 1818845,
+    "name": "Sheung Shui",
+    "lat": 22.51667,
+    "lon": 114.11667
+  },
+  {
+    "id": 1819726,
+    "name": "Hong Lok Yuen",
+    "lat": 22.46315,
+    "lon": 114.1552
+  },
+  {
+    "id": 12689069,
+    "name": "Fairview Park",
+    "lat": 22.46738,
+    "lon": 114.04766
+  },
+  {
+    "id": 1819394,
+    "name": "Ma Tau Wai",
+    "lat": 22.32074,
+    "lon": 114.18743
+  },
+  {
+    "id": 1818628,
+    "name": "Tai Wai",
+    "lat": 22.37286,
+    "lon": 114.17897
+  },
+  {
+    "id": 1819731,
+    "name": "Ho Man Tin",
+    "lat": 22.31584,
+    "lon": 114.18181
+  },
+  {
+    "id": 1819968,
+    "name": "Cheung Chau",
+    "lat": 22.21085,
+    "lon": 114.02787
+  },
+  {
+    "id": 12687143,
+    "name": "Shui Chuen O",
+    "lat": 22.37161,
+    "lon": 114.19778
+  },
+  {
+    "id": 1818996,
+    "name": "San Tin",
+    "lat": 22.50166,
+    "lon": 114.06932
+  },
+  {
+    "id": 1818444,
+    "name": "Tuen Mun San Hui",
+    "lat": 22.39877,
+    "lon": 113.97596
+  },
+  {
+    "id": 12689056,
+    "name": "Olympic",
+    "lat": 22.31939,
+    "lon": 114.15736
+  },
+  {
+    "id": 1819894,
+    "name": "Discovery Bay",
+    "lat": 22.3,
+    "lon": 114.01667
+  },
+  {
+    "id": 12640687,
+    "name": "The Peak",
+    "lat": 22.26202,
+    "lon": 114.15649
+  },
+  {
+    "id": 12640671,
+    "name": "Sung Wong Toi",
+    "lat": 22.32466,
+    "lon": 114.19149
+  },
+  {
+    "id": 12640674,
+    "name": "So Uk",
+    "lat": 22.34131,
+    "lon": 114.15679
+  },
+  {
+    "id": 1819602,
+    "name": "Kowloon Tong",
+    "lat": 22.33312,
+    "lon": 114.17969
+  },
+  {
+    "id": 12719587,
+    "name": "Siu Sai Wan Estate",
+    "lat": 22.26155,
+    "lon": 114.24881
+  },
+  {
+    "id": 1819029,
+    "name": "Sai Wan Ho",
+    "lat": 22.28449,
+    "lon": 114.2232
+  },
+  {
+    "id": 12719581,
+    "name": "So Uk Estate",
+    "lat": 22.34153,
+    "lon": 114.15653
+  },
+  {
+    "id": 12719848,
+    "name": "Tak Long Estate",
+    "lat": 22.3302,
+    "lon": 114.20338
+  },
+  {
+    "id": 12719547,
+    "name": "Keng Hau",
+    "lat": 22.36507,
+    "lon": 114.17472
+  },
+  {
+    "id": 12719552,
+    "name": "Un Chau Estate",
+    "lat": 22.33633,
+    "lon": 114.15616
+  },
+  {
+    "id": 1819554,
+    "name": "Lam Tin",
+    "lat": 22.30933,
+    "lon": 114.23634
+  },
+  {
+    "id": 12719787,
+    "name": "Lei Tung Estate",
+    "lat": 22.24115,
+    "lon": 114.15523
+  },
+  {
+    "id": 1819003,
+    "name": "San Po Kong",
+    "lat": 22.33546,
+    "lon": 114.19669
+  },
+  {
+    "id": 12719440,
+    "name": "Laguna Verde",
+    "lat": 22.30719,
+    "lon": 114.19071
+  },
+  {
+    "id": 12719439,
+    "name": "Hok Yuen",
+    "lat": 22.31027,
+    "lon": 114.18816
+  },
+  {
+    "id": 1818905,
+    "name": "Shek Kip Mei",
+    "lat": 22.33146,
+    "lon": 114.16799
+  },
+  {
+    "id": 12719592,
+    "name": "Heng Fa Chuen",
+    "lat": 22.27668,
+    "lon": 114.24077
+  },
+  {
+    "id": 12719542,
+    "name": "Aldrich Bay",
+    "lat": 22.28203,
+    "lon": 114.22474
+  },
+  {
+    "id": 12746531,
+    "name": "Choi Hung Estate",
+    "lat": 22.33636,
+    "lon": 114.20581
+  },
+  {
+    "id": 1818654,
+    "name": "Tai Shui Hang",
+    "lat": 22.40631,
+    "lon": 114.22385
+  },
+  {
+    "id": 1818349,
+    "name": "Wo Che",
+    "lat": 22.39016,
+    "lon": 114.19217
+  },
+  {
+    "id": 1818695,
+    "name": "Tai Mei Tuk",
+    "lat": 22.47447,
+    "lon": 114.23458
+  },
+  {
+    "id": 12640682,
+    "name": "Kadoorie",
+    "lat": 22.32247,
+    "lon": 114.17556
+  },
+  {
+    "id": 12719847,
+    "name": "Oi Man Estate",
+    "lat": 22.31197,
+    "lon": 114.17853
+  },
+  {
+    "id": 12689054,
+    "name": "Discovery Park",
+    "lat": 22.37621,
+    "lon": 114.11141
+  },
+  {
+    "id": 1818574,
+    "name": "Ting Kau",
+    "lat": 22.36956,
+    "lon": 114.07907
+  },
+  {
+    "id": 12746517,
+    "name": "Chuk Yuen North Estate",
+    "lat": 22.34592,
+    "lon": 114.19197
+  },
+  {
+    "id": 1818365,
+    "name": "Wang Tau Hom",
+    "lat": 22.3401,
+    "lon": 114.18732
+  },
+  {
+    "id": 12719553,
+    "name": "Pak Tin Estate",
+    "lat": 22.33713,
+    "lon": 114.16673
+  },
+  {
+    "id": 1818557,
+    "name": "Tin Wan",
+    "lat": 22.25113,
+    "lon": 114.14726
+  },
+  {
+    "id": 12746547,
+    "name": "Wang Tau Hom Estate",
+    "lat": 22.34009,
+    "lon": 114.18673
+  },
+  {
+    "id": 1819577,
+    "name": "Kwun Tong",
+    "lat": 22.31184,
+    "lon": 114.22176
+  },
+  {
+    "id": 12719445,
+    "name": "Kam Ying",
+    "lat": 22.42285,
+    "lon": 114.23664
+  },
+  {
+    "id": 12689062,
+    "name": "Sun Tin Wai",
+    "lat": 22.37058,
+    "lon": 114.18696
+  },
+  {
+    "id": 1818992,
+    "name": "San Tin",
+    "lat": 22.37193,
+    "lon": 114.18385
+  },
+  {
+    "id": 12719540,
+    "name": "Sam Shing",
+    "lat": 22.38128,
+    "lon": 113.97872
+  },
+  {
+    "id": 9172583,
+    "name": "Wong Chuk Hang",
+    "lat": 22.23981,
+    "lon": 114.17001
+  },
+  {
+    "id": 1818259,
+    "name": "Yeung Uk Tsuen",
+    "lat": 22.45,
+    "lon": 114.01667
+  },
+  {
+    "id": 12719438,
+    "name": "Braemar Hill",
+    "lat": 22.28282,
+    "lon": 114.20034
+  },
+  {
+    "id": 12719569,
+    "name": "Hoi Lai Estate",
+    "lat": 22.33182,
+    "lon": 114.14667
+  },
+  {
+    "id": 1819339,
+    "name": "Mount Davis",
+    "lat": 22.27862,
+    "lon": 114.11777
+  },
+  {
+    "id": 12687141,
+    "name": "Pok Hong",
+    "lat": 22.37558,
+    "lon": 114.19584
+  },
+  {
+    "id": 12719572,
+    "name": "Fu Cheong Estate",
+    "lat": 22.32891,
+    "lon": 114.15399
+  },
+  {
+    "id": 1818544,
+    "name": "To Kwa Wan",
+    "lat": 22.31693,
+    "lon": 114.19052
+  },
+  {
+    "id": 12719444,
+    "name": "Lee On",
+    "lat": 22.42635,
+    "lon": 114.24133
+  },
+  {
+    "id": 12689065,
+    "name": "Butterfly",
+    "lat": 22.37591,
+    "lon": 113.96251
+  },
+  {
+    "id": 12687144,
+    "name": "Prince Edward",
+    "lat": 22.3236,
+    "lon": 114.17938
+  },
+  {
+    "id": 7778986,
+    "name": "Fortress Hill",
+    "lat": 22.28858,
+    "lon": 114.19417
+  },
+  {
+    "id": 1819361,
+    "name": "Mid Levels",
+    "lat": 22.28399,
+    "lon": 114.14958
+  },
+  {
+    "id": 12746524,
+    "name": "Tung Tau Estate",
+    "lat": 22.33212,
+    "lon": 114.19277
+  },
+  {
+    "id": 12640679,
+    "name": "City One",
+    "lat": 22.38679,
+    "lon": 114.20275
+  },
+  {
+    "id": 12719544,
+    "name": "City Garden",
+    "lat": 22.28997,
+    "lon": 114.19259
+  },
+  {
+    "id": 12719635,
+    "name": "Yiu Tung Estate",
+    "lat": 22.27849,
+    "lon": 114.22299
+  },
+  {
+    "id": 1819952,
+    "name": "Cheung Sha Wan",
+    "lat": 22.33447,
+    "lon": 114.1558
+  },
+  {
+    "id": 12719442,
+    "name": "Yu Chui",
+    "lat": 22.38059,
+    "lon": 114.2053
+  },
+  {
+    "id": 1818880,
+    "name": "Shek Pai Wan Estate",
+    "lat": 22.2493,
+    "lon": 114.15812
+  },
+  {
+    "id": 1819932,
+    "name": "Choi Hung",
+    "lat": 22.33548,
+    "lon": 114.20638
+  },
+  {
+    "id": 1819983,
+    "name": "Che Ha",
+    "lat": 22.43021,
+    "lon": 114.26264
+  },
+  {
+    "id": 1819031,
+    "name": "Sai Wan",
+    "lat": 22.28124,
+    "lon": 114.12554
+  },
+  {
+    "id": 1818771,
+    "name": "So Kwun Wat",
+    "lat": 22.37594,
+    "lon": 114.00682
+  },
+  {
+    "id": 1819706,
+    "name": "Jardine's Lookout",
+    "lat": 22.26857,
+    "lon": 114.19252
+  },
+  {
+    "id": 1819374,
+    "name": "Ma Wan",
+    "lat": 22.3523,
+    "lon": 114.06002
+  },
+  {
+    "id": 1819395,
+    "name": "Ma Tau Kok",
+    "lat": 22.3215,
+    "lon": 114.1905
+  },
+  {
+    "id": 12719629,
+    "name": "Hing Wah Estate (I & II)",
+    "lat": 22.26309,
+    "lon": 114.23506
+  },
+  {
+    "id": 1819652,
+    "name": "Kau Wa Keng",
+    "lat": 22.3459,
+    "lon": 114.13684
+  },
+  {
+    "id": 12719429,
+    "name": "Lok Fu",
+    "lat": 22.33727,
+    "lon": 114.18725
+  },
+  {
+    "id": 12689050,
+    "name": "Luk Yeung",
+    "lat": 22.37371,
+    "lon": 114.11917
+  },
+  {
+    "id": 12746518,
+    "name": "Chuk Yuen South Estate",
+    "lat": 22.34457,
+    "lon": 114.19282
+  },
+  {
+    "id": 1818264,
+    "name": "Yau Yat Chuen",
+    "lat": 22.33101,
+    "lon": 114.17413
+  },
+  {
+    "id": 1818413,
+    "name": "Tung Tau Tsuen",
+    "lat": 22.45291,
+    "lon": 114.02873
+  },
+  {
+    "id": 1819718,
+    "name": "Hung Hom",
+    "lat": 22.30715,
+    "lon": 114.18532
+  },
+  {
+    "id": 6691573,
+    "name": "Tai Yuen Estate",
+    "lat": 22.45574,
+    "lon": 114.16971
+  },
+  {
+    "id": 1819026,
+    "name": "Sai Ying Pun",
+    "lat": 22.28998,
+    "lon": 114.14223
+  },
+  {
+    "id": 12719546,
+    "name": "Tin Hau",
+    "lat": 22.28093,
+    "lon": 114.1924
+  },
+  {
+    "id": 12719545,
+    "name": "Victoria Park",
+    "lat": 22.28464,
+    "lon": 114.19051
+  },
+  {
+    "id": 12689053,
+    "name": "Fuk Loi",
+    "lat": 22.37405,
+    "lon": 114.11352
+  },
+  {
+    "id": 1818911,
+    "name": "Shau Kei Wan",
+    "lat": 22.27771,
+    "lon": 114.22864
+  },
+  {
+    "id": 12719541,
+    "name": "Wah Kwai",
+    "lat": 22.25097,
+    "lon": 114.14005
+  },
+  {
+    "id": 1819783,
+    "name": "Happy Valley",
+    "lat": 22.26912,
+    "lon": 114.18619
+  },
+  {
+    "id": 8504415,
+    "name": "Kowloon Bay",
+    "lat": 22.32662,
+    "lon": 114.20777
+  },
+  {
+    "id": 12719543,
+    "name": "Kornhill",
+    "lat": 22.28213,
+    "lon": 114.21566
+  },
+  {
+    "id": 12689066,
+    "name": "Wu King",
+    "lat": 22.37607,
+    "lon": 113.96537
+  },
+  {
+    "id": 1818428,
+    "name": "Causeway Bay",
+    "lat": 22.28189,
+    "lon": 114.18515
+  },
+  {
+    "id": 1818616,
+    "name": "Tai Wo",
+    "lat": 22.45151,
+    "lon": 114.16115
+  },
+  {
+    "id": 12719830,
+    "name": "Laguna Verde (Estate)",
+    "lat": 22.30767,
+    "lon": 114.19288
+  },
+  {
+    "id": 12689068,
+    "name": "Yuet Wu",
+    "lat": 22.37529,
+    "lon": 113.96814
+  },
+  {
+    "id": 12719437,
+    "name": "Mount Parker",
+    "lat": 22.26638,
+    "lon": 114.21833
+  },
+  {
+    "id": 12719822,
+    "name": "Ho Man Tin Estate",
+    "lat": 22.3149,
+    "lon": 114.18252
+  },
+  {
+    "id": 12689067,
+    "name": "Siu Hei",
+    "lat": 22.37359,
+    "lon": 113.9671
+  },
+  {
+    "id": 1818868,
+    "name": "Shek Wai Kok",
+    "lat": 22.37546,
+    "lon": 114.12411
+  },
+  {
+    "id": 12746538,
+    "name": "Upper Wong Tai Sin Estate",
+    "lat": 22.3433,
+    "lon": 114.19193
+  },
+  {
+    "id": 12746545,
+    "name": "Fung Tak Estate",
+    "lat": 22.34432,
+    "lon": 114.20087
+  },
+  {
+    "id": 1819142,
+    "name": "Pak Shek Kok",
+    "lat": 22.42734,
+    "lon": 114.20366
+  },
+  {
+    "id": 12719431,
+    "name": "Ap Lei Chau Estate",
+    "lat": 22.24473,
+    "lon": 114.15052
+  },
+  {
+    "id": 12719838,
+    "name": "Kai Ching Estate",
+    "lat": 22.33289,
+    "lon": 114.20304
+  },
+  {
+    "id": 12640694,
+    "name": "Hung Shui Kiu",
+    "lat": 22.43163,
+    "lon": 113.98815
+  },
+  {
+    "id": 12719441,
+    "name": "Kwong Yuen",
+    "lat": 22.38005,
+    "lon": 114.21361
+  },
+  {
+    "id": 1818692,
+    "name": "Tai Mong Tsai",
+    "lat": 22.40034,
+    "lon": 114.30249
+  },
+  {
+    "id": 1818734,
+    "name": "Tai Hang",
+    "lat": 22.27851,
+    "lon": 114.1922
+  },
+  {
+    "id": 12719809,
+    "name": "Charming Garden",
+    "lat": 22.31382,
+    "lon": 114.1647
+  },
+  {
+    "id": 12719557,
+    "name": "Lei Cheng Uk Estate",
+    "lat": 22.33937,
+    "lon": 114.15921
+  },
+  {
+    "id": 1819064,
+    "name": "Quarry Bay",
+    "lat": 22.28768,
+    "lon": 114.2135
+  },
+  {
+    "id": 8223932,
+    "name": "Central",
+    "lat": 22.28299,
+    "lon": 114.15846
+  },
+  {
+    "id": 12719579,
+    "name": "Lai Tsui Court",
+    "lat": 22.33376,
+    "lon": 114.15506
+  },
+  {
+    "id": 12746544,
+    "name": "Tsui Chuk Garden",
+    "lat": 22.34639,
+    "lon": 114.18766
+  },
+  {
+    "id": 12746546,
+    "name": "Lok Fu Estate",
+    "lat": 22.33719,
+    "lon": 114.18672
+  },
+  {
+    "id": 12719795,
+    "name": "Chi Fu Fa Yuen",
+    "lat": 22.25582,
+    "lon": 114.13928
+  },
+  {
+    "id": 12719808,
+    "name": "Hoi Fu Court",
+    "lat": 22.31631,
+    "lon": 114.16466
+  },
+  {
+    "id": 12719630,
+    "name": "Wan Tsui Estate",
+    "lat": 22.26123,
+    "lon": 114.2374
+  },
+  {
+    "id": 12719548,
+    "name": "Jat Min Chuen",
+    "lat": 22.37609,
+    "lon": 114.1914
+  },
+  {
+    "id": 12719793,
+    "name": "Wah Kwai Estate",
+    "lat": 22.25044,
+    "lon": 114.13964
+  },
+  {
+    "id": 12719614,
+    "name": "Fullview Garden",
+    "lat": 22.26251,
+    "lon": 114.25191
+  },
+  {
+    "id": 12719616,
+    "name": "Oi Tung Estate",
+    "lat": 22.28173,
+    "lon": 114.22786
+  },
+  {
+    "id": 12719632,
+    "name": "Island Resort",
+    "lat": 22.26665,
+    "lon": 114.2508
+  },
+  {
+    "id": 12746526,
+    "name": "Rhythm Garden",
+    "lat": 22.33617,
+    "lon": 114.20272
+  },
+  {
+    "id": 12719788,
+    "name": "Residence Bel-air",
+    "lat": 22.25466,
+    "lon": 114.13289
+  },
+  {
+    "id": 12719849,
+    "name": "Lok Man Sun Chuen",
+    "lat": 22.3163,
+    "lon": 114.18616
+  },
+  {
+    "id": 12719617,
+    "name": "Aldrich Garden",
+    "lat": 22.28082,
+    "lon": 114.22857
+  },
+  {
+    "id": 12719785,
+    "name": "Tin Wan Estate",
+    "lat": 22.25073,
+    "lon": 114.1487
+  },
+  {
+    "id": 12719790,
+    "name": "Aberdeen Centre",
+    "lat": 22.24842,
+    "lon": 114.15406
+  },
+  {
+    "id": 12719623,
+    "name": "Yue Wan Estate",
+    "lat": 22.26592,
+    "lon": 114.24129
+  },
+  {
+    "id": 12719810,
+    "name": "Metro Harbour",
+    "lat": 22.32447,
+    "lon": 114.16028
+  },
+  {
+    "id": 1819112,
+    "name": "Peng Chau",
+    "lat": 22.28333,
+    "lon": 114.03333
+  },
+  {
+    "id": 12719584,
+    "name": "The Belcher's",
+    "lat": 22.28481,
+    "lon": 114.13329
+  },
+  {
+    "id": 12719551,
+    "name": "Tai Hang Estate (East & West)",
+    "lat": 22.33209,
+    "lon": 114.17068
+  },
+  {
+    "id": 12719571,
+    "name": "Hoi Lok Court",
+    "lat": 22.32781,
+    "lon": 114.14913
+  },
+  {
+    "id": 12746543,
+    "name": "Tsz Hong Estate",
+    "lat": 22.34747,
+    "lon": 114.20274
+  },
+  {
+    "id": 12719603,
+    "name": "Nam Fung Sun Chuen",
+    "lat": 22.28247,
+    "lon": 114.21475
+  },
+  {
+    "id": 12719836,
+    "name": "Chong Chien Court - Wyler Gardens",
+    "lat": 22.31811,
+    "lon": 114.19205
+  },
+  {
+    "id": 12719825,
+    "name": "Hung Hom Estate",
+    "lat": 22.308,
+    "lon": 114.18929
+  },
+  {
+    "id": 12719831,
+    "name": "Harbour Place",
+    "lat": 22.30323,
+    "lon": 114.18619
+  },
+  {
+    "id": 12719613,
+    "name": "Harmony Garden",
+    "lat": 22.26573,
+    "lon": 114.2487
+  },
+  {
+    "id": 12719844,
+    "name": "Whampoa Estate",
+    "lat": 22.30624,
+    "lon": 114.18819
+  },
+  {
+    "id": 12719828,
+    "name": "Ka Wai Chuen",
+    "lat": 22.30791,
+    "lon": 114.18648
+  },
+  {
+    "id": 12746519,
+    "name": "Grand View Garden",
+    "lat": 22.34132,
+    "lon": 114.20779
+  },
+  {
+    "id": 12746548,
+    "name": "Lung Poon Court",
+    "lat": 22.34239,
+    "lon": 114.19987
+  },
+  {
+    "id": 12719561,
+    "name": "Banyan Garden",
+    "lat": 22.3346,
+    "lon": 114.14797
+  },
+  {
+    "id": 12719634,
+    "name": "Lei King Wan",
+    "lat": 22.28389,
+    "lon": 114.22328
+  },
+  {
+    "id": 12719624,
+    "name": "Tsui Wan Estate",
+    "lat": 22.2682,
+    "lon": 114.24028
+  },
+  {
+    "id": 12719599,
+    "name": "Tung Hei Court",
+    "lat": 22.28031,
+    "lon": 114.21886
+  },
+  {
+    "id": 12719813,
+    "name": "Island Harbourview",
+    "lat": 22.31842,
+    "lon": 114.15745
+  },
+  {
+    "id": 12719586,
+    "name": "Lai Tak Tsuen",
+    "lat": 22.27789,
+    "lon": 114.1947
+  },
+  {
+    "id": 12719564,
+    "name": "Nam Shan Estate",
+    "lat": 22.33477,
+    "lon": 114.17182
+  },
+  {
+    "id": 12719580,
+    "name": "Lai Kok Estate",
+    "lat": 22.33227,
+    "lon": 114.15691
+  },
+  {
+    "id": 12719585,
+    "name": "Kwun Lung Lau",
+    "lat": 22.28044,
+    "lon": 114.12758
+  },
+  {
+    "id": 12719628,
+    "name": "Hing Tung Estate",
+    "lat": 22.28151,
+    "lon": 114.21943
+  },
+  {
+    "id": 12719610,
+    "name": "Greenwood Terrace",
+    "lat": 22.26718,
+    "lon": 114.23492
+  },
+  {
+    "id": 12746516,
+    "name": "Tin Ma Court",
+    "lat": 22.34321,
+    "lon": 114.18691
+  },
+  {
+    "id": 12719560,
+    "name": "Liberte",
+    "lat": 22.33465,
+    "lon": 114.14886
+  },
+  {
+    "id": 1818789,
+    "name": "Siu Chik Sha",
+    "lat": 22.30086,
+    "lon": 114.27471
+  },
+  {
+    "id": 1818211,
+    "name": "Yung Shue Wan",
+    "lat": 22.22623,
+    "lon": 114.11241
+  },
+  {
+    "id": 12719627,
+    "name": "Hing Man Estate",
+    "lat": 22.26682,
+    "lon": 114.2327
+  },
+  {
+    "id": 12746528,
+    "name": "Galaxia",
+    "lat": 22.34121,
+    "lon": 114.20218
+  },
+  {
+    "id": 12746542,
+    "name": "Tsz Man Estate",
+    "lat": 22.34816,
+    "lon": 114.20287
+  },
+  {
+    "id": 12719814,
+    "name": "Sorrento",
+    "lat": 22.30641,
+    "lon": 114.16226
+  },
+  {
+    "id": 12746540,
+    "name": "Kingsford Terrace",
+    "lat": 22.34031,
+    "lon": 114.21125
+  },
+  {
+    "id": 12719846,
+    "name": "Sky Tower",
+    "lat": 22.3235,
+    "lon": 114.18982
+  },
+  {
+    "id": 12719609,
+    "name": "Kornhill Garden",
+    "lat": 22.2853,
+    "lon": 114.21601
+  },
+  {
+    "id": 12719556,
+    "name": "The Pacifica",
+    "lat": 22.33448,
+    "lon": 114.14988
+  },
+  {
+    "id": 12746536,
+    "name": "Fu Shan Estate",
+    "lat": 22.34278,
+    "lon": 114.20865
+  },
+  {
+    "id": 1819333,
+    "name": "Mui Wo Kau Tsuen",
+    "lat": 22.26886,
+    "lon": 113.98609
+  },
+  {
+    "id": 12719612,
+    "name": "Cheerful Garden",
+    "lat": 22.263,
+    "lon": 114.25063
+  },
+  {
+    "id": 12719800,
+    "name": "Baguio Villa",
+    "lat": 22.26234,
+    "lon": 114.13364
+  },
+  {
+    "id": 12719596,
+    "name": "Ming Wah Dai Ha",
+    "lat": 22.27778,
+    "lon": 114.23108
+  },
+  {
+    "id": 12746523,
+    "name": "Tung Wui Estate",
+    "lat": 22.33228,
+    "lon": 114.19393
+  },
+  {
+    "id": 12719608,
+    "name": "Healthy Village",
+    "lat": 22.29117,
+    "lon": 114.20624
+  },
+  {
+    "id": 12719574,
+    "name": "Cullinan West",
+    "lat": 22.32702,
+    "lon": 114.15409
+  },
+  {
+    "id": 12719798,
+    "name": "Yue On Court",
+    "lat": 22.24304,
+    "lon": 114.15746
+  },
+  {
+    "id": 1818770,
+    "name": "So Kwun Wat Tsuen",
+    "lat": 22.3849,
+    "lon": 114.00448
+  },
+  {
+    "id": 1818775,
+    "name": "Sok Kwu Wan",
+    "lat": 22.20453,
+    "lon": 114.13159
+  },
+  {
+    "id": 12719598,
+    "name": "Tung Yuk Court",
+    "lat": 22.2824,
+    "lon": 114.22681
+  },
+  {
+    "id": 12719550,
+    "name": "Cosmopolitan Estate",
+    "lat": 22.32161,
+    "lon": 114.16162
+  },
+  {
+    "id": 12719549,
+    "name": "Parc Oasis",
+    "lat": 22.33332,
+    "lon": 114.17488
+  },
+  {
+    "id": 1819326,
+    "name": "Nai Chung",
+    "lat": 22.43116,
+    "lon": 114.25753
+  },
+  {
+    "id": 1819230,
+    "name": "Ngong Ping",
+    "lat": 22.25556,
+    "lon": 113.90391
+  },
+  {
+    "id": 1819072,
+    "name": "Pui O",
+    "lat": 22.24597,
+    "lon": 113.97817
+  },
+  {
+    "id": 1818923,
+    "name": "Sha Tau Kok",
+    "lat": 22.54569,
+    "lon": 114.22379
+  },
+  {
+    "id": 12719835,
+    "name": "Ma Tau Wai Estate",
+    "lat": 22.32376,
+    "lon": 114.18678
+  },
+  {
+    "id": 12719824,
+    "name": "Chun Man Court",
+    "lat": 22.31543,
+    "lon": 114.17927
+  },
+  {
+    "id": 12719595,
+    "name": "Provident Centre",
+    "lat": 22.29214,
+    "lon": 114.19566
+  },
+  {
+    "id": 12719622,
+    "name": "Grand Promenade",
+    "lat": 22.28499,
+    "lon": 114.225
+  },
+  {
+    "id": 12719565,
+    "name": "Nam Cheong Estate",
+    "lat": 22.32593,
+    "lon": 114.15744
+  },
+  {
+    "id": 12719805,
+    "name": "Park Avenue",
+    "lat": 22.3163,
+    "lon": 114.16295
+  },
+  {
+    "id": 12719558,
+    "name": "Fortune Estate",
+    "lat": 22.33556,
+    "lon": 114.15373
+  },
+  {
+    "id": 12719590,
+    "name": "Tai On Lau",
+    "lat": 22.28274,
+    "lon": 114.2221
+  },
+  {
+    "id": 12719806,
+    "name": "The Long Beach",
+    "lat": 22.31925,
+    "lon": 114.15582
+  },
+  {
+    "id": 12719621,
+    "name": "New Jade Garden",
+    "lat": 22.26376,
+    "lon": 114.23685
+  },
+  {
+    "id": 12719626,
+    "name": "Lok Hin Terrace",
+    "lat": 22.26424,
+    "lon": 114.2412
+  },
+  {
+    "id": 12746530,
+    "name": "Mei Tung Estate",
+    "lat": 22.33314,
+    "lon": 114.18986
+  },
+  {
+    "id": 12719842,
+    "name": "Grand Waterfront",
+    "lat": 22.31921,
+    "lon": 114.19375
+  },
+  {
+    "id": 12719819,
+    "name": "Royal Peninsula",
+    "lat": 22.30469,
+    "lon": 114.18452
+  },
+  {
+    "id": 12719576,
+    "name": "Aqua Marine",
+    "lat": 22.33258,
+    "lon": 114.14867
+  },
+  {
+    "id": 12719815,
+    "name": "Prosperous Garden",
+    "lat": 22.31009,
+    "lon": 114.16829
+  },
+  {
+    "id": 12719794,
+    "name": "Broadview Court",
+    "lat": 22.24269,
+    "lon": 114.16566
+  },
+  {
+    "id": 12719811,
+    "name": "The Waterfront",
+    "lat": 22.30463,
+    "lon": 114.16303
+  },
+  {
+    "id": 12746549,
+    "name": "King Shan Court",
+    "lat": 22.34195,
+    "lon": 114.21019
+  },
+  {
+    "id": 12719591,
+    "name": "Bedford Garden",
+    "lat": 22.28962,
+    "lon": 114.20454
+  },
+  {
+    "id": 12746534,
+    "name": "Kai Tak Garden",
+    "lat": 22.3378,
+    "lon": 114.19461
+  },
+  {
+    "id": 12746533,
+    "name": "Choi Fai Estate",
+    "lat": 22.33539,
+    "lon": 114.21811
+  },
+  {
+    "id": 12719577,
+    "name": "Chak On Estate",
+    "lat": 22.34029,
+    "lon": 114.16454
+  },
+  {
+    "id": 12719796,
+    "name": "Ka Lung Court",
+    "lat": 22.24948,
+    "lon": 114.13869
+  },
+  {
+    "id": 12719804,
+    "name": "The Central Park",
+    "lat": 22.31715,
+    "lon": 114.16182
+  },
+  {
+    "id": 12719615,
+    "name": "Fortress Garden",
+    "lat": 22.28744,
+    "lon": 114.19411
+  },
+  {
+    "id": 12719575,
+    "name": "Wing Cheong Estate",
+    "lat": 22.32928,
+    "lon": 114.15548
+  },
+  {
+    "id": 12719606,
+    "name": "Chai Wan Estate",
+    "lat": 22.26428,
+    "lon": 114.2423
+  },
+  {
+    "id": 12746537,
+    "name": "Fu Keung Court",
+    "lat": 22.34034,
+    "lon": 114.18453
+  },
+  {
+    "id": 12719578,
+    "name": "Lai On Estate",
+    "lat": 22.33135,
+    "lon": 114.15857
+  },
+  {
+    "id": 12719601,
+    "name": "Tung Tao Court",
+    "lat": 22.28181,
+    "lon": 114.22549
+  },
+  {
+    "id": 12719567,
+    "name": "Hoi Ying Estate",
+    "lat": 22.32853,
+    "lon": 114.14825
+  },
+  {
+    "id": 12719827,
+    "name": "Mei King Mansion",
+    "lat": 22.31606,
+    "lon": 114.19047
+  },
+  {
+    "id": 12719568,
+    "name": "Hoi Tat Estate",
+    "lat": 22.33017,
+    "lon": 114.14946
+  },
+  {
+    "id": 12719594,
+    "name": "Kai Tsui Court",
+    "lat": 22.26158,
+    "lon": 114.25105
+  },
+  {
+    "id": 12719803,
+    "name": "Harbour Green",
+    "lat": 22.32127,
+    "lon": 114.15931
+  },
+  {
+    "id": 12719604,
+    "name": "Fung Wah Estate",
+    "lat": 22.26079,
+    "lon": 114.23137
+  },
+  {
+    "id": 1818684,
+    "name": "Tai O",
+    "lat": 22.25515,
+    "lon": 113.86309
+  },
+  {
+    "id": 12719818,
+    "name": "Celestial Heights",
+    "lat": 22.31922,
+    "lon": 114.18556
+  },
+  {
+    "id": 12746550,
+    "name": "The Latitude",
+    "lat": 22.33339,
+    "lon": 114.19664
+  },
+  {
+    "id": 12719602,
+    "name": "Tung Chun Court",
+    "lat": 22.27772,
+    "lon": 114.22206
+  },
+  {
+    "id": 12719563,
+    "name": "Cheung Sha Wan Estate",
+    "lat": 22.33453,
+    "lon": 114.15623
+  },
+  {
+    "id": 12719841,
+    "name": "Mantin Heights",
+    "lat": 22.31926,
+    "lon": 114.18187
+  },
+  {
+    "id": 12719570,
+    "name": "Manhattan Hill",
+    "lat": 22.33458,
+    "lon": 114.14231
+  },
+  {
+    "id": 12746522,
+    "name": "Sha Tin Pass Estate",
+    "lat": 22.34981,
+    "lon": 114.19515
+  },
+  {
+    "id": 12719631,
+    "name": "Braemar Hill Mansions",
+    "lat": 22.28543,
+    "lon": 114.20114
+  },
+  {
+    "id": 12719799,
+    "name": "Yue Fai Court",
+    "lat": 22.2498,
+    "lon": 114.15678
+  },
+  {
+    "id": 12719802,
+    "name": "Pokfulam Gardens",
+    "lat": 22.25776,
+    "lon": 114.13751
+  },
+  {
+    "id": 12719619,
+    "name": "Metropole Building",
+    "lat": 22.29056,
+    "lon": 114.19942
+  },
+  {
+    "id": 12719789,
+    "name": "South Wave Court",
+    "lat": 22.24463,
+    "lon": 114.16623
+  },
+  {
+    "id": 12719820,
+    "name": "On Wo Yuen",
+    "lat": 22.31653,
+    "lon": 114.19132
+  },
+  {
+    "id": 12719839,
+    "name": "One Kai Tak",
+    "lat": 22.32971,
+    "lon": 114.20049
+  },
+  {
+    "id": 1818236,
+    "name": "Yue Kwong Chuen",
+    "lat": 22.25158,
+    "lon": 114.15764
+  },
+  {
+    "id": 12719583,
+    "name": "Queen's Terrace",
+    "lat": 22.28702,
+    "lon": 114.14723
+  },
+  {
+    "id": 12719607,
+    "name": "Healthy Gardens",
+    "lat": 22.29153,
+    "lon": 114.20387
+  },
+  {
+    "id": 12719582,
+    "name": "The Merton",
+    "lat": 22.28333,
+    "lon": 114.12633
+  },
+  {
+    "id": 1819535,
+    "name": "Lau Fau Shan",
+    "lat": 22.28328,
+    "lon": 113.93416
+  },
+  {
+    "id": 1818573,
+    "name": "Ting Kok",
+    "lat": 22.47285,
+    "lon": 114.21995
+  },
+  {
+    "id": 1818818,
+    "name": "Shouson Hill",
+    "lat": 22.24843,
+    "lon": 114.17993
+  }
+]
