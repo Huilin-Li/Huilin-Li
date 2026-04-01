@@ -2,7 +2,7 @@
 <html lang="en">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Say Hello to 🌏</title>
+<title>Say Hello from 🌍</title>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
@@ -509,7 +509,12 @@
 
     <!-- About (brief, top) -->
     <div class="panel">
-      <h2>Say Hello To 🌏</h2>
+      <h2>Say Hello from 🌍</h2>
+      <div class="project-text">
+        Join a global wave of hellos 👋 — every submission updates this interactive map in real time via GitHub Actions.
+        <br><br>
+        Learn more at <a href="https://github.com/buralog" target="_blank" rel="noopener">github.com/buralog</a>.
+      </div>
     </div>
 
 
@@ -525,7 +530,7 @@
         </div>
         <div class="kpi">
           <div class="num" id="kpi-countries">0</div>
-          <div class="label">Countries list</div>
+          <div class="label">Countries lit</div>
         </div>
       </div>
       <div class="small"><span id="last-updated">Loading…</span></div>
@@ -841,7 +846,7 @@
     }
 
     function loadCounts(cb) {
-      var url = 'https://raw.githubusercontent.com/Huilin-Li/Huilin-Li/refs/heads/main/data/visitors.json?ts=' + Date.now();
+      var url = 'https://raw.githubusercontent.com/buralog/buralog/refs/heads/main/data/visitors.json?ts=' + Date.now();
       fetch(url, { cache: 'no-store' })
         .then(function (res) { return res.ok ? res.json() : null; })
         .then(function (json) {
@@ -917,14 +922,14 @@
     sayBtn.addEventListener('click', function () {
       if (!selected) return;
       function getFlagEmoji(iso2) {
-        if (!iso2 || iso2.length !== 2) return '🌏';
+        if (!iso2 || iso2.length !== 2) return '🌍';
         var code = iso2.toUpperCase();
         return String.fromCodePoint(
           ...[...code].map(function (c) { return 127397 + c.charCodeAt(); })
         );
       }
       var flag = getFlagEmoji(selected.iso2);
-      var url = new URL('https://github.com/Huilin-Li/Huilin-Li/issues/new');
+      var url = new URL('https://github.com/buralog/buralog/issues/new');
       url.searchParams.set('title', 'hello|' + selected.iso2);
       var body = 'Hello 👋 from ' + flag + ' ' + selected.name;
       url.searchParams.set('body', body);
