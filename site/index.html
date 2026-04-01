@@ -880,7 +880,7 @@
         cityLayer = null;
       }
 
-      var path = './data/cities/' + iso2 + '.json';
+      var path = '../data/cities/' + iso2 + '.json';
 
       fetch(path)
         .then(res => res.ok ? res.json() : [])
