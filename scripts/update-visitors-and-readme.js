@@ -111,11 +111,11 @@ function main() {
     }
 
     // Current user record (non-destructive merge)
-    const userRec = data.users[ACTOR] || { current: { iso: null, city: null, helloAt: null }, changesUsed: 0 };
+    const userRec = data.users[ACTOR] || { visited: [], changesUsed: 0 };
 
     // Optional city parse from body ("City: X")
     const cityMatch = BODY.match(/^\s*City:\s*(.+)\s*$/mi);
-    const city = place; //cityMatch ? cityMatch[1].trim() : (userRec.current?.city ?? null);
+    const cityName = place; //cityMatch ? cityMatch[1].trim() : (userRec.current?.city ?? null);
 
     // ---------- Limits & early exits
     if ((userRec.changesUsed || 0) >= (data.maxChangesPerUser || 30000)) {
@@ -134,24 +134,47 @@ function main() {
 
     // ---------- Perform state change
     // Remove from previous country (if any)
-    const prevIso = userRec.current?.iso || null;
-    if (prevIso && data.countries[prevIso]?.users) {
-        delete data.countries[prevIso].users[ACTOR];
+    // const prevIso = userRec.current?.iso || null;
+    // if (prevIso && data.countries[prevIso]?.users) {
+    //     delete data.countries[prevIso].users[ACTOR];
+    // }
+    // Ensure country container
+    if (!data.countries[ISO]) {
+        data.countries[ISO] = { users: {}, firstUser: null, lastAt: null };
+    }
+    // Check if user already visited this country
+    const alreadyVisited = userRec.visited?.some(v => v.iso === ISO);
+
+    if (!alreadyVisited) {
+        if (!userRec.visited) userRec.visited = [];
+        userRec.visited.push({
+            iso: ISO,
+            city: cityName || null,
+            visitedAt: ISSUE_TIME
+        });
     }
 
-    // Add to new country: store timestamp (overwrite boolean if previously set)
+    // Update countries summary
     data.countries[ISO].users[ACTOR] = ISSUE_TIME;
-
-    // Set firstUser once
     if (!data.countries[ISO].firstUser) data.countries[ISO].firstUser = ACTOR;
-
-    // Update lastAt for that country
     data.countries[ISO].lastAt = ISSUE_TIME;
 
-    // Update user record with helloAt + city + iso
-    userRec.current = { iso: ISO, city, helloAt: ISSUE_TIME };
-    userRec.changesUsed = (userRec.changesUsed || 0) + 1;
+    // Store back
     data.users[ACTOR] = userRec;
+
+    // // Add to new country: store timestamp (overwrite boolean if previously set)
+    // data.countries[ISO].users[ACTOR] = ISSUE_TIME;
+
+    // // Set firstUser once
+    // if (!data.countries[ISO].firstUser) data.countries[ISO].firstUser = ACTOR;
+
+    // // Update lastAt for that country
+    // data.countries[ISO].lastAt = ISSUE_TIME;
+
+    // // Update user record with helloAt + city + iso
+    // userRec.current = { iso: ISO, city, helloAt: ISSUE_TIME };
+    // userRec.changesUsed = (userRec.changesUsed || 0) + 1;
+    // data.users[ACTOR] = userRec;
 
     // Global updatedAt
     data.updatedAt = nowISO();
