@@ -83,7 +83,7 @@ function main() {
     //const ISO = (TITLE.split('|')[1] || '').split('-')[0].trim().toUpperCase();
     const parts = TITLE.split('|');
     const ISO = (parts[1] || '').trim().toUpperCase();
-    const place = parts[2] ? parts[2].trim() : null; // visiting place
+    const city = parts[2] ? parts[2].trim() : null; // visiting place
 
     if (!ACTOR) {
         console.log('Missing ACTOR env; no-op.');
@@ -126,9 +126,9 @@ function main() {
     }
 
     if ((userRec.current?.iso || null) === ISO) {
-        console.log(`Same country as current (${ISO}). No-op.`);
-        fs.writeFileSync('/tmp/changed.flag', '');
-        writeReadmeOnly(data);
+        // console.log(`Same country as current (${ISO}). No-op.`);
+        // fs.writeFileSync('/tmp/changed.flag', '');
+        // writeReadmeOnly(data);
         return;
     }
 
@@ -143,13 +143,28 @@ function main() {
         data.countries[ISO] = { users: {}, firstUser: null, lastAt: null };
     }
     // Check if user already visited this country
-    const alreadyVisited = userRec.visited?.some(v => v.iso === ISO);
+    // const alreadyVisited = userRec.visited?.some(v => v.iso === ISO);
 
-    if (!alreadyVisited) {
-        if (!userRec.visited) userRec.visited = [];
+    // if (!alreadyVisited) {
+    //     if (!userRec.visited) userRec.visited = [];
+    //     userRec.visited.push({
+    //         iso: ISO,
+    //         city: cityName || null,
+    //         visitedAt: ISSUE_TIME
+    //     });
+    // }
+
+    if (!userRec.visited) userRec.visited = [];
+
+    // 判断：这个国家 + 这个城市 是否已经存在
+    const alreadyVisitedCity = userRec.visited.some(
+        v => v.iso === ISO && v.city === city
+    );
+
+    if (!alreadyVisitedCity) {
         userRec.visited.push({
             iso: ISO,
-            city: cityName || null,
+            city: city || null,
             visitedAt: ISSUE_TIME
         });
     }
@@ -172,7 +187,7 @@ function main() {
     // data.countries[ISO].lastAt = ISSUE_TIME;
 
     // // Update user record with helloAt + city + iso
-    // userRec.current = { iso: ISO, city, helloAt: ISSUE_TIME };
+    userRec.current = { iso: ISO, city: city, helloAt: ISSUE_TIME };
     // userRec.changesUsed = (userRec.changesUsed || 0) + 1;
     // data.users[ACTOR] = userRec;
 

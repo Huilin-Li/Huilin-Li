@@ -592,6 +592,7 @@
     var selected = null;
     var usersData = {};
     var cityLayer = null; // 用来显示城市标记
+    var selectedCity = null;
 
     // DOM
     var kpiTotal = document.getElementById('kpi-total');
@@ -902,6 +903,15 @@
               fillOpacity: 0.8
             }).bindTooltip(city.name, { permanent: false, direction: 'top' });
 
+            marker.on('click', function () {
+              selectedCity = city.name;
+
+              // 更新 UI
+              helloTitle.textContent = 'Say hello from ' + city.name + ', ' + selected.name;
+
+              sayBtn.disabled = false;
+            });
+
             cityLayer.addLayer(marker);
           });
 
@@ -974,8 +984,14 @@
       }
       var flag = getFlagEmoji(selected.iso2);
       var url = new URL('https://github.com/Huilin-Li/Huilin-Li/issues/new');
-      url.searchParams.set('title', 'hello|' + selected.iso2);
+      var title = 'hello|' + selected.iso2;
+      if (selectedCity) title += '|' + selectedCity;
+      //url.searchParams.set('title', 'hello|' + selected.iso2);
+      url.searchParams.set('title', title);
       var body = 'Hello 👋 from ' + flag + ' ' + selected.name;
+      if (selectedCity) {
+        body += ' - ' + selectedCity;
+      }
       url.searchParams.set('body', body);
       window.top.location.href = url.toString();
     });
