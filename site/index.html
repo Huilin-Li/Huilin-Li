@@ -591,7 +591,8 @@
     var isoToName = {};
     var selected = null;
     var usersData = {};
-    var cityLayer = null; // 用来显示城市标记
+    // var cityLayer = null; // 用来显示城市标记
+    var cityLayer = L.layerGroup().addTo(map); // 用来显示城市标记
     var selectedCity = null;
 
     // DOM
@@ -873,6 +874,29 @@
         });
     }
 
+    function addCityMarker(cityName, iso2, lat, lng) {
+      if (!cityName || !lat || !lng) return;
+
+      var marker = L.circleMarker([lat, lng], {
+        radius: 5,
+        fillColor: '#ff5722',
+        color: '#fff',
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+      }).bindTooltip(cityName + ', ' + (isoToName[iso2] || iso2), { permanent: false, direction: 'top' });
+
+      marker.on('click', function () {
+        selectedCity = cityName;
+        helloTitle.textContent = 'Say hello from ' + cityName + ', ' + (isoToName[iso2] || iso2);
+        sayBtn.disabled = false;
+      });
+
+      cityLayer.addLayer(marker);
+      marker.bringToFront();
+    }
+
+
     function loadCitiesForCountry(iso2) {
       if (!iso2) return;
 
@@ -993,6 +1017,26 @@
         body += ' - ' + selectedCity;
       }
       url.searchParams.set('body', body);
+
+      // 立即在地图上标记城市
+      if (selectedCity) {
+        // 先尝试从 usersData 找 city 坐标
+        var userVisit = Object.values(usersData).flatMap(u => u.visited || [])
+                            .find(v => v.city === selectedCity && v.iso === selected.iso2);
+        if (userVisit && userVisit.lat && userVisit.lng) {
+          addCityMarker(selectedCity, selected.iso2, userVisit.lat, userVisit.lng);
+        } else {
+          // 如果没有坐标，从国家城市列表 fetch
+          fetch('./cities/' + selected.iso2 + '.json')
+            .then(res => res.ok ? res.json() : [])
+            .then(cities => {
+              var cityData = cities.find(c => c.name === selectedCity);
+              if (cityData) addCityMarker(cityData.name, selected.iso2, cityData.lat, cityData.lng);
+            });
+        }
+      }
+
+
       window.top.location.href = url.toString();
     });
 
