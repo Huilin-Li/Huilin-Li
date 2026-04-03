@@ -900,11 +900,12 @@
     function loadCitiesForCountry(iso2) {
       if (!iso2) return;
 
-      // 移除之前的城市标记
-      if (cityLayer) {
-        map.removeLayer(cityLayer);
-        cityLayer = null;
-      }
+      // // 移除之前的城市标记
+      // if (cityLayer) {
+      //   map.removeLayer(cityLayer);
+      //   cityLayer = null;
+      // }
+      cityLayer.clearLayers();
 
       var path = './cities/' + iso2 + '.json';
 
@@ -913,7 +914,7 @@
         .then(cities => {
           if (!cities || !cities.length) return;
 
-          cityLayer = L.layerGroup();
+          // cityLayer = L.layerGroup();
 
           cities.forEach(city => {
             if (!city.lat || !city.lng) return;
