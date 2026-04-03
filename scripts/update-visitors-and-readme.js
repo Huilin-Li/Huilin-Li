@@ -115,7 +115,7 @@ function main() {
 
     // Optional city parse from body ("City: X")
     const cityMatch = BODY.match(/^\s*City:\s*(.+)\s*$/mi);
-    const cityName = place; //cityMatch ? cityMatch[1].trim() : (userRec.current?.city ?? null);
+    const cityName = city; //cityMatch ? cityMatch[1].trim() : (userRec.current?.city ?? null);
 
     // ---------- Limits & early exits
     if ((userRec.changesUsed || 0) >= (data.maxChangesPerUser || 30000)) {
