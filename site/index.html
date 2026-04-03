@@ -570,7 +570,7 @@
       worldCopyJump: false,
       maxBoundsViscosity: 1.0,
       minZoom: 2,
-      maxZoom: 8,
+      maxZoom: 12,
       maxBounds: [[-85, -180], [85, 180]],
       maxBoundsViscosity: 1.0
     }).setView([20, 0], 2);
@@ -943,7 +943,7 @@
           cityLayer.eachLayer(m => m.bringToFront());
 
           var bounds = cityLayer.getBounds();
-          if (bounds.isValid()) map.fitBounds(bounds, { padding: [30, 30] });
+          if (bounds.isValid()) map.fitBounds(bounds, { padding: [30, 30], maxZoom: 12 });
         })
         .catch(err => console.error('Failed to load cities:', err));
     }
