@@ -547,7 +547,7 @@
     <div class="panel panel-grow">
       <div class="tabs">
         <button class="tab-btn active" data-tab="countries">Countries</button>
-        <button class="tab-btn" data-tab="people">People</button>
+        <button class="tab-btn" data-tab="people">City</button>
       </div>
       <div id="tab-countries" class="tab-content active">
         <ul class="toplist" id="top-list"></ul>
@@ -811,7 +811,7 @@
     function updateHelloPanel() {
       if (!selected) {
         helloFlag.hidden = true;
-        helloTitle.textContent = 'Select a country on the map';
+        helloTitle.textContent = 'Select a city on the map';
         sayBtn.disabled = true;
         return;
       }
