@@ -972,25 +972,71 @@
       marker.bringToFront();
     }
 
-    function renderAllVisitedCities() {
+    // function renderAllVisitedCities() {
+    //   if (!usersData) return;
+
+    //   cityLayer.clearLayers(); // 清空之前的 marker
+
+    //   Object.values(usersData).forEach(user => {
+    //     if (!user.visited || !Array.isArray(user.visited)) return;
+
+    //     user.visited.forEach(v => {
+    //       if (!v.city || !v.lat || !v.lng || !v.iso) return;
+    //       addCityMarker(v.city, v.iso, v.lat, v.lng);
+    //     });
+    //   });
+
+    //   cityLayer.addTo(map);
+    //   cityLayer.eachLayer(m => m.bringToFront());
+    // }
+
+    async function renderAllVisitedCities() {
       if (!usersData) return;
 
-      cityLayer.clearLayers(); // 清空之前的 marker
+      cityLayer.clearLayers();
+
+      // 收集所有国家
+      const isoSet = new Set();
 
       Object.values(usersData).forEach(user => {
-        if (!user.visited || !Array.isArray(user.visited)) return;
+        if (!user.visited) return;
+        user.visited.forEach(v => {
+          if (v.iso) isoSet.add(v.iso);
+        });
+      });
+
+      // 缓存所有国家城市数据
+      const cityCache = {};
+
+      for (let iso of isoSet) {
+        try {
+          const res = await fetch('./cities/' + iso + '.json');
+          cityCache[iso] = res.ok ? await res.json() : [];
+        } catch {
+          cityCache[iso] = [];
+        }
+      }
+
+      // 开始匹配并画 marker
+      Object.values(usersData).forEach(user => {
+        if (!user.visited) return;
 
         user.visited.forEach(v => {
-          if (!v.city || !v.lat || !v.lng || !v.iso) return;
-          addCityMarker(v.city, v.iso, v.lat, v.lng);
+          if (!v.city || !v.iso) return;
+
+          const list = cityCache[v.iso] || [];
+
+          const match = list.find(c => c.name === v.city);
+
+          if (match) {
+            addCityMarker(match.name, v.iso, match.lat, match.lng);
+          }
         });
       });
 
       cityLayer.addTo(map);
       cityLayer.eachLayer(m => m.bringToFront());
     }
-
-
 
 
     function loadCitiesForCountry(iso2) {
