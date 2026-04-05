@@ -81,9 +81,14 @@ function main() {
 
     // Parse ISO from title like "hello|TR" or "hello|TR-something"
     //const ISO = (TITLE.split('|')[1] || '').split('-')[0].trim().toUpperCase();
+    // const parts = TITLE.split('|');
+    // const ISO = (parts[1] || '').trim().toUpperCase();
+    // const city = parts[2] ? parts[2].trim() : null; // visiting place
     const parts = TITLE.split('|');
     const ISO = (parts[1] || '').trim().toUpperCase();
-    const city = parts[2] ? parts[2].trim() : null; // visiting place
+
+    const cityRaw = parts[2] ? parts[2].trim() : null;
+    const city = cityRaw ? cityRaw.toLowerCase() : null; // 用于比较（统一小写）
 
     if (!ACTOR) {
         console.log('Missing ACTOR env; no-op.');
@@ -125,12 +130,13 @@ function main() {
         return;
     }
 
-    if ((userRec.current?.iso || null) === ISO) {
-        // console.log(`Same country as current (${ISO}). No-op.`);
-        // fs.writeFileSync('/tmp/changed.flag', '');
-        // writeReadmeOnly(data);
-        return;
-    }
+    // if ((userRec.current?.iso || null) === ISO) {
+    //     // console.log(`Same country as current (${ISO}). No-op.`);
+    //     // fs.writeFileSync('/tmp/changed.flag', '');
+    //     // writeReadmeOnly(data);
+    //     return;
+    // }
+    
 
     // ---------- Perform state change
     // Remove from previous country (if any)
@@ -158,13 +164,14 @@ function main() {
 
     // 判断：这个国家 + 这个城市 是否已经存在
     const alreadyVisitedCity = userRec.visited.some(
-        v => v.iso === ISO && v.city === city
+        // v => v.iso === ISO && v.city === city
+        v => v.iso === ISO && (v.city || '').toLowerCase() === (city || '')
     );
 
     if (!alreadyVisitedCity) {
         userRec.visited.push({
             iso: ISO,
-            city: city || null,
+            city: cityRaw || null,
             visitedAt: ISSUE_TIME
         });
     }
