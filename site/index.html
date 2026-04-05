@@ -972,6 +972,26 @@
       marker.bringToFront();
     }
 
+    function renderAllVisitedCities() {
+      if (!usersData) return;
+
+      cityLayer.clearLayers(); // 清空之前的 marker
+
+      Object.values(usersData).forEach(user => {
+        if (!user.visited || !Array.isArray(user.visited)) return;
+
+        user.visited.forEach(v => {
+          if (!v.city || !v.lat || !v.lng || !v.iso) return;
+          addCityMarker(v.city, v.iso, v.lat, v.lng);
+        });
+      });
+
+      cityLayer.addTo(map);
+      cityLayer.eachLayer(m => m.bringToFront());
+    }
+
+
+
 
     function loadCitiesForCountry(iso2) {
       if (!iso2) return;
@@ -1121,6 +1141,7 @@
     loadCounts(function () {
       loadWorld(function () {
         refreshAll();
+        renderAllVisitedCities(); 
       });
     });
   })();
