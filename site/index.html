@@ -723,41 +723,87 @@
       return isNaN(ms) ? 0 : ms;
     }
 
+    // function renderPeopleList() {
+    //   if (!usersData || Object.keys(usersData).length === 0) {
+    //     peopleList.innerHTML = '<li><span class="small">No hellos yet — be the first!</span></li>';
+    //     return;
+    //   }
+
+    //   var users = [];
+    //   for (var username in usersData) {
+    //     if (!usersData.hasOwnProperty(username)) continue;
+    //     var u = usersData[username];
+    //     var iso = u && u.current && u.current.iso;
+    //     if (!iso) continue;
+
+    //     // Prefer per-user timestamp; fallback to per-country map if needed
+    //     var helloAt = u && u.current && u.current.helloAt;
+    //     if (!helloAt) {
+    //       var c = (counts && iso) ? iso : null; 
+    //     }
+
+    //     users.push({ username, iso, t: toMillis(helloAt) });
+    //   }
+
+    //   // Oldest → newest (first submitter stays top)
+    //   users.sort(function (a, b) {
+    //     if (a.t !== b.t) return a.t - b.t;
+    //     return a.username.toLowerCase().localeCompare(b.username.toLowerCase());
+    //   });
+
+    //   peopleList.innerHTML = '';
+    //   users.forEach(function (user) {
+    //     var name = isoToName[user.iso] || user.iso;
+    //     var li = document.createElement('li');
+    //     li.innerHTML =
+    //       '<span class="flagchip">' + flagImgHTML(user.iso, name, 'flagchip-img') + '</span>' +
+    //       '<a class="username" href="https://github.com/' + user.username + '" target="_blank" rel="noopener">' + user.username + '</a>';
+    //     peopleList.appendChild(li);
+    //   });
+    // }
+
     function renderPeopleList() {
-      if (!usersData || Object.keys(usersData).length === 0) {
-        peopleList.innerHTML = '<li><span class="small">No hellos yet — be the first!</span></li>';
+      var visits = [];
+
+      for (var username in usersData) {
+        if (!usersData.hasOwnProperty(username)) continue;
+
+        var u = usersData[username];
+
+        if (u.visited && Array.isArray(u.visited)) {
+          u.visited.forEach(function (v) {
+            if (!v.iso || !v.city) return;
+
+            visits.push({
+              city: v.city,
+              iso: v.iso,
+              t: toMillis(v.helloAt),
+              user: username
+            });
+          });
+        }
+      }
+
+      // 按时间排序（旧 → 新）
+      visits.sort(function (a, b) {
+        return a.t - b.t;
+      });
+
+      if (visits.length === 0) {
+        peopleList.innerHTML = '<li><span class="small">No visits yet</span></li>';
         return;
       }
 
-      var users = [];
-      for (var username in usersData) {
-        if (!usersData.hasOwnProperty(username)) continue;
-        var u = usersData[username];
-        var iso = u && u.current && u.current.iso;
-        if (!iso) continue;
-
-        // Prefer per-user timestamp; fallback to per-country map if needed
-        var helloAt = u && u.current && u.current.helloAt;
-        if (!helloAt) {
-          var c = (counts && iso) ? iso : null; 
-        }
-
-        users.push({ username, iso, t: toMillis(helloAt) });
-      }
-
-      // Oldest → newest (first submitter stays top)
-      users.sort(function (a, b) {
-        if (a.t !== b.t) return a.t - b.t;
-        return a.username.toLowerCase().localeCompare(b.username.toLowerCase());
-      });
-
       peopleList.innerHTML = '';
-      users.forEach(function (user) {
-        var name = isoToName[user.iso] || user.iso;
+
+      visits.forEach(function (v) {
+        var name = isoToName[v.iso] || v.iso;
+
         var li = document.createElement('li');
         li.innerHTML =
-          '<span class="flagchip">' + flagImgHTML(user.iso, name, 'flagchip-img') + '</span>' +
-          '<a class="username" href="https://github.com/' + user.username + '" target="_blank" rel="noopener">' + user.username + '</a>';
+          '<span class="flagchip">' + flagImgHTML(v.iso, name) + '</span>' +
+          '<span class="username">' + v.city + ', ' + name + '</span>';
+
         peopleList.appendChild(li);
       });
     }
@@ -859,7 +905,17 @@
               if (!json.countries.hasOwnProperty(iso)) continue;
               var countryData = json.countries[iso];
               if (countryData && countryData.users) {
-                counts[iso] = Object.keys(countryData.users).length;
+                // counts[iso] = Object.keys(countryData.users).length;
+                counts[iso] = 0;
+                for (var username in countryData.users) {
+                  var user = countryData.users[username];
+
+                  if (user.visited && Array.isArray(user.visited)) {
+                    counts[iso] += user.visited.length;
+                  } else {
+                    counts[iso] += 1;
+                  }
+                }
               }
             }
             updatedAt = json.updatedAt || null;
