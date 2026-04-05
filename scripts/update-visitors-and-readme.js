@@ -194,7 +194,7 @@ function main() {
     // data.countries[ISO].lastAt = ISSUE_TIME;
 
     // // Update user record with helloAt + city + iso
-    userRec.current = { iso: ISO, city: city, helloAt: ISSUE_TIME };
+    userRec.current = { iso: ISO, city: cityRaw, helloAt: ISSUE_TIME };
     // userRec.changesUsed = (userRec.changesUsed || 0) + 1;
     // data.users[ACTOR] = userRec;
 
