@@ -899,27 +899,46 @@
       fetch(url, { cache: 'no-store' })
         .then(function (res) { return res.ok ? res.json() : null; })
         .then(function (json) {
-          if (json && json.countries) {
+          if (json && json.users) {
             counts = {};
-            for (var iso in json.countries) {
-              if (!json.countries.hasOwnProperty(iso)) continue;
-              var countryData = json.countries[iso];
-              if (countryData && countryData.users) {
-                // counts[iso] = Object.keys(countryData.users).length;
-                counts[iso] = 0;
-                for (var username in countryData.users) {
-                  var user = countryData.users[username];
+            // for (var iso in json.countries) {
+            //   if (!json.countries.hasOwnProperty(iso)) continue;
+            //   var countryData = json.countries[iso];
+            //   if (countryData && countryData.users) {
+            //     // counts[iso] = Object.keys(countryData.users).length;
+            //     counts[iso] = 0;
+            //     for (var username in countryData.users) {
+            //       var user = countryData.users[username];
 
-                  if (user.visited && Array.isArray(user.visited)) {
-                    counts[iso] += user.visited.length;
-                  } else {
-                    counts[iso] += 1;
-                  }
-                }
-              }
+            //       if (user.visited && Array.isArray(user.visited)) {
+            //         counts[iso] += user.visited.length;
+            //       } else {
+            //         counts[iso] += 1;
+            //       }
+            //     }
+            //   }
+            // }
+            // 遍历所有用户
+            for (var username in json.users) {
+              if (!json.users.hasOwnProperty(username)) continue;
+
+              var u = json.users[username];
+
+              if (!u.visited || !Array.isArray(u.visited)) continue;
+
+              u.visited.forEach(function (v) {
+                if (!v.iso || !v.city) return;
+
+                if (!counts[v.iso]) counts[v.iso] = 0;
+
+                counts[v.iso] += 1;
+              });
             }
+
             updatedAt = json.updatedAt || null;
             usersData = json.users || {};
+            // updatedAt = json.updatedAt || null;
+            // usersData = json.users || {};
           }
           setDemoIfEmpty();
           cb && cb();
