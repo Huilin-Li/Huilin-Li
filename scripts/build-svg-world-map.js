@@ -26,6 +26,22 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
     const totalHellos = Object.values(counts).reduce((a, b) => a + b, 0);
     const updatedAt = data.updatedAt || new Date().toISOString();
 
+    // ---- NEW: count visited cities
+    let totalCities = 0;
+    const citySet = new Set(); // 如果你想去重
+
+    for (const user of Object.values(data.users || {})) {
+        (user.visited || []).forEach(v => {
+            if (v.city) {
+                totalCities++; // 不去重（访问次数）
+                citySet.add(`${v.iso}-${v.city}`); // 去重用
+            }
+        });
+    }
+
+    const uniqueCities = citySet.size; // 去重后的城市数
+
+
     // ---- 2) Fetch GeoJSON (Admin-0 countries)
     const world = await fetch('https://geojson.xyz/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson')
         .then(r => r.json());
@@ -201,7 +217,7 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
     };
 
     let y = 40;
-    mkText(18, y, 'Say Hello From 🌍', { bold: true, size: 26 }); y += 36;
+    mkText(18, y, 'Say Hello To 🌍', { bold: true, size: 26 }); y += 36;
 
     // STAT CHIPS ROW
     const chipRowY = y;
@@ -246,7 +262,7 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
         g.appendChild(valueText);
     };
 
-    chip(18, 'Hellos', totalHellos, '#2563eb');   // blue accent
+    chip(18, 'Hellos', uniqueCities, '#2563eb');   // blue accent
     chip(18 + chipW + gap, 'Countries', totalCountries, '#059669'); // green accent
     y = chipRowY + chipH + 26;
 
