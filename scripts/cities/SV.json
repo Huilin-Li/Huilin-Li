@@ -1,0 +1,212 @@
+[
+  {
+    "id": 3583361,
+    "name": "San Salvador",
+    "lat": 13.68935,
+    "lng": -89.18718
+  },
+  {
+    "id": 3583096,
+    "name": "Soyapango",
+    "lat": 13.71024,
+    "lng": -89.13989
+  },
+  {
+    "id": 3583446,
+    "name": "San Miguel",
+    "lat": 13.48261,
+    "lng": -88.18211
+  },
+  {
+    "id": 3583334,
+    "name": "Santa Ana",
+    "lat": 13.98827,
+    "lng": -89.55685
+  },
+  {
+    "id": 3584399,
+    "name": "Mejicanos",
+    "lat": 13.72397,
+    "lng": -89.188
+  },
+  {
+    "id": 3584257,
+    "name": "Santa Tecla",
+    "lat": 13.67741,
+    "lng": -89.28335
+  },
+  {
+    "id": 3587345,
+    "name": "Apopa",
+    "lat": 13.80722,
+    "lng": -89.17917
+  },
+  {
+    "id": 3586814,
+    "name": "Delgado",
+    "lat": 13.72171,
+    "lng": -89.16874
+  },
+  {
+    "id": 3583102,
+    "name": "Sonsonate",
+    "lat": 13.71726,
+    "lng": -89.72304
+  },
+  {
+    "id": 3583480,
+    "name": "San Marcos",
+    "lat": 13.66108,
+    "lng": -89.18252
+  },
+  {
+    "id": 3582883,
+    "name": "Usulután",
+    "lat": 13.34467,
+    "lng": -88.43994
+  },
+  {
+    "id": 3586977,
+    "name": "Cojutepeque",
+    "lat": 13.71971,
+    "lng": -88.93309
+  },
+  {
+    "id": 3586833,
+    "name": "Cuscatancingo",
+    "lat": 13.72702,
+    "lng": -89.18161
+  },
+  {
+    "id": 3583178,
+    "name": "San Vicente",
+    "lat": 13.64114,
+    "lng": -88.78459
+  },
+  {
+    "id": 3582805,
+    "name": "Zacatecoluca",
+    "lat": 13.50872,
+    "lng": -88.87017
+  },
+  {
+    "id": 3583471,
+    "name": "San Martín",
+    "lat": 13.78333,
+    "lng": -88.91667
+  },
+  {
+    "id": 3585484,
+    "name": "Ilopango",
+    "lat": 13.70167,
+    "lng": -89.10944
+  },
+  {
+    "id": 3587426,
+    "name": "Ahuachapán",
+    "lat": 13.92403,
+    "lng": -89.84344
+  },
+  {
+    "id": 3587362,
+    "name": "Antiguo Cuscatlán",
+    "lat": 13.66492,
+    "lng": -89.25319
+  },
+  {
+    "id": 3587086,
+    "name": "Chalchuapa",
+    "lat": 13.98667,
+    "lng": -89.68111
+  },
+  {
+    "id": 3583981,
+    "name": "Quezaltepeque",
+    "lat": 13.83124,
+    "lng": -89.27221
+  },
+  {
+    "id": 3584772,
+    "name": "La Unión",
+    "lat": 13.33915,
+    "lng": -87.84328
+  },
+  {
+    "id": 3587308,
+    "name": "Ayutuxtepeque",
+    "lat": 13.73538,
+    "lng": -89.20221
+  },
+  {
+    "id": 3587498,
+    "name": "Acajutla",
+    "lat": 13.59278,
+    "lng": -89.8275
+  },
+  {
+    "id": 3587428,
+    "name": "Aguilares",
+    "lat": 13.95722,
+    "lng": -89.18972
+  },
+  {
+    "id": 3583158,
+    "name": "Sensuntepeque",
+    "lat": 13.87583,
+    "lng": -88.62727
+  },
+  {
+    "id": 3587091,
+    "name": "Chalatenango",
+    "lat": 14.04138,
+    "lng": -88.93951
+  },
+  {
+    "id": 3585473,
+    "name": "Izalco",
+    "lat": 13.74472,
+    "lng": -89.67306
+  },
+  {
+    "id": 3584384,
+    "name": "Metapán",
+    "lat": 14.33333,
+    "lng": -89.45
+  },
+  {
+    "id": 3583379,
+    "name": "San Rafael Oriente",
+    "lat": 13.38333,
+    "lng": -88.35
+  },
+  {
+    "id": 3584003,
+    "name": "Puerto El Triunfo",
+    "lat": 13.28333,
+    "lng": -88.55
+  },
+  {
+    "id": 3585157,
+    "name": "La Libertad",
+    "lat": 13.48833,
+    "lng": -89.32222
+  },
+  {
+    "id": 3583747,
+    "name": "San Francisco",
+    "lat": 13.69408,
+    "lng": -88.10407
+  },
+  {
+    "id": 3583098,
+    "name": "Sonzacate",
+    "lat": 13.73417,
+    "lng": -89.71472
+  },
+  {
+    "id": 3583199,
+    "name": "Santiago de María",
+    "lat": 13.48333,
+    "lng": -88.46667
+  }
+]

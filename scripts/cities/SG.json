@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1880252,
+    "name": "Singapore",
+    "lat": 1.28967,
+    "lng": 103.85007
+  },
+  {
+    "id": 1884382,
+    "name": "Bedok New Town",
+    "lat": 1.32639,
+    "lng": 103.94167
+  },
+  {
+    "id": 1880159,
+    "name": "Ulu Bedok",
+    "lat": 1.33333,
+    "lng": 103.93333
+  },
+  {
+    "id": 1881953,
+    "name": "Jurong Town",
+    "lat": 1.33417,
+    "lng": 103.72278
+  },
+  {
+    "id": 1881955,
+    "name": "Jurong West",
+    "lat": 1.35028,
+    "lng": 103.72278
+  },
+  {
+    "id": 1882316,
+    "name": "Woodlands",
+    "lat": 1.43801,
+    "lng": 103.78877
+  },
+  {
+    "id": 7289760,
+    "name": "Sengkang New Town",
+    "lat": 1.39167,
+    "lng": 103.89444
+  },
+  {
+    "id": 1882155,
+    "name": "Yishun New Town",
+    "lat": 1.43333,
+    "lng": 103.83111
+  },
+  {
+    "id": 1880348,
+    "name": "Punggol",
+    "lat": 1.41444,
+    "lng": 103.90694
+  },
+  {
+    "id": 1884737,
+    "name": "Choa Chu Kang New Town",
+    "lat": 1.3825,
+    "lng": 103.74972
+  },
+  {
+    "id": 1884365,
+    "name": "Ang Mo Kio New Town",
+    "lat": 1.38028,
+    "lng": 103.83972
+  },
+  {
+    "id": 1880574,
+    "name": "Kampong Pasir Ris",
+    "lat": 1.37833,
+    "lng": 103.93194
+  },
+  {
+    "id": 1884367,
+    "name": "Bukit Panjang New Town",
+    "lat": 1.37972,
+    "lng": 103.76472
+  },
+  {
+    "id": 1880283,
+    "name": "Sembawang Estate",
+    "lat": 1.45083,
+    "lng": 103.82861
+  },
+  {
+    "id": 1884386,
+    "name": "Queenstown Estate",
+    "lat": 1.29417,
+    "lng": 103.8025
+  },
+  {
+    "id": 1881952,
+    "name": "Jurong East",
+    "lat": 1.32888,
+    "lng": 103.73995
+  },
+  {
+    "id": 1880744,
+    "name": "Bukit Timah",
+    "lat": 1.328,
+    "lng": 103.791
+  },
+  {
+    "id": 1880463,
+    "name": "Matilda Estate",
+    "lat": 1.39944,
+    "lng": 103.90278
+  },
+  {
+    "id": 7281987,
+    "name": "Novena",
+    "lat": 1.31697,
+    "lng": 103.8438
+  },
+  {
+    "id": 1882778,
+    "name": "Marine Parade",
+    "lat": 1.30306,
+    "lng": 103.90778
+  },
+  {
+    "id": 1880137,
+    "name": "Yew Tee",
+    "lat": 1.39665,
+    "lng": 103.74738
+  },
+  {
+    "id": 1880517,
+    "name": "Keat Hong Village",
+    "lat": 1.37778,
+    "lng": 103.74417
+  },
+  {
+    "id": 7289731,
+    "name": "Eunos",
+    "lat": 1.32252,
+    "lng": 103.89822
+  },
+  {
+    "id": 1882033,
+    "name": "MacPherson",
+    "lat": 1.32713,
+    "lng": 103.88413
+  },
+  {
+    "id": 1880135,
+    "name": "Yio Chu Kang",
+    "lat": 1.39111,
+    "lng": 103.85139
+  },
+  {
+    "id": 13118140,
+    "name": "Teck Whye",
+    "lat": 1.3803,
+    "lng": 103.75197
+  },
+  {
+    "id": 13118138,
+    "name": "Anak Bukit",
+    "lat": 1.34067,
+    "lng": 103.77301
+  },
+  {
+    "id": 1880469,
+    "name": "Marsiling",
+    "lat": 1.43254,
+    "lng": 103.77407
+  },
+  {
+    "id": 1880226,
+    "name": "Sungai Simpang",
+    "lat": 1.43806,
+    "lng": 103.82667
+  },
+  {
+    "id": 1880761,
+    "name": "Boon Lay",
+    "lat": 1.311,
+    "lng": 103.694
+  },
+  {
+    "id": 1880586,
+    "name": "Kampong Loyang",
+    "lat": 1.37778,
+    "lng": 103.95944
+  }
+]

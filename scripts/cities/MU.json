@@ -1,0 +1,86 @@
+[
+  {
+    "id": 934154,
+    "name": "Port Louis",
+    "lat": -20.16194,
+    "lng": 57.49889
+  },
+  {
+    "id": 933945,
+    "name": "Vacoas",
+    "lat": -20.29806,
+    "lng": 57.47833
+  },
+  {
+    "id": 934765,
+    "name": "Beau Bassin-Rose Hill",
+    "lat": -20.23325,
+    "lng": 57.46609
+  },
+  {
+    "id": 934570,
+    "name": "Curepipe",
+    "lat": -20.31628,
+    "lng": 57.52594
+  },
+  {
+    "id": 934131,
+    "name": "Quatre Bornes",
+    "lat": -20.26381,
+    "lng": 57.4791
+  },
+  {
+    "id": 933959,
+    "name": "Triolet",
+    "lat": -20.0576,
+    "lng": 57.55025
+  },
+  {
+    "id": 934488,
+    "name": "Goodlands",
+    "lat": -20.03841,
+    "lng": 57.65055
+  },
+  {
+    "id": 934750,
+    "name": "Bel Air Rivière Sèche",
+    "lat": -20.25777,
+    "lng": 57.74976
+  },
+  {
+    "id": 934778,
+    "name": "Bambous",
+    "lat": -20.25667,
+    "lng": 57.40611
+  },
+  {
+    "id": 934631,
+    "name": "Centre de Flacq",
+    "lat": -20.18972,
+    "lng": 57.71444
+  },
+  {
+    "id": 934322,
+    "name": "Mahébourg",
+    "lat": -20.40806,
+    "lng": 57.7
+  },
+  {
+    "id": 934032,
+    "name": "Saint Pierre",
+    "lat": -20.2215,
+    "lng": 57.53431
+  },
+  {
+    "id": 1106809,
+    "name": "Le Hochet",
+    "lat": -20.13859,
+    "lng": 57.53013
+  },
+  {
+    "id": 1106616,
+    "name": "Baie du Tombeau",
+    "lat": -20.11944,
+    "lng": 57.49139
+  }
+]

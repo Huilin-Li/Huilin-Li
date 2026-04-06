@@ -1,0 +1,614 @@
+[
+  {
+    "id": 3598132,
+    "name": "Guatemala City",
+    "lat": 14.64072,
+    "lng": -90.51327
+  },
+  {
+    "id": 3587902,
+    "name": "Villa Nueva",
+    "lat": 14.52512,
+    "lng": -90.58544
+  },
+  {
+    "id": 3592519,
+    "name": "Mixco",
+    "lat": 14.63077,
+    "lng": -90.60711
+  },
+  {
+    "id": 3598119,
+    "name": "Cobán",
+    "lat": 15.47025,
+    "lng": -90.37455
+  },
+  {
+    "id": 3590979,
+    "name": "Quetzaltenango",
+    "lat": 14.84462,
+    "lng": -91.52316
+  },
+  {
+    "id": 3595237,
+    "name": "Jalapa",
+    "lat": 14.63542,
+    "lng": -89.99112
+  },
+  {
+    "id": 3595803,
+    "name": "Escuintla",
+    "lat": 14.30097,
+    "lng": -90.78816
+  },
+  {
+    "id": 3587923,
+    "name": "Villa Canales",
+    "lat": 14.48285,
+    "lng": -90.53425
+  },
+  {
+    "id": 3595069,
+    "name": "Jutiapa",
+    "lat": 14.28491,
+    "lng": -89.88798
+  },
+  {
+    "id": 3598655,
+    "name": "Chichicastenango",
+    "lat": 14.94333,
+    "lng": -91.11116
+  },
+  {
+    "id": 3589885,
+    "name": "San Juan Sacatepéquez",
+    "lat": 14.71889,
+    "lng": -90.64417
+  },
+  {
+    "id": 3591415,
+    "name": "Petapa",
+    "lat": 14.50189,
+    "lng": -90.56196
+  },
+  {
+    "id": 3589289,
+    "name": "Santa Lucía Cotzumalguapa",
+    "lat": 14.33505,
+    "lng": -91.02339
+  },
+  {
+    "id": 3598465,
+    "name": "Chiquimula",
+    "lat": 14.8009,
+    "lng": -89.54641
+  },
+  {
+    "id": 3598122,
+    "name": "Coatepeque",
+    "lat": 14.70413,
+    "lng": -91.86426
+  },
+  {
+    "id": 3598529,
+    "name": "Chinautla",
+    "lat": 14.70289,
+    "lng": -90.49983
+  },
+  {
+    "id": 3588258,
+    "name": "Totonicapán",
+    "lat": 14.91188,
+    "lng": -91.36054
+  },
+  {
+    "id": 3591062,
+    "name": "Puerto Barrios",
+    "lat": 15.72724,
+    "lng": -88.59787
+  },
+  {
+    "id": 3598572,
+    "name": "Chimaltenango",
+    "lat": 14.65881,
+    "lng": -90.8216
+  },
+  {
+    "id": 3592753,
+    "name": "Malacatán",
+    "lat": 14.91132,
+    "lng": -92.05788
+  },
+  {
+    "id": 3590858,
+    "name": "Retalhuleu",
+    "lat": 14.53575,
+    "lng": -91.67848
+  },
+  {
+    "id": 3589452,
+    "name": "Santa Catarina Pinula",
+    "lat": 14.57047,
+    "lng": -90.49925
+  },
+  {
+    "id": 3589977,
+    "name": "San José Pinula",
+    "lat": 14.546,
+    "lng": -90.41288
+  },
+  {
+    "id": 3595416,
+    "name": "Huehuetenango",
+    "lat": 15.32097,
+    "lng": -91.47001
+  },
+  {
+    "id": 3589404,
+    "name": "Santa Cruz del Quiché",
+    "lat": 15.02995,
+    "lng": -91.14876
+  },
+  {
+    "id": 3592609,
+    "name": "Mazatenango",
+    "lat": 14.53412,
+    "lng": -91.50311
+  },
+  {
+    "id": 3591676,
+    "name": "Panzos",
+    "lat": 15.39862,
+    "lng": -89.64147
+  },
+  {
+    "id": 3599735,
+    "name": "Amatitlán",
+    "lat": 14.4774,
+    "lng": -90.63489
+  },
+  {
+    "id": 3591833,
+    "name": "Palín",
+    "lat": 14.40358,
+    "lng": -90.69659
+  },
+  {
+    "id": 3590616,
+    "name": "Salamá",
+    "lat": 15.1021,
+    "lng": -90.31906
+  },
+  {
+    "id": 3598678,
+    "name": "Chicacao",
+    "lat": 14.54295,
+    "lng": -91.32636
+  },
+  {
+    "id": 3587587,
+    "name": "Zacapa",
+    "lat": 14.96867,
+    "lng": -89.52732
+  },
+  {
+    "id": 3598025,
+    "name": "Comitancillo",
+    "lat": 15.08937,
+    "lng": -91.74971
+  },
+  {
+    "id": 3595714,
+    "name": "Fraijanes",
+    "lat": 14.46528,
+    "lng": -90.44083
+  },
+  {
+    "id": 3589646,
+    "name": "San Pedro Ayampuc",
+    "lat": 14.77943,
+    "lng": -90.45318
+  },
+  {
+    "id": 3591512,
+    "name": "Patzún",
+    "lat": 14.68189,
+    "lng": -91.01397
+  },
+  {
+    "id": 3590219,
+    "name": "San Francisco El Alto",
+    "lat": 14.9449,
+    "lng": -91.4431
+  },
+  {
+    "id": 3591997,
+    "name": "Ostuncalco",
+    "lat": 14.86899,
+    "lng": -91.62137
+  },
+  {
+    "id": 3588694,
+    "name": "Soloma",
+    "lat": 15.65841,
+    "lng": -91.42994
+  },
+  {
+    "id": 3599639,
+    "name": "Asunción Mita",
+    "lat": 14.33365,
+    "lng": -89.71094
+  },
+  {
+    "id": 3598073,
+    "name": "Colomba",
+    "lat": 14.7073,
+    "lng": -91.73167
+  },
+  {
+    "id": 3599582,
+    "name": "Barberena",
+    "lat": 14.30739,
+    "lng": -90.36156
+  },
+  {
+    "id": 3589805,
+    "name": "San Marcos",
+    "lat": 14.96437,
+    "lng": -91.79486
+  },
+  {
+    "id": 3599699,
+    "name": "Antigua Guatemala",
+    "lat": 14.55636,
+    "lng": -90.7332
+  },
+  {
+    "id": 3588698,
+    "name": "Sololá",
+    "lat": 14.7707,
+    "lng": -91.18344
+  },
+  {
+    "id": 3592642,
+    "name": "Masagua",
+    "lat": 14.20306,
+    "lng": -90.84806
+  },
+  {
+    "id": 3599069,
+    "name": "Cantel",
+    "lat": 14.81154,
+    "lng": -91.45536
+  },
+  {
+    "id": 3597804,
+    "name": "Cuilapa",
+    "lat": 14.27537,
+    "lng": -90.29865
+  },
+  {
+    "id": 3591541,
+    "name": "Patulul",
+    "lat": 14.42321,
+    "lng": -91.16049
+  },
+  {
+    "id": 3589626,
+    "name": "San Pedro Sacatepéquez",
+    "lat": 14.96807,
+    "lng": -91.76172
+  },
+  {
+    "id": 3592105,
+    "name": "Nuevo San Carlos",
+    "lat": 14.593,
+    "lng": -91.6939
+  },
+  {
+    "id": 3595248,
+    "name": "Jacaltenango",
+    "lat": 15.66662,
+    "lng": -91.71177
+  },
+  {
+    "id": 3587636,
+    "name": "Yepocapa",
+    "lat": 14.50195,
+    "lng": -90.95396
+  },
+  {
+    "id": 3588476,
+    "name": "Tecpán Guatemala",
+    "lat": 14.76181,
+    "lng": -90.99247
+  },
+  {
+    "id": 3598128,
+    "name": "Ciudad Vieja",
+    "lat": 14.52396,
+    "lng": -90.76308
+  },
+  {
+    "id": 3589105,
+    "name": "Santiago Atitlán",
+    "lat": 14.63823,
+    "lng": -91.22901
+  },
+  {
+    "id": 3598034,
+    "name": "Comalapa",
+    "lat": 14.74086,
+    "lng": -90.88761
+  },
+  {
+    "id": 3592483,
+    "name": "Momostenango",
+    "lat": 15.04437,
+    "lng": -91.40864
+  },
+  {
+    "id": 3590389,
+    "name": "San Benito",
+    "lat": 16.91675,
+    "lng": -89.91898
+  },
+  {
+    "id": 3589101,
+    "name": "Santiago Sacatepéquez",
+    "lat": 14.6351,
+    "lng": -90.67654
+  },
+  {
+    "id": 3589548,
+    "name": "San Sebastián",
+    "lat": 14.56177,
+    "lng": -91.64865
+  },
+  {
+    "id": 3595232,
+    "name": "Jalpatagua",
+    "lat": 14.1369,
+    "lng": -90.00908
+  },
+  {
+    "id": 3588653,
+    "name": "Sumpango",
+    "lat": 14.64623,
+    "lng": -90.73427
+  },
+  {
+    "id": 3592286,
+    "name": "Nahualá",
+    "lat": 14.8429,
+    "lng": -91.31799
+  },
+  {
+    "id": 3590529,
+    "name": "San Andrés Itzapa",
+    "lat": 14.62222,
+    "lng": -90.84314
+  },
+  {
+    "id": 3596421,
+    "name": "Guastatoya",
+    "lat": 14.85442,
+    "lng": -90.06991
+  },
+  {
+    "id": 3589822,
+    "name": "San Luis Jilotepeque",
+    "lat": 14.64724,
+    "lng": -89.72463
+  },
+  {
+    "id": 3590288,
+    "name": "San Felipe",
+    "lat": 14.62304,
+    "lng": -91.595
+  },
+  {
+    "id": 3587543,
+    "name": "Zaragoza",
+    "lat": 14.64968,
+    "lng": -90.89034
+  },
+  {
+    "id": 3594575,
+    "name": "La Gomera",
+    "lat": 14.08213,
+    "lng": -91.05383
+  },
+  {
+    "id": 3599788,
+    "name": "Alotenango",
+    "lat": 14.48585,
+    "lng": -90.80437
+  },
+  {
+    "id": 3592237,
+    "name": "Nebaj",
+    "lat": 15.40614,
+    "lng": -91.14682
+  },
+  {
+    "id": 3599287,
+    "name": "Cabricán",
+    "lat": 15.07485,
+    "lng": -91.648
+  },
+  {
+    "id": 3590197,
+    "name": "San Francisco Zapotitlán",
+    "lat": 14.58939,
+    "lng": -91.52144
+  },
+  {
+    "id": 3589253,
+    "name": "Santa María de Jesús",
+    "lat": 14.49452,
+    "lng": -90.71036
+  },
+  {
+    "id": 3591523,
+    "name": "Patzicía",
+    "lat": 14.63194,
+    "lng": -90.92659
+  },
+  {
+    "id": 3589852,
+    "name": "San Lucas Sacatepéquez",
+    "lat": 14.61075,
+    "lng": -90.65681
+  },
+  {
+    "id": 3595783,
+    "name": "Esquipulas",
+    "lat": 14.56571,
+    "lng": -89.35166
+  },
+  {
+    "id": 3597078,
+    "name": "El Estor",
+    "lat": 15.53221,
+    "lng": -89.33111
+  },
+  {
+    "id": 3595725,
+    "name": "Flores",
+    "lat": 16.92258,
+    "lng": -89.89941
+  },
+  {
+    "id": 3589671,
+    "name": "San Pablo Jocopilas",
+    "lat": 14.58882,
+    "lng": -91.45188
+  },
+  {
+    "id": 3590316,
+    "name": "San Cristóbal Verapaz",
+    "lat": 15.36663,
+    "lng": -90.47825
+  },
+  {
+    "id": 3590605,
+    "name": "Salcajá",
+    "lat": 14.87964,
+    "lng": -91.45699
+  },
+  {
+    "id": 3595560,
+    "name": "Gualán",
+    "lat": 15.11952,
+    "lng": -89.35721
+  },
+  {
+    "id": 3592362,
+    "name": "Morales",
+    "lat": 15.47225,
+    "lng": -88.8407
+  },
+  {
+    "id": 3595503,
+    "name": "Guazacapán",
+    "lat": 14.07417,
+    "lng": -90.41667
+  },
+  {
+    "id": 3591060,
+    "name": "Puerto San José",
+    "lat": 13.92216,
+    "lng": -90.81906
+  },
+  {
+    "id": 3591851,
+    "name": "Palencia",
+    "lat": 14.66715,
+    "lng": -90.35721
+  },
+  {
+    "id": 3591093,
+    "name": "Tiquisate",
+    "lat": 14.28356,
+    "lng": -91.36063
+  },
+  {
+    "id": 3593376,
+    "name": "Lívingston",
+    "lat": 15.82826,
+    "lng": -88.75039
+  },
+  {
+    "id": 3595171,
+    "name": "Jocotenango",
+    "lat": 14.57814,
+    "lng": -90.73804
+  },
+  {
+    "id": 3597587,
+    "name": "El Asintal",
+    "lat": 14.59626,
+    "lng": -91.72744
+  },
+  {
+    "id": 3591181,
+    "name": "Poptún",
+    "lat": 16.33111,
+    "lng": -89.41694
+  },
+  {
+    "id": 3589475,
+    "name": "Santa Bárbara",
+    "lat": 14.43563,
+    "lng": -91.22685
+  },
+  {
+    "id": 3598415,
+    "name": "Chisec",
+    "lat": 15.81311,
+    "lng": -90.28896
+  },
+  {
+    "id": 3594703,
+    "name": "La Esperanza",
+    "lat": 14.87169,
+    "lng": -91.5614
+  },
+  {
+    "id": 3589643,
+    "name": "San Pedro Carchá",
+    "lat": 15.47745,
+    "lng": -90.31105
+  },
+  {
+    "id": 3590406,
+    "name": "Sanarate",
+    "lat": 14.78828,
+    "lng": -90.19876
+  },
+  {
+    "id": 3596041,
+    "name": "El Tejar",
+    "lat": 14.64683,
+    "lng": -90.79122
+  },
+  {
+    "id": 3596644,
+    "name": "El Palmar",
+    "lat": 14.65083,
+    "lng": -91.578
+  },
+  {
+    "id": 3590924,
+    "name": "Rabinal",
+    "lat": 15.0853,
+    "lng": -90.49255
+  },
+  {
+    "id": 3590520,
+    "name": "San Andrés Xecul",
+    "lat": 14.90482,
+    "lng": -91.48307
+  }
+]

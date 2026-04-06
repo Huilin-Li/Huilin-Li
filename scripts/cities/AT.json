@@ -1,0 +1,152 @@
+[
+  {
+    "id": 2761369,
+    "name": "Vienna",
+    "lat": 48.20849,
+    "lng": 16.37208
+  },
+  {
+    "id": 2778067,
+    "name": "Graz",
+    "lat": 47.06733,
+    "lng": 15.44197
+  },
+  {
+    "id": 2772400,
+    "name": "Linz",
+    "lat": 48.30639,
+    "lng": 14.28611
+  },
+  {
+    "id": 2766824,
+    "name": "Salzburg",
+    "lat": 47.79941,
+    "lng": 13.04399
+  },
+  {
+    "id": 2775220,
+    "name": "Innsbruck",
+    "lat": 47.26266,
+    "lng": 11.39454
+  },
+  {
+    "id": 2774326,
+    "name": "Klagenfurt am Wörthersee",
+    "lat": 46.62472,
+    "lng": 14.30528
+  },
+  {
+    "id": 2762372,
+    "name": "Villach",
+    "lat": 46.61028,
+    "lng": 13.85583
+  },
+  {
+    "id": 2780741,
+    "name": "Dornbirn",
+    "lat": 47.41427,
+    "lng": 9.74195
+  },
+  {
+    "id": 2761353,
+    "name": "Wiener Neustadt",
+    "lat": 47.80485,
+    "lng": 16.23196
+  },
+  {
+    "id": 2764359,
+    "name": "Steyr",
+    "lat": 48.04274,
+    "lng": 14.42127
+  },
+  {
+    "id": 2779674,
+    "name": "Feldkirch",
+    "lat": 47.23306,
+    "lng": 9.6
+  },
+  {
+    "id": 2781503,
+    "name": "Bregenz",
+    "lat": 47.50311,
+    "lng": 9.7471
+  },
+  {
+    "id": 2782067,
+    "name": "Baden",
+    "lat": 48.00543,
+    "lng": 16.23264
+  },
+  {
+    "id": 2760910,
+    "name": "Wolfsberg",
+    "lat": 46.84056,
+    "lng": 14.84417
+  },
+  {
+    "id": 2772173,
+    "name": "Lustenau",
+    "lat": 47.42642,
+    "lng": 9.65851
+  },
+  {
+    "id": 2766429,
+    "name": "Sankt Pölten",
+    "lat": 48.20762,
+    "lng": 15.63725
+  },
+  {
+    "id": 2771335,
+    "name": "Mödling",
+    "lat": 48.08605,
+    "lng": 16.28921
+  },
+  {
+    "id": 2761524,
+    "name": "Wels",
+    "lat": 48.16667,
+    "lng": 14.03333
+  },
+  {
+    "id": 2766922,
+    "name": "Saalfelden am Steinernen Meer",
+    "lat": 47.42681,
+    "lng": 12.848
+  },
+  {
+    "id": 2775742,
+    "name": "Hohenems",
+    "lat": 47.36121,
+    "lng": 9.68694
+  },
+  {
+    "id": 2764279,
+    "name": "Stockerau",
+    "lat": 48.38333,
+    "lng": 16.21667
+  },
+  {
+    "id": 2773913,
+    "name": "Klosterneuburg",
+    "lat": 48.30521,
+    "lng": 16.32522
+  },
+  {
+    "id": 2782555,
+    "name": "Amstetten",
+    "lat": 48.1229,
+    "lng": 14.87206
+  },
+  {
+    "id": 2763810,
+    "name": "Telfs",
+    "lat": 47.30707,
+    "lng": 11.06817
+  },
+  {
+    "id": 2769110,
+    "name": "Perchtoldsdorf",
+    "lat": 48.11935,
+    "lng": 16.26607
+  }
+]

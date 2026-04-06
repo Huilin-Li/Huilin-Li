@@ -3,6 +3,7 @@
 // Legend is vertical in the map's bottom-right; bold stat chips in the panel.
 
 const fs = require('fs');
+const path = require('path');
 const nodePath = require('path');
 const fetch = require('node-fetch');
 const d3geo = require('d3-geo');
@@ -14,12 +15,23 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
     const data = JSON.parse(fs.readFileSync(visitorsPath, 'utf8'));
 
     const counts = {};
-    for (const [isoRaw, info] of Object.entries(data.countries || {})) {
-        const iso = (isoRaw || '').toUpperCase();
-        const count = typeof info === 'number'
-            ? info                                     // legacy numeric
-            : Object.keys((info && info.users) || {}).length; // v3 users map
-        counts[iso] = count;
+    // for (const [isoRaw, info] of Object.entries(data.countries || {})) {
+    //     const iso = (isoRaw || '').toUpperCase();
+    //     const count = typeof info === 'number'
+    //         ? info                                     // legacy numeric
+    //         : Object.keys((info && info.users) || {}).length; // v3 users map
+    //     counts[iso] = count;
+    // }
+    for (const user of Object.values(data.users || {})) {
+        (user.visited || []).forEach(v => {
+            if (!v.iso) return;
+
+            const iso = v.iso.toUpperCase();
+
+            if (!counts[iso]) counts[iso] = 0;
+
+            counts[iso] += 1; // 每个 city 记一次
+        });
     }
 
     const totalCountries = Object.values(counts).filter(c => c > 0).length;
@@ -41,6 +53,13 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
 
     const uniqueCities = citySet.size; // 去重后的城市数
 
+    const cities = [];
+    for (const user of Object.values(data.users || {})) {
+        (user.visited || []).forEach(v => {
+            if (v.city && v.iso) cities.push(v);
+        });
+    }
+
 
     // ---- 2) Fetch GeoJSON (Admin-0 countries)
     const world = await fetch('https://geojson.xyz/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson')
@@ -58,6 +77,28 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
         const name = f.properties.name || f.properties.name_long || iso;
         if (iso) isoToName[iso] = name;
     }
+
+    // ---------- 获取城市坐标
+    const cityCache = {};
+
+    function getCityCoord(iso, cityName) {
+        if (!cityCache[iso]) {
+            try {
+                const file = fs.readFileSync(
+                    path.join(__dirname, './cities/' + iso + '.json'),
+                    'utf8'
+                );
+                cityCache[iso] = JSON.parse(file);
+            } catch {
+                cityCache[iso] = [];
+            }
+        }
+
+        return cityCache[iso].find(c =>
+            c.name.toLowerCase() === cityName.toLowerCase()
+        );
+    }
+
 
     // ---- 3) Layout: larger map, slimmer panel, minimal margins
     const width = 1480;
@@ -139,6 +180,23 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
         p.setAttribute('data-iso', iso);
         svg.appendChild(p);
     }
+
+    // ---------- Draw city markers
+    cities.forEach(v => {
+        const match = getCityCoord(v.iso, v.city);
+        if (!match) return;
+
+        const [x, y] = projection([match.lng, match.lat]);
+
+        const circle = doc.createElement('circle');
+        circle.setAttribute('cx', x);
+        circle.setAttribute('cy', y);
+        circle.setAttribute('r', 2);            // 圆点半径
+        circle.setAttribute('fill', '#ff5722'); // 橙红色
+        circle.setAttribute('opacity', '0.8');
+
+        svg.appendChild(circle);
+    });
 
     // ---- 6) Legend inside the map (bottom-right, vertical) - LARGER TEXT
     const mapRight = margin + mapW;
@@ -280,7 +338,7 @@ const { DOMImplementation, XMLSerializer } = require('xmldom');
     const top = Object.entries(counts)
         .filter(([_, c]) => c > 0)
         .sort((a, b) => b[1] - a[1])
-        .slice(0, 12);
+        .slice(0, 20000);
 
     const rowHeight = 28;
     top.forEach(([iso, c], i) => {

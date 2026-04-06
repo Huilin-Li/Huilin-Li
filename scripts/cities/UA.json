@@ -1,0 +1,1580 @@
+[
+  {
+    "id": 703448,
+    "name": "Kyiv",
+    "lat": 50.45466,
+    "lng": 30.5238
+  },
+  {
+    "id": 706483,
+    "name": "Kharkiv",
+    "lat": 49.98177,
+    "lng": 36.25475
+  },
+  {
+    "id": 698740,
+    "name": "Odesa",
+    "lat": 46.48572,
+    "lng": 30.74383
+  },
+  {
+    "id": 709930,
+    "name": "Dnipro",
+    "lat": 48.46664,
+    "lng": 35.04066
+  },
+  {
+    "id": 709717,
+    "name": "Donetsk",
+    "lat": 48.023,
+    "lng": 37.80224
+  },
+  {
+    "id": 702550,
+    "name": "Lviv",
+    "lat": 49.83826,
+    "lng": 24.02324
+  },
+  {
+    "id": 687700,
+    "name": "Zaporizhzhya",
+    "lat": 47.85167,
+    "lng": 35.11714
+  },
+  {
+    "id": 703845,
+    "name": "Kryvyy Rih",
+    "lat": 47.90572,
+    "lng": 33.39404
+  },
+  {
+    "id": 694423,
+    "name": "Sevastopol",
+    "lat": 44.60795,
+    "lng": 33.52134
+  },
+  {
+    "id": 700569,
+    "name": "Mykolayiv",
+    "lat": 46.97625,
+    "lng": 31.99296
+  },
+  {
+    "id": 702658,
+    "name": "Luhansk",
+    "lat": 48.56814,
+    "lng": 39.30553
+  },
+  {
+    "id": 689558,
+    "name": "Vinnytsya",
+    "lat": 49.2322,
+    "lng": 28.46871
+  },
+  {
+    "id": 702320,
+    "name": "Makiivka",
+    "lat": 48.04782,
+    "lng": 37.92576
+  },
+  {
+    "id": 693805,
+    "name": "Simferopol",
+    "lat": 44.95719,
+    "lng": 34.11079
+  },
+  {
+    "id": 8519916,
+    "name": "Obolon",
+    "lat": 50.51627,
+    "lng": 30.50636
+  },
+  {
+    "id": 710735,
+    "name": "Chernihiv",
+    "lat": 51.50541,
+    "lng": 31.28656
+  },
+  {
+    "id": 706448,
+    "name": "Kherson",
+    "lat": 46.63695,
+    "lng": 32.61458
+  },
+  {
+    "id": 696643,
+    "name": "Poltava",
+    "lat": 49.58925,
+    "lng": 34.55367
+  },
+  {
+    "id": 706369,
+    "name": "Khmelnytskyi",
+    "lat": 49.41835,
+    "lng": 26.97936
+  },
+  {
+    "id": 710791,
+    "name": "Cherkasy",
+    "lat": 49.44452,
+    "lng": 32.05738
+  },
+  {
+    "id": 710719,
+    "name": "Chernivtsi",
+    "lat": 48.29045,
+    "lng": 25.93241
+  },
+  {
+    "id": 686967,
+    "name": "Zhytomyr",
+    "lat": 50.26235,
+    "lng": 28.67913
+  },
+  {
+    "id": 692194,
+    "name": "Sumy",
+    "lat": 50.91741,
+    "lng": 34.79906
+  },
+  {
+    "id": 695594,
+    "name": "Rivne",
+    "lat": 50.62036,
+    "lng": 26.23695
+  },
+  {
+    "id": 707753,
+    "name": "Horlivka",
+    "lat": 48.33576,
+    "lng": 38.05325
+  },
+  {
+    "id": 707471,
+    "name": "Ivano-Frankivsk",
+    "lat": 48.92312,
+    "lng": 24.71248
+  },
+  {
+    "id": 709932,
+    "name": "Kamyanske",
+    "lat": 48.51716,
+    "lng": 34.60617
+  },
+  {
+    "id": 691650,
+    "name": "Ternopil",
+    "lat": 49.55404,
+    "lng": 25.59067
+  },
+  {
+    "id": 705812,
+    "name": "Kropyvnytskyy",
+    "lat": 48.50834,
+    "lng": 32.26618
+  },
+  {
+    "id": 704147,
+    "name": "Kremenchuk",
+    "lat": 49.06253,
+    "lng": 33.40484
+  },
+  {
+    "id": 702569,
+    "name": "Lutsk",
+    "lat": 50.75784,
+    "lng": 25.35024
+  },
+  {
+    "id": 712165,
+    "name": "Bila Tserkva",
+    "lat": 49.8004,
+    "lng": 30.12851
+  },
+  {
+    "id": 706524,
+    "name": "Kerch",
+    "lat": 45.35675,
+    "lng": 36.47542
+  },
+  {
+    "id": 701404,
+    "name": "Melitopol",
+    "lat": 46.84735,
+    "lng": 35.38196
+  },
+  {
+    "id": 704508,
+    "name": "Kramatorsk",
+    "lat": 48.73049,
+    "lng": 37.58793
+  },
+  {
+    "id": 701822,
+    "name": "Mariupol",
+    "lat": 47.09514,
+    "lng": 37.54131
+  },
+  {
+    "id": 690548,
+    "name": "Uzhhorod",
+    "lat": 48.6242,
+    "lng": 22.2947
+  },
+  {
+    "id": 711390,
+    "name": "Brovary",
+    "lat": 50.51809,
+    "lng": 30.80671
+  },
+  {
+    "id": 712451,
+    "name": "Berdyansk",
+    "lat": 46.75578,
+    "lng": 36.78815
+  },
+  {
+    "id": 688105,
+    "name": "Yevpatoriya",
+    "lat": 45.20091,
+    "lng": 33.36655
+  },
+  {
+    "id": 713716,
+    "name": "Alchevsk",
+    "lat": 48.46893,
+    "lng": 38.81669
+  },
+  {
+    "id": 700051,
+    "name": "Nikopol",
+    "lat": 47.56826,
+    "lng": 34.39126
+  },
+  {
+    "id": 693468,
+    "name": "Sloviansk",
+    "lat": 48.84974,
+    "lng": 37.59739
+  },
+  {
+    "id": 697889,
+    "name": "Pavlohrad",
+    "lat": 48.53214,
+    "lng": 35.86878
+  },
+  {
+    "id": 690688,
+    "name": "Uman",
+    "lat": 48.7501,
+    "lng": 30.21944
+  },
+  {
+    "id": 691999,
+    "name": "Sievierodonetsk",
+    "lat": 48.94628,
+    "lng": 38.48624
+  },
+  {
+    "id": 706950,
+    "name": "Kamianets-Podilskyi",
+    "lat": 48.67882,
+    "lng": 26.58516
+  },
+  {
+    "id": 702972,
+    "name": "Lysychansk",
+    "lat": 48.90421,
+    "lng": 38.44094
+  },
+  {
+    "id": 700646,
+    "name": "Mukachevo",
+    "lat": 48.44248,
+    "lng": 22.718
+  },
+  {
+    "id": 705135,
+    "name": "Konotop",
+    "lat": 51.24032,
+    "lng": 33.20263
+  },
+  {
+    "id": 713174,
+    "name": "Bakhmut",
+    "lat": 48.59441,
+    "lng": 37.99983
+  },
+  {
+    "id": 704202,
+    "name": "Khrustalnyi",
+    "lat": 48.13954,
+    "lng": 38.93715
+  },
+  {
+    "id": 688533,
+    "name": "Yalta",
+    "lat": 44.50218,
+    "lng": 34.16624
+  },
+  {
+    "id": 688148,
+    "name": "Yenakiieve",
+    "lat": 48.23857,
+    "lng": 38.20403
+  },
+  {
+    "id": 698625,
+    "name": "Oleksandriya",
+    "lat": 48.67466,
+    "lng": 33.11761
+  },
+  {
+    "id": 709611,
+    "name": "Drohobych",
+    "lat": 49.351,
+    "lng": 23.5174
+  },
+  {
+    "id": 692975,
+    "name": "Kadiyivka",
+    "lat": 48.56818,
+    "lng": 38.64352
+  },
+  {
+    "id": 693942,
+    "name": "Shostka",
+    "lat": 51.86296,
+    "lng": 33.4698
+  },
+  {
+    "id": 712441,
+    "name": "Berdychiv",
+    "lat": 49.89408,
+    "lng": 28.60144
+  },
+  {
+    "id": 694382,
+    "name": "Shakhtarsk",
+    "lat": 48.05657,
+    "lng": 38.43826
+  },
+  {
+    "id": 699445,
+    "name": "Samar",
+    "lat": 48.62893,
+    "lng": 35.2589
+  },
+  {
+    "id": 707308,
+    "name": "Izmail",
+    "lat": 45.35058,
+    "lng": 28.83751
+  },
+  {
+    "id": 709161,
+    "name": "Feodosiya",
+    "lat": 45.03199,
+    "lng": 35.38153
+  },
+  {
+    "id": 704617,
+    "name": "Kovel",
+    "lat": 51.21526,
+    "lng": 24.70867
+  },
+  {
+    "id": 705104,
+    "name": "Kostiantynivka",
+    "lat": 48.52728,
+    "lng": 37.70594
+  },
+  {
+    "id": 699942,
+    "name": "Nizhyn",
+    "lat": 51.04801,
+    "lng": 31.88688
+  },
+  {
+    "id": 693457,
+    "name": "Smila",
+    "lat": 49.23295,
+    "lng": 31.88427
+  },
+  {
+    "id": 707565,
+    "name": "Irpin",
+    "lat": 50.52175,
+    "lng": 30.25055
+  },
+  {
+    "id": 707099,
+    "name": "Kalush",
+    "lat": 49.02398,
+    "lng": 24.37206
+  },
+  {
+    "id": 710554,
+    "name": "Chervonohrad",
+    "lat": 50.39105,
+    "lng": 24.23514
+  },
+  {
+    "id": 711660,
+    "name": "Boryspil",
+    "lat": 50.35269,
+    "lng": 30.95501
+  },
+  {
+    "id": 692105,
+    "name": "Dovzhansk",
+    "lat": 48.08964,
+    "lng": 39.65243
+  },
+  {
+    "id": 697593,
+    "name": "Pervomaysk",
+    "lat": 48.04478,
+    "lng": 30.84784
+  },
+  {
+    "id": 707601,
+    "name": "Inhulets",
+    "lat": 47.7301,
+    "lng": 33.25189
+  },
+  {
+    "id": 704901,
+    "name": "Korosten",
+    "lat": 50.95937,
+    "lng": 28.63855
+  },
+  {
+    "id": 692372,
+    "name": "Stryi",
+    "lat": 49.26171,
+    "lng": 23.84721
+  },
+  {
+    "id": 705392,
+    "name": "Kolomyia",
+    "lat": 48.52496,
+    "lng": 25.03712
+  },
+  {
+    "id": 704422,
+    "name": "Pokrovsk",
+    "lat": 48.2824,
+    "lng": 37.17772
+  },
+  {
+    "id": 707688,
+    "name": "Chornomors’k",
+    "lat": 46.29914,
+    "lng": 30.65529
+  },
+  {
+    "id": 706466,
+    "name": "Khartsyzk",
+    "lat": 48.04243,
+    "lng": 38.14728
+  },
+  {
+    "id": 699553,
+    "name": "Zviahel",
+    "lat": 50.59412,
+    "lng": 27.6165
+  },
+  {
+    "id": 693381,
+    "name": "Snizhne",
+    "lat": 48.02612,
+    "lng": 38.77225
+  },
+  {
+    "id": 695274,
+    "name": "Rubizhne",
+    "lat": 49.00606,
+    "lng": 38.38119
+  },
+  {
+    "id": 702760,
+    "name": "Lozova",
+    "lat": 48.88937,
+    "lng": 36.31755
+  },
+  {
+    "id": 616743,
+    "name": "Druzhkivka",
+    "lat": 48.61897,
+    "lng": 37.52704
+  },
+  {
+    "id": 691374,
+    "name": "Chystyakove",
+    "lat": 48.03876,
+    "lng": 38.59685
+  },
+  {
+    "id": 709276,
+    "name": "Enerhodar",
+    "lat": 47.49048,
+    "lng": 34.66199
+  },
+  {
+    "id": 696108,
+    "name": "Pryluky",
+    "lat": 50.59323,
+    "lng": 32.38761
+  },
+  {
+    "id": 713259,
+    "name": "Antratsyt",
+    "lat": 48.11503,
+    "lng": 39.09128
+  },
+  {
+    "id": 6559559,
+    "name": "Horishni Plavni",
+    "lat": 49.00835,
+    "lng": 33.62926
+  },
+  {
+    "id": 699035,
+    "name": "Novovolynsk",
+    "lat": 50.72576,
+    "lng": 24.16265
+  },
+  {
+    "id": 704403,
+    "name": "Sorokyne",
+    "lat": 48.29235,
+    "lng": 39.73921
+  },
+  {
+    "id": 712160,
+    "name": "Bilhorod-Dnistrovskyi",
+    "lat": 46.19484,
+    "lng": 30.34827
+  },
+  {
+    "id": 713749,
+    "name": "Okhtyrka",
+    "lat": 50.31036,
+    "lng": 34.89879
+  },
+  {
+    "id": 710035,
+    "name": "Myrnohrad",
+    "lat": 48.3099,
+    "lng": 37.26513
+  },
+  {
+    "id": 707292,
+    "name": "Izium",
+    "lat": 49.20697,
+    "lng": 37.27679
+  },
+  {
+    "id": 695379,
+    "name": "Rovenky",
+    "lat": 48.08331,
+    "lng": 39.37764
+  },
+  {
+    "id": 701855,
+    "name": "Marhanets",
+    "lat": 47.63088,
+    "lng": 34.6245
+  },
+  {
+    "id": 711369,
+    "name": "Brianka",
+    "lat": 48.511,
+    "lng": 38.67222
+  },
+  {
+    "id": 702723,
+    "name": "Lubny",
+    "lat": 50.01413,
+    "lng": 32.99975
+  },
+  {
+    "id": 699839,
+    "name": "Nova Kakhovka",
+    "lat": 46.75966,
+    "lng": 33.35591
+  },
+  {
+    "id": 709248,
+    "name": "Fastiv",
+    "lat": 50.0767,
+    "lng": 29.9177
+  },
+  {
+    "id": 692087,
+    "name": "Svitlovodsk",
+    "lat": 49.06287,
+    "lng": 33.2458
+  },
+  {
+    "id": 689487,
+    "name": "Vyshneve",
+    "lat": 50.38913,
+    "lng": 30.3705
+  },
+  {
+    "id": 711350,
+    "name": "Bucha",
+    "lat": 50.54345,
+    "lng": 30.21201
+  },
+  {
+    "id": 687196,
+    "name": "Zhovti Vody",
+    "lat": 48.34518,
+    "lng": 33.49743
+  },
+  {
+    "id": 8341919,
+    "name": "Varash",
+    "lat": 51.3509,
+    "lng": 25.84738
+  },
+  {
+    "id": 709334,
+    "name": "Dzhankoi",
+    "lat": 45.7131,
+    "lng": 34.39273
+  },
+  {
+    "id": 694216,
+    "name": "Shepetivka",
+    "lat": 50.18118,
+    "lng": 27.06517
+  },
+  {
+    "id": 701075,
+    "name": "Myrhorod",
+    "lat": 49.96464,
+    "lng": 33.60861
+  },
+  {
+    "id": 704679,
+    "name": "Podilsk",
+    "lat": 47.74988,
+    "lng": 29.53074
+  },
+  {
+    "id": 7525990,
+    "name": "Pivdennoukrainsk",
+    "lat": 47.82879,
+    "lng": 31.17513
+  },
+  {
+    "id": 695464,
+    "name": "Romny",
+    "lat": 50.75104,
+    "lng": 33.47471
+  },
+  {
+    "id": 689378,
+    "name": "Volodymyr-Volynskyi",
+    "lat": 50.85253,
+    "lng": 24.32364
+  },
+  {
+    "id": 688373,
+    "name": "Yasynuvata",
+    "lat": 48.1298,
+    "lng": 37.8594
+  },
+  {
+    "id": 698436,
+    "name": "Pokrov",
+    "lat": 47.65361,
+    "lng": 34.11488
+  },
+  {
+    "id": 709540,
+    "name": "Dubno",
+    "lat": 50.41694,
+    "lng": 25.73432
+  },
+  {
+    "id": 690412,
+    "name": "Vasylkiv",
+    "lat": 50.18693,
+    "lng": 30.31346
+  },
+  {
+    "id": 710374,
+    "name": "Chuhuiv",
+    "lat": 49.83538,
+    "lng": 36.6865
+  },
+  {
+    "id": 700261,
+    "name": "Netishyn",
+    "lat": 50.32863,
+    "lng": 26.64872
+  },
+  {
+    "id": 697592,
+    "name": "Pervomaisk",
+    "lat": 48.62831,
+    "lng": 38.56205
+  },
+  {
+    "id": 707244,
+    "name": "Kakhovka",
+    "lat": 46.81601,
+    "lng": 33.47862
+  },
+  {
+    "id": 713122,
+    "name": "Avdiivka",
+    "lat": 48.14019,
+    "lng": 37.75008
+  },
+  {
+    "id": 693581,
+    "name": "Slavuta",
+    "lat": 50.29609,
+    "lng": 26.86613
+  },
+  {
+    "id": 687116,
+    "name": "Zhmerynka",
+    "lat": 49.03523,
+    "lng": 28.11405
+  },
+  {
+    "id": 711515,
+    "name": "Boiarka",
+    "lat": 50.31911,
+    "lng": 30.29728
+  },
+  {
+    "id": 692818,
+    "name": "Starokostyantyniv",
+    "lat": 49.75522,
+    "lng": 27.21229
+  },
+  {
+    "id": 694864,
+    "name": "Sambir",
+    "lat": 49.51631,
+    "lng": 23.2006
+  },
+  {
+    "id": 688860,
+    "name": "Voznesensk",
+    "lat": 47.56218,
+    "lng": 31.33602
+  },
+  {
+    "id": 687997,
+    "name": "Pivdenne",
+    "lat": 46.62472,
+    "lng": 31.10182
+  },
+  {
+    "id": 711669,
+    "name": "Boryslav",
+    "lat": 49.29208,
+    "lng": 23.42577
+  },
+  {
+    "id": 707758,
+    "name": "Hlukhiv",
+    "lat": 51.67822,
+    "lng": 33.9162
+  },
+  {
+    "id": 698782,
+    "name": "Obukhiv",
+    "lat": 50.10689,
+    "lng": 30.61848
+  },
+  {
+    "id": 8468760,
+    "name": "Novoyavorivs'k",
+    "lat": 49.93023,
+    "lng": 23.57357
+  },
+  {
+    "id": 709354,
+    "name": "Toretsk",
+    "lat": 48.39477,
+    "lng": 37.8478
+  },
+  {
+    "id": 704737,
+    "name": "Kostopil",
+    "lat": 50.87841,
+    "lng": 26.45192
+  },
+  {
+    "id": 704362,
+    "name": "Yany Kapu",
+    "lat": 45.95547,
+    "lng": 33.79261
+  },
+  {
+    "id": 700918,
+    "name": "Mohyliv-Podilskyy",
+    "lat": 48.44278,
+    "lng": 27.79975
+  },
+  {
+    "id": 693796,
+    "name": "Synelnykove",
+    "lat": 48.32362,
+    "lng": 35.52612
+  },
+  {
+    "id": 713513,
+    "name": "Alushta",
+    "lat": 44.67728,
+    "lng": 34.4097
+  },
+  {
+    "id": 691469,
+    "name": "Tokmak",
+    "lat": 47.25554,
+    "lng": 35.70836
+  },
+  {
+    "id": 694792,
+    "name": "Sarny",
+    "lat": 51.33795,
+    "lng": 26.60191
+  },
+  {
+    "id": 697576,
+    "name": "Zlatopil",
+    "lat": 49.37646,
+    "lng": 36.21848
+  },
+  {
+    "id": 706165,
+    "name": "Khust",
+    "lat": 48.17193,
+    "lng": 23.29791
+  },
+  {
+    "id": 710400,
+    "name": "Chortkiv",
+    "lat": 49.01701,
+    "lng": 25.79808
+  },
+  {
+    "id": 694910,
+    "name": "Saki",
+    "lat": 45.13424,
+    "lng": 33.59996
+  },
+  {
+    "id": 698874,
+    "name": "Novyi Rozdil",
+    "lat": 49.46864,
+    "lng": 24.13045
+  },
+  {
+    "id": 691179,
+    "name": "Truskavets",
+    "lat": 49.27832,
+    "lng": 23.50998
+  },
+  {
+    "id": 709900,
+    "name": "Dobropillia",
+    "lat": 48.46147,
+    "lng": 37.08524
+  },
+  {
+    "id": 686875,
+    "name": "Zolotonosha",
+    "lat": 49.66926,
+    "lng": 32.03637
+  },
+  {
+    "id": 706380,
+    "name": "Khmilnyk",
+    "lat": 49.5581,
+    "lng": 27.95682
+  },
+  {
+    "id": 697616,
+    "name": "Shakhtarske",
+    "lat": 48.3479,
+    "lng": 36.39637
+  },
+  {
+    "id": 712969,
+    "name": "Bakhchysarai",
+    "lat": 44.75525,
+    "lng": 33.85782
+  },
+  {
+    "id": 705797,
+    "name": "Khrestivka",
+    "lat": 48.14918,
+    "lng": 38.35944
+  },
+  {
+    "id": 703656,
+    "name": "Kupiansk",
+    "lat": 49.71003,
+    "lng": 37.61581
+  },
+  {
+    "id": 691628,
+    "name": "Ternivka",
+    "lat": 48.52656,
+    "lng": 36.07051
+  },
+  {
+    "id": 705809,
+    "name": "Holubivka",
+    "lat": 48.63751,
+    "lng": 38.6428
+  },
+  {
+    "id": 712926,
+    "name": "Balakliia",
+    "lat": 49.45595,
+    "lng": 36.84433
+  },
+  {
+    "id": 697637,
+    "name": "Pereiaslav",
+    "lat": 50.06739,
+    "lng": 31.44969
+  },
+  {
+    "id": 13513215,
+    "name": "Sofiivska Borschahivka",
+    "lat": 50.40931,
+    "lng": 30.35908
+  },
+  {
+    "id": 708901,
+    "name": "Haysyn",
+    "lat": 48.81294,
+    "lng": 29.37917
+  },
+  {
+    "id": 688746,
+    "name": "Vynohradiv",
+    "lat": 48.14126,
+    "lng": 23.03623
+  },
+  {
+    "id": 702116,
+    "name": "Malyn",
+    "lat": 50.77233,
+    "lng": 29.23833
+  },
+  {
+    "id": 697650,
+    "name": "Perevalsk",
+    "lat": 48.43779,
+    "lng": 38.84384
+  },
+  {
+    "id": 691037,
+    "name": "Oleshky",
+    "lat": 46.62553,
+    "lng": 32.72426
+  },
+  {
+    "id": 687432,
+    "name": "Zdolbuniv",
+    "lat": 50.5206,
+    "lng": 26.24251
+  },
+  {
+    "id": 6930327,
+    "name": "Slavutych",
+    "lat": 51.5225,
+    "lng": 30.71806
+  },
+  {
+    "id": 713203,
+    "name": "Armyansk",
+    "lat": 46.10919,
+    "lng": 33.69206
+  },
+  {
+    "id": 710229,
+    "name": "Debaltseve",
+    "lat": 48.338,
+    "lng": 38.40239
+  },
+  {
+    "id": 704885,
+    "name": "Korostyshiv",
+    "lat": 50.31723,
+    "lng": 29.0563
+  },
+  {
+    "id": 704000,
+    "name": "Krolevets",
+    "lat": 51.54775,
+    "lng": 33.38475
+  },
+  {
+    "id": 613273,
+    "name": "Lebedyn",
+    "lat": 50.58518,
+    "lng": 34.4849
+  },
+  {
+    "id": 706900,
+    "name": "Kaniv",
+    "lat": 49.75187,
+    "lng": 31.47003
+  },
+  {
+    "id": 709054,
+    "name": "Hadyach",
+    "lat": 50.36912,
+    "lng": 33.997
+  },
+  {
+    "id": 712423,
+    "name": "Berehove",
+    "lat": 48.20514,
+    "lng": 22.64453
+  },
+  {
+    "id": 706571,
+    "name": "Koziatyn",
+    "lat": 49.7164,
+    "lng": 28.83858
+  },
+  {
+    "id": 711416,
+    "name": "Brody",
+    "lat": 50.08791,
+    "lng": 25.15027
+  },
+  {
+    "id": 709835,
+    "name": "Dokuchaievsk",
+    "lat": 47.7522,
+    "lng": 37.67761
+  },
+  {
+    "id": 686896,
+    "name": "Zolochiv",
+    "lat": 49.80755,
+    "lng": 24.90056
+  },
+  {
+    "id": 700507,
+    "name": "Nadvirna",
+    "lat": 48.63659,
+    "lng": 24.5714
+  },
+  {
+    "id": 703428,
+    "name": "Ladyzhyn",
+    "lat": 48.68437,
+    "lng": 29.23636
+  },
+  {
+    "id": 700829,
+    "name": "Molodohvardiisk",
+    "lat": 48.34511,
+    "lng": 39.65244
+  },
+  {
+    "id": 686919,
+    "name": "Znamyanka",
+    "lat": 48.72066,
+    "lng": 32.65822
+  },
+  {
+    "id": 688723,
+    "name": "Vyshhorod",
+    "lat": 50.58476,
+    "lng": 30.4898
+  },
+  {
+    "id": 689200,
+    "name": "Vilnohirsk",
+    "lat": 48.48416,
+    "lng": 34.01708
+  },
+  {
+    "id": 692832,
+    "name": "Starobilsk",
+    "lat": 49.27719,
+    "lng": 38.91673
+  },
+  {
+    "id": 694677,
+    "name": "Selydove",
+    "lat": 48.14446,
+    "lng": 37.30058
+  },
+  {
+    "id": 704388,
+    "name": "Berestyn",
+    "lat": 49.37511,
+    "lng": 35.45493
+  },
+  {
+    "id": 712590,
+    "name": "Bilohorodka",
+    "lat": 50.38969,
+    "lng": 30.22532
+  },
+  {
+    "id": 701347,
+    "name": "Merefa",
+    "lat": 49.81861,
+    "lng": 36.05653
+  },
+  {
+    "id": 689198,
+    "name": "Volnovakha",
+    "lat": 47.6016,
+    "lng": 37.49712
+  },
+  {
+    "id": 704143,
+    "name": "Kremenets",
+    "lat": 50.09864,
+    "lng": 25.72787
+  },
+  {
+    "id": 696660,
+    "name": "Polonne",
+    "lat": 50.11944,
+    "lng": 27.50856
+  },
+  {
+    "id": 703646,
+    "name": "Kurakhovo",
+    "lat": 47.98522,
+    "lng": 37.2821
+  },
+  {
+    "id": 709755,
+    "name": "Dolyna",
+    "lat": 48.97158,
+    "lng": 23.96558
+  },
+  {
+    "id": 692254,
+    "name": "Sukhodilsk",
+    "lat": 48.35022,
+    "lng": 39.72698
+  },
+  {
+    "id": 693301,
+    "name": "Sokal",
+    "lat": 50.47438,
+    "lng": 24.28288
+  },
+  {
+    "id": 692632,
+    "name": "Stebnyk",
+    "lat": 49.30098,
+    "lng": 23.55197
+  },
+  {
+    "id": 704204,
+    "name": "Lyman",
+    "lat": 48.98616,
+    "lng": 37.80307
+  },
+  {
+    "id": 702417,
+    "name": "Liubotyn",
+    "lat": 49.94691,
+    "lng": 35.92907
+  },
+  {
+    "id": 704608,
+    "name": "Kivsharivka",
+    "lat": 49.63026,
+    "lng": 37.6775
+  },
+  {
+    "id": 691255,
+    "name": "Trostianets",
+    "lat": 50.48478,
+    "lng": 34.96567
+  },
+  {
+    "id": 705883,
+    "name": "Kiliya",
+    "lat": 45.44445,
+    "lng": 29.26396
+  },
+  {
+    "id": 708878,
+    "name": "Henichesk",
+    "lat": 46.16824,
+    "lng": 34.80861
+  },
+  {
+    "id": 696566,
+    "name": "Popasna",
+    "lat": 48.63328,
+    "lng": 38.37804
+  },
+  {
+    "id": 696943,
+    "name": "Pidhorodne",
+    "lat": 48.57422,
+    "lng": 35.09702
+  },
+  {
+    "id": 689564,
+    "name": "Vynnyky",
+    "lat": 49.81672,
+    "lng": 24.14417
+  },
+  {
+    "id": 688587,
+    "name": "Yahotyn",
+    "lat": 50.27975,
+    "lng": 31.76246
+  },
+  {
+    "id": 704492,
+    "name": "Krasyliv",
+    "lat": 49.65376,
+    "lng": 26.97211
+  },
+  {
+    "id": 712930,
+    "name": "Balaklava",
+    "lat": 44.51118,
+    "lng": 33.59942
+  },
+  {
+    "id": 12129128,
+    "name": "Reni",
+    "lat": 45.45421,
+    "lng": 28.27731
+  },
+  {
+    "id": 712886,
+    "name": "Balta",
+    "lat": 47.93596,
+    "lng": 29.62225
+  },
+  {
+    "id": 707155,
+    "name": "Kalynivka",
+    "lat": 49.46129,
+    "lng": 28.51541
+  },
+  {
+    "id": 689159,
+    "name": "Volochysk",
+    "lat": 49.53606,
+    "lng": 26.20681
+  },
+  {
+    "id": 708251,
+    "name": "Hostomel",
+    "lat": 50.56841,
+    "lng": 30.2651
+  },
+  {
+    "id": 709782,
+    "name": "Dolynska",
+    "lat": 48.11725,
+    "lng": 32.77691
+  },
+  {
+    "id": 695357,
+    "name": "Kurakhove",
+    "lat": 47.9847,
+    "lng": 37.27937
+  },
+  {
+    "id": 695965,
+    "name": "Pyatykhatky",
+    "lat": 48.40821,
+    "lng": 33.70919
+  },
+  {
+    "id": 704138,
+    "name": "Kreminna",
+    "lat": 49.0495,
+    "lng": 38.21893
+  },
+  {
+    "id": 696677,
+    "name": "Polohy",
+    "lat": 47.47865,
+    "lng": 36.25463
+  },
+  {
+    "id": 713504,
+    "name": "Amvrosiivka",
+    "lat": 47.79273,
+    "lng": 38.4782
+  },
+  {
+    "id": 693709,
+    "name": "Skadovsk",
+    "lat": 46.11313,
+    "lng": 32.90978
+  },
+  {
+    "id": 686818,
+    "name": "Zuhres",
+    "lat": 48.01428,
+    "lng": 38.26599
+  },
+  {
+    "id": 695344,
+    "name": "Rozdilna",
+    "lat": 46.85479,
+    "lng": 30.07091
+  },
+  {
+    "id": 711894,
+    "name": "Bohodukhiv",
+    "lat": 50.16464,
+    "lng": 35.52725
+  },
+  {
+    "id": 704858,
+    "name": "Korsun-Shevchenkivskyy",
+    "lat": 49.41822,
+    "lng": 31.25174
+  },
+  {
+    "id": 709960,
+    "name": "Dniprorudne",
+    "lat": 47.38993,
+    "lng": 35.00065
+  },
+  {
+    "id": 712374,
+    "name": "Berezhany",
+    "lat": 49.44578,
+    "lng": 24.93686
+  },
+  {
+    "id": 704670,
+    "name": "Kotsiubynske",
+    "lat": 50.48836,
+    "lng": 30.32957
+  },
+  {
+    "id": 689304,
+    "name": "Vovchansk",
+    "lat": 50.29078,
+    "lng": 36.94108
+  },
+  {
+    "id": 693615,
+    "name": "Skvyra",
+    "lat": 49.73303,
+    "lng": 29.66426
+  },
+  {
+    "id": 710098,
+    "name": "Derhachi",
+    "lat": 50.10659,
+    "lng": 36.12112
+  },
+  {
+    "id": 692129,
+    "name": "Svalyava",
+    "lat": 48.54735,
+    "lng": 22.98673
+  },
+  {
+    "id": 702563,
+    "name": "Lutuhyne",
+    "lat": 48.40507,
+    "lng": 39.22675
+  },
+  {
+    "id": 700696,
+    "name": "Mostyska",
+    "lat": 49.79467,
+    "lng": 23.15077
+  },
+  {
+    "id": 712967,
+    "name": "Bakhmach",
+    "lat": 51.18144,
+    "lng": 32.83463
+  },
+  {
+    "id": 693920,
+    "name": "Shpola",
+    "lat": 49.01291,
+    "lng": 31.3926
+  },
+  {
+    "id": 692315,
+    "name": "Sudak",
+    "lat": 44.84924,
+    "lng": 34.97471
+  },
+  {
+    "id": 686803,
+    "name": "Zvenihorodka",
+    "lat": 49.07765,
+    "lng": 30.96074
+  },
+  {
+    "id": 699078,
+    "name": "Novoukrayinka",
+    "lat": 48.31661,
+    "lng": 31.52355
+  },
+  {
+    "id": 712587,
+    "name": "Bilohirsk",
+    "lat": 45.05679,
+    "lng": 34.60386
+  },
+  {
+    "id": 712389,
+    "name": "Berezan",
+    "lat": 50.3112,
+    "lng": 31.46712
+  },
+  {
+    "id": 707296,
+    "name": "Iziaslav",
+    "lat": 50.11978,
+    "lng": 26.82475
+  },
+  {
+    "id": 692118,
+    "name": "Svatove",
+    "lat": 49.40719,
+    "lng": 38.15362
+  },
+  {
+    "id": 707752,
+    "name": "Horodok",
+    "lat": 49.17209,
+    "lng": 26.56357
+  },
+  {
+    "id": 708313,
+    "name": "Horodok",
+    "lat": 49.78465,
+    "lng": 23.64806
+  },
+  {
+    "id": 713245,
+    "name": "Apostolove",
+    "lat": 47.65983,
+    "lng": 33.71952
+  },
+  {
+    "id": 705183,
+    "name": "Slobozhans’ke",
+    "lat": 49.59701,
+    "lng": 36.52618
+  },
+  {
+    "id": 711867,
+    "name": "Bohuslav",
+    "lat": 49.54637,
+    "lng": 30.87407
+  },
+  {
+    "id": 690312,
+    "name": "Bahacheve",
+    "lat": 49.01198,
+    "lng": 31.04659
+  },
+  {
+    "id": 11139610,
+    "name": "Revivka",
+    "lat": 49.17771,
+    "lng": 33.74415
+  },
+  {
+    "id": 709429,
+    "name": "Dunayivtsi",
+    "lat": 48.88697,
+    "lng": 26.84816
+  },
+  {
+    "id": 695859,
+    "name": "Rakhiv",
+    "lat": 48.05472,
+    "lng": 24.20314
+  },
+  {
+    "id": 712559,
+    "name": "Bilopillia",
+    "lat": 51.15016,
+    "lng": 34.31287
+  },
+  {
+    "id": 689916,
+    "name": "Verkhnodniprovsk",
+    "lat": 48.65557,
+    "lng": 34.3262
+  },
+  {
+    "id": 707679,
+    "name": "Ilovays’k",
+    "lat": 47.92498,
+    "lng": 38.20235
+  },
+  {
+    "id": 712861,
+    "name": "Bar",
+    "lat": 49.07362,
+    "lng": 27.67404
+  },
+  {
+    "id": 698131,
+    "name": "Ovruch",
+    "lat": 51.3246,
+    "lng": 28.80351
+  },
+  {
+    "id": 695912,
+    "name": "Radomyshl",
+    "lat": 50.49613,
+    "lng": 29.22911
+  },
+  {
+    "id": 710548,
+    "name": "Chervonopartyzansk",
+    "lat": 48.07613,
+    "lng": 39.79618
+  },
+  {
+    "id": 711841,
+    "name": "Bolhrad",
+    "lat": 45.67786,
+    "lng": 28.61811
+  },
+  {
+    "id": 689584,
+    "name": "Vilnyansk",
+    "lat": 47.94768,
+    "lng": 35.44034
+  },
+  {
+    "id": 691016,
+    "name": "Tulchyn",
+    "lat": 48.67397,
+    "lng": 28.86848
+  }
+]
