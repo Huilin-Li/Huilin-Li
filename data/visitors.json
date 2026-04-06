@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-06T09:19:49.947Z",
+  "updatedAt": "2026-04-06T09:23:51.311Z",
   "maxChangesPerUser": 30000,
   "countries": {
     "CN": {
@@ -12,10 +12,10 @@
     },
     "DK": {
       "users": {
-        "Huilin-Li": "2026-04-01T10:33:15Z"
+        "Huilin-Li": "2026-04-06T09:23:36Z"
       },
       "firstUser": "Huilin-Li",
-      "lastAt": "2026-04-01T10:33:15Z"
+      "lastAt": "2026-04-06T09:23:36Z"
     },
     "FR": {
       "users": {
@@ -151,13 +151,18 @@
           "iso": "FR",
           "city": "Cannes",
           "visitedAt": "2026-04-06T09:19:38Z"
+        },
+        {
+          "iso": "DK",
+          "city": "Odense",
+          "visitedAt": "2026-04-06T09:23:36Z"
         }
       ],
       "changesUsed": 0,
       "current": {
-        "iso": "FR",
-        "city": "Cannes",
-        "helloAt": "2026-04-06T09:19:38Z"
+        "iso": "DK",
+        "city": "Odense",
+        "helloAt": "2026-04-06T09:23:36Z"
       }
     }
   }
