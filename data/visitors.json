@@ -1,14 +1,14 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-06T09:15:47.138Z",
+  "updatedAt": "2026-04-06T09:16:07.681Z",
   "maxChangesPerUser": 30000,
   "countries": {
     "CN": {
       "users": {
-        "Huilin-Li": "2026-04-06T09:15:27Z"
+        "Huilin-Li": "2026-04-06T09:15:57Z"
       },
       "firstUser": "Huilin-Li",
-      "lastAt": "2026-04-06T09:15:27Z"
+      "lastAt": "2026-04-06T09:15:57Z"
     },
     "DK": {
       "users": {
@@ -131,13 +131,18 @@
           "iso": "CN",
           "city": "Nanjing",
           "visitedAt": "2026-04-06T09:15:27Z"
+        },
+        {
+          "iso": "CN",
+          "city": "Changsha",
+          "visitedAt": "2026-04-06T09:15:57Z"
         }
       ],
       "changesUsed": 0,
       "current": {
         "iso": "CN",
-        "city": "Nanjing",
-        "helloAt": "2026-04-06T09:15:27Z"
+        "city": "Changsha",
+        "helloAt": "2026-04-06T09:15:57Z"
       }
     }
   }
