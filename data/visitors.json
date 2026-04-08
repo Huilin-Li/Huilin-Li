@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-04-07T07:27:24.818Z",
+  "updatedAt": "2026-04-08T08:23:01.247Z",
   "maxChangesPerUser": 30000,
   "countries": {
     "CN": {
@@ -26,10 +26,10 @@
     },
     "NL": {
       "users": {
-        "Huilin-Li": "2026-04-07T07:27:14Z"
+        "Huilin-Li": "2026-04-08T08:22:46Z"
       },
       "firstUser": "Huilin-Li",
-      "lastAt": "2026-04-07T07:27:14Z"
+      "lastAt": "2026-04-08T08:22:46Z"
     },
     "MC": {
       "users": {
@@ -203,13 +203,18 @@
           "iso": "NL",
           "city": "Eindhoven",
           "visitedAt": "2026-04-07T07:27:14Z"
+        },
+        {
+          "iso": "NL",
+          "city": "Delft",
+          "visitedAt": "2026-04-08T08:22:46Z"
         }
       ],
       "changesUsed": 0,
       "current": {
         "iso": "NL",
-        "city": "Eindhoven",
-        "helloAt": "2026-04-07T07:27:14Z"
+        "city": "Delft",
+        "helloAt": "2026-04-08T08:22:46Z"
       }
     }
   }
