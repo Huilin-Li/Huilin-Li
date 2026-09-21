@@ -56,12 +56,17 @@
         },
         {
           "iso": "IT",
-          "city": "Ossana",
+          "city": "Milan",
           "visitedAt": "2026-09-01T10:32:53Z"
         },
         {
           "iso": "DK",
-          "city": null,
+          "city": "Copenhagen",
+          "visitedAt": "2026-04-01T10:33:15Z"
+        },
+        {
+          "iso": "DK",
+          "city": "Odense",
           "visitedAt": "2026-04-01T10:33:15Z"
         },
         {
