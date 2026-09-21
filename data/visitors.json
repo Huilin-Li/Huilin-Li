@@ -37,6 +37,13 @@
       },
       "firstUser": "Huilin-Li",
       "lastAt": "2026-04-06T08:41:45Z"
+    },
+    "IT": {
+      "users": {
+        "Huilin-Li": "2026-09-06T08:41:45Z"
+      },
+      "firstUser": "Huilin-Li",
+      "lastAt": "2026-09-06T08:41:45Z"
     }
   },
   "users": {
@@ -46,6 +53,11 @@
           "iso": "CN",
           "city": "Beijing",
           "visitedAt": "2026-04-01T10:32:53Z"
+        },
+        {
+          "iso": "IT",
+          "city": "Ossana",
+          "visitedAt": "2026-09-01T10:32:53Z"
         },
         {
           "iso": "DK",
