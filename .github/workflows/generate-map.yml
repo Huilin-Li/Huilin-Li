@@ -25,10 +25,6 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
-        run: |
-          pip install pycountry
-
       - name: Generate map
         run: |
           python generate_map.py
