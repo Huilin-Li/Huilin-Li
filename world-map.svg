@@ -43,7 +43,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >10</text>
+    >11</text>
 
 
     <!-- Divider -->
@@ -76,7 +76,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >5</text>
+    >4</text>
 
 
     <!-- World -->
@@ -34432,19 +34432,36 @@
             fill="#58a6ff"
         />
     
-        <!-- Tokyo -->
+        <!-- Nice -->
 
         <circle
-            cx="1065.50"
-            cy="229.95"
+            cx="624.20"
+            cy="206.30"
             r="4"
             fill="#58a6ff"
             opacity="0.15"
         />
 
         <circle
-            cx="1065.50"
-            cy="229.95"
+            cx="624.20"
+            cy="206.30"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Menton -->
+
+        <circle
+            cx="625.00"
+            cy="206.12"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="625.00"
+            cy="206.12"
             r="1.5"
             fill="#58a6ff"
         />
@@ -34469,7 +34486,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇮🇹</text>
+        >🇫🇷</text>
 
         <text
             x="120"
@@ -34478,7 +34495,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >3 hellos</text>
+        >5 hellos</text>
         
         <text
             x="240"
@@ -34486,7 +34503,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇫🇷</text>
+        >🇮🇹</text>
 
         <text
             x="300"
@@ -34524,23 +34541,6 @@
 
         <text
             x="120"
-            y="669"
-            text-anchor="end"
-            fill="#8b949e"
-            font-family="Arial, sans-serif"
-            font-size="12"
-        >1 hello</text>
-        
-        <text
-            x="240"
-            y="669"
-            fill="#c9d1d9"
-            font-family="Arial, sans-serif"
-            font-size="12"
-        >🇯🇵</text>
-
-        <text
-            x="300"
             y="669"
             text-anchor="end"
             fill="#8b949e"
