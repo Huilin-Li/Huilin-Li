@@ -43,7 +43,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >9</text>
+    >10</text>
 
 
     <!-- Divider -->
@@ -76,7 +76,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >4</text>
+    >5</text>
 
 
     <!-- World -->
@@ -34432,6 +34432,23 @@
             fill="#58a6ff"
         />
     
+        <!-- Tokyo -->
+
+        <circle
+            cx="1065.50"
+            cy="229.95"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="1065.50"
+            cy="229.95"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
 
 
     <!-- Country statistics -->
@@ -34507,6 +34524,23 @@
 
         <text
             x="120"
+            y="669"
+            text-anchor="end"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >1 hello</text>
+        
+        <text
+            x="240"
+            y="669"
+            fill="#c9d1d9"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >🇯🇵</text>
+
+        <text
+            x="300"
             y="669"
             text-anchor="end"
             fill="#8b949e"
