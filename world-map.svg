@@ -1,7 +1,7 @@
 
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 1200 733"
+    viewBox="0 0 1200 757"
 >
 
     <!-- Background -->
@@ -43,7 +43,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >34</text>
+    >41</text>
 
 
     <!-- Divider -->
@@ -76,7 +76,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >6</text>
+    >8</text>
 
 
     <!-- World -->
@@ -34857,6 +34857,125 @@
             fill="#58a6ff"
         />
     
+        <!-- Monaco -->
+
+        <circle
+            cx="624.74"
+            cy="206.22"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="624.74"
+            cy="206.22"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Malmo -->
+
+        <circle
+            cx="643.29"
+            cy="171.26"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="643.29"
+            cy="171.26"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Lund -->
+
+        <circle
+            cx="644.09"
+            cy="170.98"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="644.09"
+            cy="170.98"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Gothenburg -->
+
+        <circle
+            cx="639.91"
+            cy="165.11"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="639.91"
+            cy="165.11"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Linköping -->
+
+        <circle
+            cx="652.04"
+            cy="163.02"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="652.04"
+            cy="163.02"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Älmhult -->
+
+        <circle
+            cx="647.13"
+            cy="168.49"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="647.13"
+            cy="168.49"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Stockholm -->
+
+        <circle
+            cx="660.17"
+            cy="160.32"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="660.17"
+            cy="160.32"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
 
 
     <!-- Country statistics -->
@@ -34911,7 +35030,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇫🇷</text>
+        >🇸🇪</text>
 
         <text
             x="480"
@@ -34920,7 +35039,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >5 hellos</text>
+        >6 hellos</text>
         
         <text
             x="60"
@@ -34928,7 +35047,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇮🇹</text>
+        >🇫🇷</text>
 
         <text
             x="120"
@@ -34937,7 +35056,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >3 hellos</text>
+        >5 hellos</text>
         
         <text
             x="240"
@@ -34945,7 +35064,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇩🇰</text>
+        >🇮🇹</text>
 
         <text
             x="300"
@@ -34954,7 +35073,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >2 hellos</text>
+        >3 hellos</text>
         
         <text
             x="420"
@@ -34962,11 +35081,45 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇧🇪</text>
+        >🇩🇰</text>
 
         <text
             x="480"
             y="669"
+            text-anchor="end"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >2 hellos</text>
+        
+        <text
+            x="60"
+            y="693"
+            fill="#c9d1d9"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >🇧🇪</text>
+
+        <text
+            x="120"
+            y="693"
+            text-anchor="end"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >1 hello</text>
+        
+        <text
+            x="240"
+            y="693"
+            fill="#c9d1d9"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >🌍</text>
+
+        <text
+            x="300"
+            y="693"
             text-anchor="end"
             fill="#8b949e"
             font-family="Arial, sans-serif"
