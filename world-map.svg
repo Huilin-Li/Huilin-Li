@@ -43,7 +43,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >26</text>
+    >34</text>
 
 
     <!-- Divider -->
@@ -76,7 +76,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >5</text>
+    >6</text>
 
 
     <!-- World -->
@@ -34721,6 +34721,142 @@
             fill="#58a6ff"
         />
     
+        <!-- Groningen -->
+
+        <circle
+            cx="621.85"
+            cy="178.28"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="621.85"
+            cy="178.28"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Amsterdam -->
+
+        <circle
+            cx="616.19"
+            cy="180.83"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="616.19"
+            cy="180.83"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Eindhoven -->
+
+        <circle
+            cx="618.28"
+            cy="183.56"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="618.28"
+            cy="183.56"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Maastricht -->
+
+        <circle
+            cx="618.97"
+            cy="185.26"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="618.97"
+            cy="185.26"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Rotterdam -->
+
+        <circle
+            cx="614.89"
+            cy="182.12"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="614.89"
+            cy="182.12"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Delft -->
+
+        <circle
+            cx="614.51"
+            cy="181.87"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="614.51"
+            cy="181.87"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Den Haag -->
+
+        <circle
+            cx="614.31"
+            cy="181.68"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="614.31"
+            cy="181.68"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Leiden -->
+
+        <circle
+            cx="614.95"
+            cy="181.40"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="614.95"
+            cy="181.40"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
 
 
     <!-- Country statistics -->
@@ -34758,7 +34894,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇫🇷</text>
+        >🇳🇱</text>
 
         <text
             x="300"
@@ -34767,7 +34903,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >5 hellos</text>
+        >8 hellos</text>
         
         <text
             x="420"
@@ -34775,7 +34911,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇮🇹</text>
+        >🇫🇷</text>
 
         <text
             x="480"
@@ -34784,7 +34920,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >3 hellos</text>
+        >5 hellos</text>
         
         <text
             x="60"
@@ -34792,7 +34928,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇩🇰</text>
+        >🇮🇹</text>
 
         <text
             x="120"
@@ -34801,7 +34937,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >2 hellos</text>
+        >3 hellos</text>
         
         <text
             x="240"
@@ -34809,10 +34945,27 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇧🇪</text>
+        >🇩🇰</text>
 
         <text
             x="300"
+            y="669"
+            text-anchor="end"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >2 hellos</text>
+        
+        <text
+            x="420"
+            y="669"
+            fill="#c9d1d9"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >🇧🇪</text>
+
+        <text
+            x="480"
             y="669"
             text-anchor="end"
             fill="#8b949e"
