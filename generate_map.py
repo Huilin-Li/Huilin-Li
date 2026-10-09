@@ -14,13 +14,13 @@ TITLE = "Say hello to 🌏"
 with open("cities.csv", "r", encoding="utf-8") as f:
     lines = f.read().splitlines()
 
-headers = lines[0].split("\t")
+headers = lines[0].split(",")
 
 cities = []
 
 for line in lines[1:]:
 
-    values = line.split("\t")
+    values = line.split(",")
 
     city = {}
 
