@@ -43,7 +43,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >11</text>
+    >26</text>
 
 
     <!-- Divider -->
@@ -76,7 +76,7 @@
         font-family="Arial, sans-serif"
         font-size="16"
         font-weight="600"
-    >4</text>
+    >5</text>
 
 
     <!-- World -->
@@ -34466,6 +34466,261 @@
             fill="#58a6ff"
         />
     
+        <!-- Beijing -->
+
+        <circle
+            cx="987.94"
+            cy="217.49"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="987.94"
+            cy="217.49"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Tianjing -->
+
+        <circle
+            cx="990.61"
+            cy="219.90"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="990.61"
+            cy="219.90"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Shijiazhuang -->
+
+        <circle
+            cx="981.70"
+            cy="222.98"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="981.70"
+            cy="222.98"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Hangzhou -->
+
+        <circle
+            cx="1000.54"
+            cy="245.84"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="1000.54"
+            cy="245.84"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Shanghai -->
+
+        <circle
+            cx="1004.72"
+            cy="243.03"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="1004.72"
+            cy="243.03"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Changsha -->
+
+        <circle
+            cx="976.50"
+            cy="251.87"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="976.50"
+            cy="251.87"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Wuhan -->
+
+        <circle
+            cx="981.01"
+            cy="244.89"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="981.01"
+            cy="244.89"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Shenzhen -->
+
+        <circle
+            cx="980.14"
+            cy="268.46"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="980.14"
+            cy="268.46"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Nanning -->
+
+        <circle
+            cx="960.98"
+            cy="267.81"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="960.98"
+            cy="267.81"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Shaoxing -->
+
+        <circle
+            cx="1001.95"
+            cy="246.68"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="1001.95"
+            cy="246.68"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Huzhou -->
+
+        <circle
+            cx="1000.31"
+            cy="244.04"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="1000.31"
+            cy="244.04"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Nanjing -->
+
+        <circle
+            cx="995.94"
+            cy="240.59"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="995.94"
+            cy="240.59"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Suzhou -->
+
+        <circle
+            cx="1001.90"
+            cy="242.84"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="1001.90"
+            cy="242.84"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Taian -->
+
+        <circle
+            cx="990.28"
+            cy="228.41"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="990.28"
+            cy="228.41"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
+        <!-- Chende -->
+
+        <circle
+            cx="993.21"
+            cy="214.42"
+            r="4"
+            fill="#58a6ff"
+            opacity="0.15"
+        />
+
+        <circle
+            cx="993.21"
+            cy="214.42"
+            r="1.5"
+            fill="#58a6ff"
+        />
+    
 
 
     <!-- Country statistics -->
@@ -34486,7 +34741,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇫🇷</text>
+        >🇨🇳</text>
 
         <text
             x="120"
@@ -34495,7 +34750,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >5 hellos</text>
+        >15 hellos</text>
         
         <text
             x="240"
@@ -34503,7 +34758,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇮🇹</text>
+        >🇫🇷</text>
 
         <text
             x="300"
@@ -34512,7 +34767,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >3 hellos</text>
+        >5 hellos</text>
         
         <text
             x="420"
@@ -34520,7 +34775,7 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇩🇰</text>
+        >🇮🇹</text>
 
         <text
             x="480"
@@ -34529,7 +34784,7 @@
             fill="#8b949e"
             font-family="Arial, sans-serif"
             font-size="12"
-        >2 hellos</text>
+        >3 hellos</text>
         
         <text
             x="60"
@@ -34537,10 +34792,27 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🇧🇪</text>
+        >🇩🇰</text>
 
         <text
             x="120"
+            y="669"
+            text-anchor="end"
+            fill="#8b949e"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >2 hellos</text>
+        
+        <text
+            x="240"
+            y="669"
+            fill="#c9d1d9"
+            font-family="Arial, sans-serif"
+            font-size="12"
+        >🇧🇪</text>
+
+        <text
+            x="300"
             y="669"
             text-anchor="end"
             fill="#8b949e"
