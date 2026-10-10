@@ -69,6 +69,7 @@ def country_to_flag(country):
         "Portugal": "PT",
         "Netherlands": "NL",
         "Belgium": "BE",
+        "Monaco": "MC",
     }
 
     code = country_codes.get(country)
@@ -260,7 +261,7 @@ for i, (country, count) in enumerate(country_items):
         >{flag}</text>
 
         <text
-            x="{x + 60}"
+            x="{x + 90}"
             y="{y}"
             text-anchor="end"
             fill="#8b949e"
