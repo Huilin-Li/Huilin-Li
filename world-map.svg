@@ -34999,7 +34999,7 @@
         >🇨🇳</text>
 
         <text
-            x="120"
+            x="150"
             y="645"
             text-anchor="end"
             fill="#8b949e"
@@ -35016,7 +35016,7 @@
         >🇳🇱</text>
 
         <text
-            x="300"
+            x="330"
             y="645"
             text-anchor="end"
             fill="#8b949e"
@@ -35033,7 +35033,7 @@
         >🇸🇪</text>
 
         <text
-            x="480"
+            x="510"
             y="645"
             text-anchor="end"
             fill="#8b949e"
@@ -35050,7 +35050,7 @@
         >🇫🇷</text>
 
         <text
-            x="120"
+            x="150"
             y="669"
             text-anchor="end"
             fill="#8b949e"
@@ -35067,7 +35067,7 @@
         >🇮🇹</text>
 
         <text
-            x="300"
+            x="330"
             y="669"
             text-anchor="end"
             fill="#8b949e"
@@ -35084,7 +35084,7 @@
         >🇩🇰</text>
 
         <text
-            x="480"
+            x="510"
             y="669"
             text-anchor="end"
             fill="#8b949e"
@@ -35101,7 +35101,7 @@
         >🇧🇪</text>
 
         <text
-            x="120"
+            x="150"
             y="693"
             text-anchor="end"
             fill="#8b949e"
@@ -35115,10 +35115,10 @@
             fill="#c9d1d9"
             font-family="Arial, sans-serif"
             font-size="12"
-        >🌍</text>
+        >🇲🇨</text>
 
         <text
-            x="300"
+            x="330"
             y="693"
             text-anchor="end"
             fill="#8b949e"
